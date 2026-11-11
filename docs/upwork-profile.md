@@ -55,7 +55,7 @@ Balance 53 (Nov 9, 2026). Ask the job's Connects cost each time.
 ## Upwork rules — verified against the official Help Center (Nov 11, 2026)
 Source: support.upwork.com articles (public Zendesk API). Prefer these over memory.
 - Specialized Profiles removed May 28, 2026; single dynamic profile highlights the most relevant portfolio/skills per job.
-- Overview: ~first 250 characters show in search. No links except own Project Catalog URL; no contact info anywhere pre-contract.
+- Overview: ~first 250 characters show in search. NO links at all in practice: the UI rejected even his own Project Catalog URL (Nov 11, 2026), despite the Help Center saying it is allowed. No contact info anywhere pre-contract.
 - Portfolio items and LINKED SITES must not contain email/phone/other contact info. Use mbo-solutions.com/examples/en/* demos (demo bar has no link to contacts); never link mbo-solutions.com/ or /portfolio/ (they show phone/Telegram). Portfolio item: title 70, role 100, description 600 chars, 5 skill tags, images 1000x750.
 - Photo: head & shoulders, simple background, NOT digitally altered (background-replaced avatars are risky -> use the original Carpathian-background crop).
 - Freelancer Service Fee: 0–15% per contract, shown before submitting; price for net. 10% was only one job.
