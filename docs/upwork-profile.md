@@ -2,7 +2,8 @@
 
 Owner: Bogdan M. (Bohdan Mudryk), MBO Solutions, Lviv, Ukraine. Military veteran badge, ID verified.
 Profile title: Full-Stack Developer | React, Node.js | Websites & Web Apps
-Rate: $15/hr (raise to $20 after 3–5 reviews); portfolio on Upwork: LUMEX, AURUM, Khmara, BLADE, Pivonia, Dentavia, TIREHUB, GLOSSLAB (English demos under /examples/en/) (fixed-price small jobs $25–80 are welcome to build history). Experience level: Intermediate.
+Profile URL: https://www.upwork.com/freelancers/bohdanmudryk (custom, Nov 12 2026; old ~01dcfc69ab21ba8434 link is used in demo bars). Categories: Web Development, AI Apps & Integration, Ecommerce Development, Scripts & Utilities, Web & Mobile Design.
+Rate: $15/hr (raise to $20 after 3–5 reviews); portfolio on Upwork: LUMEX, Jarvis (AI assistant), MBO Leads (AI job bot), AURUM, Khmara, BLADE, Pivonia, Dentavia, TIREHUB, GLOSSLAB (English demos under /examples/en/) (fixed-price small jobs $25–80 are welcome to build history). Experience level: Intermediate.
 English: writes via AI-assisted translation; prefers written communication. Never promise calls in English.
 
 ## Identity line facts
