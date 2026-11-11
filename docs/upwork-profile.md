@@ -51,3 +51,9 @@ Balance 53 (Nov 9, 2026). Ask the job's Connects cost each time.
 ## Proposals sent
 - Nov 9: "Finish CMS in React.js" ($200 fixed, 2 milestones), boosted, later outbid.
 - Nov 10: "React App Developer Needed" ($130 fixed, React/RN/Cordova; honest note about little Cordova experience).
+
+## Upwork platform facts (checked Nov 11, 2026)
+- Specialized Profiles were removed on May 28, 2026: one profile only, and Upwork highlights the most relevant portfolio items and skills per client automatically ("dynamic profile"). Don't suggest specialized profiles.
+- Up to 20 skills per profile.
+- Secondary services go into Project Catalog listings (own title/description). Catalog was redesigned in spring 2026 and reportedly favors fresh listings.
+- Saved search job alerts: max 3 active.
