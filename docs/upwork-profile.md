@@ -41,3 +41,13 @@ Note: everything except LUMEX is a demo/concept — describe as "demo" or "conce
 
 ## Connects
 Balance 53 (Nov 9, 2026). Ask the job's Connects cost each time.
+
+## Project Catalog (status, Nov 11, 2026)
+- Project 1 "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110, category Website & CMS Bug Fixes): submitted for review Nov 11.
+- Project 2 "AI chatbot that answers clients and takes bookings" ($150/$300/$600): publish 2–3 days after Project 1 is approved.
+- Project 3 "Mobile-first landing page with online booking" ($120/$250/$450): publish a few days after Project 2.
+- Texts and covers: works/out/upwork/catalog (catalog-texts.md, 1-fix.jpg, 2-chatbot.jpg, 3-landing.jpg). Not boosted yet; share links on Threads/Instagram after approval.
+
+## Proposals sent
+- Nov 9: "Finish CMS in React.js" ($200 fixed, 2 milestones), boosted, later outbid.
+- Nov 10: "React App Developer Needed" ($130 fixed, React/RN/Cordova; honest note about little Cordova experience).
