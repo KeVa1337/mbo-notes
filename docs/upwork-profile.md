@@ -75,3 +75,8 @@ Source: support.upwork.com articles (public Zendesk API). Prefer these over memo
 - Profile completeness: photo+overview+1 employment+1 skill = 50%; portfolio 5% each (max 20%), education, video 10%, linked account 10%, certifications 5% each. Complete profiles rank higher.
 - Automation: Upwork blocks bots scraping/automating; no polling. Official route is Upwork MCP (limits 15/min, 150/h, 750/day). Use Plus instant alerts instead.
 - UI facts seen in his account: saved-search alerts up to 3; skills up to 20 (docs conflict 15 vs 20).
+
+## Setup status (Nov 12, 2026)
+- Done: avatar, categories, custom URL, certificates (no expiry), Jarvis + MBO Leads portfolio items, Open for work badge (max 14 Connects/week, review Nov 19), contract-to-hire on, video intro (reused Fiverr video).
+- GitHub: public showcase repo KeVa1337/freelance-jobs-bot (clean copy of mbo-leads, no personal email); mbo-leads stays private (deploy). hundred_garage stays private (has gmail in commits).
+- Next: catalog Project 2 (AI chatbot) ~Nov 14, Project 3 (landing) 2–3 days later; 1–2 proposals a day; English test skipped for now.
