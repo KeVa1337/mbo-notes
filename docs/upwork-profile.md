@@ -79,4 +79,6 @@ Source: support.upwork.com articles (public Zendesk API). Prefer these over memo
 ## Setup status (Nov 12, 2026)
 - Done: avatar, categories, custom URL, certificates (no expiry), Jarvis + MBO Leads portfolio items, Open for work badge (max 14 Connects/week, review Nov 19), contract-to-hire on, video intro (reused Fiverr video).
 - GitHub: public showcase repo KeVa1337/freelance-jobs-bot (clean copy of mbo-leads, no personal email); mbo-leads stays private (deploy). hundred_garage stays private (has gmail in commits).
+- Nov 12: Payoneer withdrawal (schedule to switch Quarterly→Monthly), W-8BEN re-certified (valid to Dec 31, 2029, name Mudryk Bohdan), 2FA via authenticator + app, employment history and other experience filled.
+- Later: Duolingo English Test practice first (take paid test only if 120+).
 - Next: catalog Project 2 (AI chatbot) ~Nov 14, Project 3 (landing) 2–3 days later; 1–2 proposals a day; English test skipped for now.
