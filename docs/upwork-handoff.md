@@ -30,6 +30,11 @@ Extra queries to try (same filters):
 - Hourly check priority (Nov 12, from docs/upwork-competitors.md): A) least competition: telegram bot/bot, fix/bug/finish/deploy, lovable/bolt/supabase, react/next/node; B) booking sites, landing pages; C) AI chatbot/agent/openai/claude/rag/llm only if <15 proposals and budget ≥ ~$150 (chatbot jobs get 45–269 proposals, Telegram 18–72).
 - proposals_max raised to 15; small fixed first jobs $40–150 with a 'test ride' first milestone are welcome.
 
+## First reviews mode (from Nov 12, Bohdan: "get first orders ASAP, anything I can do with Claude")
+Take any clearly scoped 1–15 h task doable with Claude: code, scripts (Python/JS/Apps Script), integrations, webhooks, n8n/Make/Zapier, Chrome extensions, layout fixes, small WordPress/Shopify/Webflow code tweaks, data migration, public-data scraping within site rules, code docs.
+Budget ≥ ~$25 fixed or $10+/hr. Skip: unverified payment; calls/Loom/voice in English required; long full-time; native mobile; pure design/video/marketing/sales/VA/data entry; >15 proposals or hire made; shady tasks.
+Priority: <5 proposals, posted <2 h, client with hire history. Proposal: short, concrete plan, slightly below-market price for the first review, first milestone deliverable in 24–48 h.
+
 ## Job filter (skip if any)
 - Payment unverified
 - Rate/budget below ~$15/hr effective ($3-12/hr jobs are common, skip)
