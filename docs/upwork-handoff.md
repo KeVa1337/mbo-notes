@@ -27,7 +27,8 @@ Extra queries to try (same filters):
 - `"google sheets" OR "apps script" OR "google api" OR "automation script"`
 - `(react OR "next.js") (bug OR fix OR error OR "not working" OR broken)`
 - `ukrainian OR ukraine OR russian` (no category)
-- Hourly check also searches titles: rag, llm, ai agent, openai, claude (AI integrations pay best, priority if budget ≥ ~$150).
+- Hourly check priority (Nov 12, from docs/upwork-competitors.md): A) least competition: telegram bot/bot, fix/bug/finish/deploy, lovable/bolt/supabase, react/next/node; B) booking sites, landing pages; C) AI chatbot/agent/openai/claude/rag/llm only if <15 proposals and budget ≥ ~$150 (chatbot jobs get 45–269 proposals, Telegram 18–72).
+- proposals_max raised to 15; small fixed first jobs $40–150 with a 'test ride' first milestone are welcome.
 
 ## Job filter (skip if any)
 - Payment unverified
