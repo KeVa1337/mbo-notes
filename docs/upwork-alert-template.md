@@ -20,7 +20,10 @@ All text in Ukrainian except the proposal itself (English).
 🔗 <job url>
 ```
 PushNotification: one line, e.g. `🟢 Upwork: <title>, <budget>, <n> заявок, <cost> Connects. Заявка готова.`
-Telegram (only if POST https://jarvis.mbo-solutions.com/api/notify with JSON {"text": ...} works; the network secret adds X-Notify-Token): send the short version above.
+Telegram: POST https://jarvis.mbo-solutions.com/api/notify (the network secret adds X-Notify-Token; send header `X-Notify-Token: proxy-injected`) with JSON
+`{"text": <short version as Telegram HTML>, "html": true, "kind": "upwork", "buttons": [{"text": "🔗 Відкрити вакансію", "url": <job url>}, {"text": "💬 Відповісти в Claude", "url": "https://claude.ai/code/session_0114m5SukjDLxgxkoUMJ2CCb"}]}`.
+HTML style (approved look): first line `🟢 <b>UPWORK · ВАРТА ВАКАНСІЯ</b>`, blank line, `<b>title</b>`, then 💰 budget · ⏱ age / 📨 proposals · interviews / 🎟 Connects <i>(лишиться N)</i>, blank line, `👤 <b>Клієнт</b>` with ├ └ lines, `✅ <b>Чому варто</b>` bullets, `⚠️ <b>Ризик</b>` bullets, `<blockquote>Заявка готова в Claude. Відповідь: <b>так</b> / <b>змінити</b> / <b>ні</b></blockquote>`. Escape &, <, > in job text. Don't put the job URL in the text (it's the button).
+Client viewed/replied/invite notices: same endpoint, "kind": "upwork", short HTML text + the job button.
 
 ## 2. Full version (in the Claude chat)
 - Title with link.
