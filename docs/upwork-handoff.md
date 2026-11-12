@@ -36,6 +36,9 @@ Extra queries to try (same filters):
 
 ## Upwork connector
 Official Upwork connector exists (find_jobs etc.). If it's connected in this session: use READ-ONLY tools (search/read jobs) only; never boost, submit, message or change anything without an explicit request. No automated polling; check when asked (1-2 times a day).
+Connected Nov 12, 2026. Freelancer org_uid 1499896572521324545. Rate limit ~12 find_jobs calls/min: run searches in small batches.
+What works: find_jobs smart_search mode=most_recent days_posted=1-3 verified_payment_only proposals_max=10-15; search with short `title` (1-2 words) + verified + proposals_max + sort=recency. Long OR-queries in `query` return nothing.
+Nov 12 scan (~60 jobs): nothing passed the filter. The market is mostly Wix/Squarespace/WordPress/Shopify, $3-20 budgets, or non-dev roles. All 3 proposals sent so far: not viewed yet, 0 invitations.
 
 ## Reminders scheduled in the previous session (they fire there, not here)
 - Nov 14 12:00 Kyiv: publish catalog project 2 (AI chatbot).
