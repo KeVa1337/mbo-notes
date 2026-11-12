@@ -5,3 +5,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2119896683343712079 | 2026-11-12 | declined | #8007 Smartest Platform Engineer ($270/month)
 2120936844091931554 | 2026-11-12 | declined | Senior UI/UX + Front-end, Fintech ($200, huge scope)
 2121000036308410190 | 2026-11-12 | declined | GAS WEB DATA GETTER customization (requires buying their product first: likely sales funnel)
+2121020062581298682 | 2026-11-12 | declined | Website QA + workflow integration (Atoms.dev; Salesforce/WorkOS/Entra required, calls, 12 proposals in 20 min)
+2118514528682641667 | 2026-11-12 | declined | RedirHub: get first 10 sites (sales/outreach, community presence required)
