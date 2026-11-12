@@ -26,6 +26,7 @@ Extra queries to try (same filters):
 - `"google sheets" OR "apps script" OR "google api" OR "automation script"`
 - `(react OR "next.js") (bug OR fix OR error OR "not working" OR broken)`
 - `ukrainian OR ukraine OR russian` (no category)
+- Hourly check also searches titles: rag, llm, ai agent, openai, claude (AI integrations pay best, priority if budget ≥ ~$150).
 
 ## Job filter (skip if any)
 - Payment unverified
