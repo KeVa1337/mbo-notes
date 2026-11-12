@@ -8,6 +8,7 @@ Updated: Nov 12, 2026. Read together with `docs/upwork-profile.md` (profile fact
 - Open for work badge ON, max 14 Connects/week, since Nov 12. Review results Nov 19: invites/profile views; turn off if zero.
 - Project Catalog: Fix project live. Next: AI chatbot project ~Nov 14, Landing project 2-3 days later (texts: works/out/upwork/catalog/catalog-texts.md, also summarized in upwork-profile.md).
 - Connects: 105 (Nov 12).
+- Nov 12: BLADE and Dentavia EN demos got a motion upgrade (published) with distinct stat blocks (Dentavia: light 97% ring panel; BLADE: barbershop receipt); Upwork portfolio images replaced.
 - GitHub: public showcase repo KeVa1337/freelance-jobs-bot (clean copy of mbo-leads). mbo-leads must stay PRIVATE (check). GitHub avatar still to upload.
 - English test (Duolingo): later; free practice test first, real test only if 120+.
 
