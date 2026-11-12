@@ -41,6 +41,7 @@ What works: find_jobs smart_search mode=most_recent days_posted=1-3 verified_pay
 Nov 12 scan (~60 jobs): nothing passed the filter. The market is mostly Wix/Squarespace/WordPress/Shopify, $3-20 budgets, or non-dev roles. All 3 proposals sent so far: not viewed yet, 0 invitations.
 
 ## Scheduled Upwork check
+Telegram alerts: working since Nov 12, 2026 (POST https://jarvis.mbo-solutions.com/api/notify; the X-Notify-Token header is injected by the environment's network secret, send any placeholder).
 Scheduled task trig_01JqY5XSSze4YJALVVFhAjja fires into session_0114m5SukjDLxgxkoUMJ2CCb every hour at :47 from 10:47 to 00:47 Kyiv (covers EU and US business hours). Dedupe list: docs/upwork-seen.md.
 
 ## Reminders scheduled in the previous session (they fire there, not here)
