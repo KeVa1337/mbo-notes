@@ -41,7 +41,7 @@ English: writes via AI-assisted translation; prefers written communication. Neve
 Note: everything except LUMEX is a demo/concept — describe as "demo" or "concept", never as client work.
 
 ## Connects
-Balance 53 (Nov 9, 2026). Ask the job's Connects cost each time.
+Balance 105 (Nov 12, 2026). Ask the job's Connects cost each time.
 
 ## Project Catalog (status, Nov 11, 2026)
 - Project 1 "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110, category Website & CMS Bug Fixes): submitted for review Nov 11.
@@ -52,6 +52,7 @@ Balance 53 (Nov 9, 2026). Ask the job's Connects cost each time.
 ## Proposals sent
 - Nov 9: "Finish CMS in React.js" ($200 fixed, 2 milestones), boosted, later outbid.
 - Nov 10: "React App Developer Needed" ($130 fixed, React/RN/Cordova; honest note about little Cordova experience).
+- Nov 12: "Build a clean 3 page website that is easy to maintain" ($150 fixed: $60 homepage + $90 rest/CMS/launch; static site + Decap CMS + free form service; no boost; 11 Connects).
 
 ## Upwork rules — verified against the official Help Center (Nov 11, 2026)
 Source: support.upwork.com articles (public Zendesk API). Prefer these over memory.
