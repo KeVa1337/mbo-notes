@@ -1,7 +1,7 @@
 # Upwork profile (for upwork-proposal-writer)
 
 Owner: Bogdan M. (Bohdan Mudryk), MBO Solutions, Lviv, Ukraine. Military veteran badge, ID verified.
-Profile title: Full-Stack Developer | AI Integrations, Chatbots, React & Node.js
+Profile title: Full-Stack Developer | Booking Sites, Telegram Bots & AI Chatbots
 Profile URL: https://www.upwork.com/freelancers/bohdanmudryk (custom, Nov 12 2026; old ~01dcfc69ab21ba8434 link is used in demo bars). Categories: Web Development, AI Apps & Integration, Ecommerce Development, Scripts & Utilities, Web & Mobile Design.
 Rate: $20/hr (raised from $15 on Nov 12, 2026; next step $25–30 after 10+ reviews); portfolio on Upwork: LUMEX, Jarvis (AI assistant), MBO Leads (AI job bot), AURUM, Khmara, BLADE, Pivonia, Dentavia, TIREHUB, GLOSSLAB (English demos under /examples/en/) (fixed-price small jobs $25–80 are welcome to build history). Experience level: Intermediate.
 English: writes via AI-assisted translation; prefers written communication. Never promise calls in English.
@@ -83,3 +83,7 @@ Source: support.upwork.com articles (public Zendesk API). Prefer these over memo
 - Nov 12: Payoneer withdrawal (schedule to switch Quarterly→Monthly), W-8BEN re-certified (valid to Dec 31, 2029, name Mudryk Bohdan), 2FA via authenticator + app, employment history and other experience filled.
 - Later: Duolingo English Test practice first (take paid test only if 120+).
 - Next: catalog Project 2 (AI chatbot) ~Nov 14, Project 3 (landing) 2–3 days later; 1–2 proposals a day; English test skipped for now.
+
+
+## Nov 12, 2026: profile repositioned (from docs/upwork-competitors.md)
+New title (above), overview rewritten (pain-first hook, Telegram alerts, Lovable/Bolt fixes, per-session written updates, client-owned accounts + handover doc, 'Not a fit: WordPress, Wix, Shopify themes, native mobile apps', no emoji). Skills: added Bot Development, AI Chatbot, OpenAI API, Booking Management System, Page Speed Optimization, Bug Fix; removed Front-End Development, HTML5, CSS, Web Development, Web Design, UX & UI Design. Review effect on Nov 19 together with the badge.
