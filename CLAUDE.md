@@ -3,6 +3,7 @@
 Private notes repo. Nothing here is deployed.
 
 ## Upwork
+At the start of every session read `docs/upwork-handoff.md` (current status, searches, job filter, open tasks) and keep it updated when something changes.
 For Upwork proposals use the `upwork-proposal-writer` skill. The owner's profile facts (stack, real outcome, portfolio links, rate, Connects) are in `docs/upwork-profile.md`. At the start of a session copy it to `~/.claude/upwork-profile.md` so the skill picks it up, and update both when the profile changes.
 
 ## Context
