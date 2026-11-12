@@ -40,6 +40,9 @@ Connected Nov 12, 2026. Freelancer org_uid 1499896572521324545. Rate limit ~12 f
 What works: find_jobs smart_search mode=most_recent days_posted=1-3 verified_payment_only proposals_max=10-15; search with short `title` (1-2 words) + verified + proposals_max + sort=recency. Long OR-queries in `query` return nothing.
 Nov 12 scan (~60 jobs): nothing passed the filter. The market is mostly Wix/Squarespace/WordPress/Shopify, $3-20 budgets, or non-dev roles. All 3 proposals sent so far: not viewed yet, 0 invitations.
 
+## Scheduled Upwork check
+Scheduled task trig_01JqY5XSSze4YJALVVFhAjja fires into session_0114m5SukjDLxgxkoUMJ2CCb at 11:47, 15:47, 19:47, 22:47 Kyiv (US Eastern 04:47, 08:47, 12:47, 15:47): read-only scan + proposal status, push only if something is worth it.
+
 ## Reminders scheduled in the previous session (they fire there, not here)
 - Nov 14 12:00 Kyiv: publish catalog project 2 (AI chatbot).
 - Nov 19 19:00 Kyiv: review Open for work badge results.
