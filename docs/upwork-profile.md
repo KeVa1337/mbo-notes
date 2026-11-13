@@ -41,7 +41,7 @@ English: writes via AI-assisted translation; prefers written communication. Neve
 Note: everything except LUMEX is a demo/concept — describe as "demo" or "concept", never as client work.
 
 ## Connects
-Balance 69-79 (Nov 13, 2026: 79 after RAG chatbot proposal, minus 10 boost if it stays top-4). Ask the job's Connects cost each time.
+Balance 56-68 (Nov 13, 2026: 68 after 3 proposals today; boosts 10 + 2 charged only if they stay top-4). Ask the job's Connects cost each time.
 
 ## Project Catalog (status, Nov 11, 2026)
 - Project 1 "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110, category Website & CMS Bug Fixes): submitted for review Nov 11.
@@ -52,6 +52,7 @@ Balance 69-79 (Nov 13, 2026: 79 after RAG chatbot proposal, minus 10 boost if it
 ## Proposals sent
 - Nov 9: "Finish CMS in React.js" ($200 fixed, 2 milestones), boosted, later outbid.
 - Nov 10: "React App Developer Needed" ($130 fixed, React/RN/Cordova; honest note about little Cordova experience).
+- Nov 13: "Wix Expert Needed: Integrate Sign-Up Form with Email/CRM Tool" (Nurudeen, Canada, 4.99 / 47 reviews, many tiny jobs; $15 by project; Mailchimp via Wix integration or embedded form; MBO Solutions + Jarvis attached; 11 Connects + boost 2). Goal: fast first review.
 - Nov 13: "AI Developer Needed to Build Customer Support Chatbot with RAG" (Germany, Shopify store; $500 in 3 milestones 150/200/150; Node.js + OpenAI + Qdrant, Python if preferred; Jarvis + MBO Leads attached; 13 Connects + boost 10, top slot at submit).
 - Nov 13: "WordPress Website Maintenance Expert Needed" (client Sebastian, US, $42k spent, 130 reviews; $45 fixed by project: backup + one-by-one updates + speed/security report, then uptime monitoring; LUMEX + Jarvis attached; 11 Connects; no boost, preferred JSS/earnings unmet).
 - Nov 12: "Build a clean 3 page website that is easy to maintain" ($150 fixed: $60 homepage + $90 rest/CMS/launch; static site + Decap CMS + free form service; no boost; 11 Connects).
