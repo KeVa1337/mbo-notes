@@ -13,3 +13,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121201782067752180 | 2026-11-13 | applied | WordPress Website Maintenance Expert (Sebastian, US, $45, 11 Connects)
 2121202212461787113 | 2026-11-13 | applied | AI support chatbot with RAG for Shopify (DE, $500, 3 milestones, boost 10)
 2121194936145058512 | 2026-11-13 | applied | Wix sign-up form -> Mailchimp (Nurudeen, CA, $15, boost 2)
+2121164044542851049 | 2026-11-13 | declined | Jotform massage intake form ($10; owner said no)
