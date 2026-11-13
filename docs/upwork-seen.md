@@ -23,3 +23,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121237594442353109 | 2026-11-13 | applied | Fitness booking bug fixing Next/Node/Mongo/Stripe (US new client, $450 150/300)
 2121284174302175628 | 2026-11-13 | skipped | CMS RBAC+analytics+users for $15 (scope too big)
 2121313668647487228 | 2026-11-13 | applied | EternaQR homepage pricing + QR phone demo (US, $55)
+2121335399019471544 | 2026-11-13 | skipped | AI prompt engineer modular chatbot (12 proposals in 5 min)
+2121325154675681009 | 2026-11-13 | skipped | Base44 button bug $15 (9 proposals)
