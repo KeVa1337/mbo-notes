@@ -10,3 +10,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121114603464130038 | 2026-11-13 | declined | Redesign Electrical Engineering website (WordPress/ACF, $100, 55 proposals in 3 h)
 2121185843320244693 | 2026-11-13 | declined | Generic full-stack MERN + AI (no concrete task, new client, $30 placeholder)
 2121166093661957364 | 2026-11-13 | declined | Next.js Supabase + Stripe ($5, 14 proposals)
+2121201782067752180 | 2026-11-13 | applied | WordPress Website Maintenance Expert (Sebastian, US, $45, 11 Connects)
