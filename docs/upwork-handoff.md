@@ -56,3 +56,5 @@ Extra peak-hours check (Nov 13): trig_01B1WTQb9Agb3uvpKyRHavbg at :17 from 15:17
 ## Reminders scheduled in the previous session (they fire there, not here)
 - Nov 14 12:00 Kyiv: publish catalog project 2 (AI chatbot).
 - Nov 19 19:00 Kyiv: review Open for work badge results.
+
+- Nov 13 23:55 Kyiv: Availability badge (Available now) turned OFF by owner request. It was ON since Nov 11 and auto-renewed for 14 Connects each cycle. Do not recommend turning it on while Connects are low.
