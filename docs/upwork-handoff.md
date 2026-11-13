@@ -51,6 +51,7 @@ Nov 12 scan (~60 jobs): nothing passed the filter. The market is mostly Wix/Squa
 ## Scheduled Upwork check
 Telegram alerts: working since Nov 12, 2026 (POST https://jarvis.mbo-solutions.com/api/notify; the X-Notify-Token header is injected by the environment's network secret, send any placeholder).
 Scheduled task trig_01JqY5XSSze4YJALVVFhAjja fires into session_0114m5SukjDLxgxkoUMJ2CCb every hour at :47 from 10:47 to 00:47 Kyiv (covers EU and US business hours). Dedupe list: docs/upwork-seen.md.
+Extra peak-hours check (Nov 13): trig_01B1WTQb9Agb3uvpKyRHavbg at :17 from 15:17 to 23:17 Kyiv, same session, lighter (6-8 find_jobs). Together: every 30 min in US hours.
 
 ## Reminders scheduled in the previous session (they fire there, not here)
 - Nov 14 12:00 Kyiv: publish catalog project 2 (AI chatbot).
