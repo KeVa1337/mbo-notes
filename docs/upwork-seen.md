@@ -8,3 +8,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121020062581298682 | 2026-11-12 | declined | Website QA + workflow integration (Atoms.dev; Salesforce/WorkOS/Entra required, calls, 12 proposals in 20 min)
 2118514528682641667 | 2026-11-12 | declined | RedirHub: get first 10 sites (sales/outreach, community presence required)
 2121114603464130038 | 2026-11-13 | declined | Redesign Electrical Engineering website (WordPress/ACF, $100, 55 proposals in 3 h)
+2121185843320244693 | 2026-11-13 | declined | Generic full-stack MERN + AI (no concrete task, new client, $30 placeholder)
+2121166093661957364 | 2026-11-13 | declined | Next.js Supabase + Stripe ($5, 14 proposals)
