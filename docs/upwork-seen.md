@@ -20,5 +20,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121265485129474444 | 2026-11-13 | skipped | RN mobile / 10-15 proposals / Klaviyo $5
 2121268830189165264 | 2026-11-13 | skipped | RN mobile / 10-15 proposals / Klaviyo $5
 2121279980088244201 | 2026-11-13 | applied | Full Stack AI SaaS MVP (US, 4.99/163, $15/h)
-2121237594442353109 | 2026-11-13 | alerted | Fitness booking bug fixing Next/Node/Mongo/Stripe (US new client, $450 150/300)
+2121237594442353109 | 2026-11-13 | applied | Fitness booking bug fixing Next/Node/Mongo/Stripe (US new client, $450 150/300)
 2121284174302175628 | 2026-11-13 | skipped | CMS RBAC+analytics+users for $15 (scope too big)
