@@ -15,3 +15,7 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121194936145058512 | 2026-11-13 | applied | Wix sign-up form -> Mailchimp (Nurudeen, CA, $15, boost 2)
 2121164044542851049 | 2026-11-13 | declined | Jotform massage intake form ($10; owner said no)
 2121220821001200012 | 2026-11-13 | applied | High-end design AI Matchmaking (Club Giraffe, UK, $500 200/300, boost 9)
+2121268525045837044 | 2026-11-13 | alerted | Crossword web game bug fixes (UAE, 5.0/211, $30 for 3 bugs)
+2121269351570913257 | 2026-11-13 | skipped | RN mobile / 10-15 proposals / Klaviyo $5
+2121265485129474444 | 2026-11-13 | skipped | RN mobile / 10-15 proposals / Klaviyo $5
+2121268830189165264 | 2026-11-13 | skipped | RN mobile / 10-15 proposals / Klaviyo $5
