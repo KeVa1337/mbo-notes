@@ -28,4 +28,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 
 - 2026-11-14 13:47 Kyiv check: skipped 2121517671795555277 (TG views/followers growth), 2121417157152436831 (Neander.ai, MacBook required), 2121372566717303857 (athlete SaaS $40, Lovable mockups), 2121545076365423199 (Synthesia video)
 - 2026-11-14 14:48 Kyiv check: skipped 2121584564242150680 (WP Asura $80, 13 props), 2121528045879790641 (Kajabi funnel, no-code), 2121579017357977329 (US citizens only); Wix redesign 2121538612937523453 now 14 props, no answer from owner
-- 2026-11-14 16:50 Kyiv: alerted 2121615411587943473 (Debug Claude AI automation, recipe renaming, $20, US 4.99/376, 97% hire) — preview created, waiting for owner
+- 2026-11-14 17:00 Kyiv: applied 2121615411587943473 (Debug Claude AI automation, recipe renaming, $20, US 4.99/376, 97% hire), $20, no boost

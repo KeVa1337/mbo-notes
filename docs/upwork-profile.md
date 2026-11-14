@@ -41,7 +41,7 @@ English: writes via AI-assisted translation; prefers written communication. Neve
 Note: everything except LUMEX is a demo/concept — describe as "demo" or "concept", never as client work.
 
 ## Connects
-Balance 56-68 (Nov 13, 2026: 68 after 3 proposals today; boosts 10 + 2 charged only if they stay top-4). Ask the job's Connects cost each time.
+Balance 28 (Nov 14, 2026, after Claude automation debug proposal; EternaQR boost 12 may also be charged).
 
 ## Project Catalog (status, Nov 11, 2026)
 - Project 1 "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110, category Website & CMS Bug Fixes): submitted for review Nov 11.
@@ -60,6 +60,7 @@ Balance 56-68 (Nov 13, 2026: 68 after 3 proposals today; boosts 10 + 2 charged o
 - Nov 13: "AI Developer Needed to Build Customer Support Chatbot with RAG" (Germany, Shopify store; $500 in 3 milestones 150/200/150; Node.js + OpenAI + Qdrant, Python if preferred; Jarvis + MBO Leads attached; 13 Connects + boost 10, top slot at submit).
 - Nov 13: "WordPress Website Maintenance Expert Needed" (client Sebastian, US, $42k spent, 130 reviews; $45 fixed by project: backup + one-by-one updates + speed/security report, then uptime monitoring; LUMEX + Jarvis attached; 11 Connects; no boost, preferred JSS/earnings unmet).
 - Nov 12: "Build a clean 3 page website that is easy to maintain" ($150 fixed: $60 homepage + $90 rest/CMS/launch; static site + Decap CMS + free form service; no boost; 11 Connects).
+- Nov 14: "Full Stack Developer Needed to Debug and Fix AI Automation" (US GA, 4.99 / 376 reviews, 97% hire, 401 contracts; $20 fixed by project; Claude recipe-renaming automation debug, first result 24h after access; Jarvis + MBO Leads; 11 Connects, no boost).
 
 ## Upwork rules — verified against the official Help Center (Nov 11, 2026)
 Source: support.upwork.com articles (public Zendesk API). Prefer these over memory.
