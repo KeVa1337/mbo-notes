@@ -95,3 +95,13 @@ Source: support.upwork.com articles (public Zendesk API). Prefer these over memo
 
 ## Nov 12, 2026: profile repositioned (from docs/upwork-competitors.md)
 New title (above), overview rewritten (pain-first hook, Telegram alerts, Lovable/Bolt fixes, per-session written updates, client-owned accounts + handover doc, 'Not a fit: WordPress, Wix, Shopify themes, native mobile apps', no emoji). Skills: added Bot Development, AI Chatbot, OpenAI API, Booking Management System, Page Speed Optimization, Bug Fix; removed Front-End Development, HTML5, CSS, Web Development, Web Design, UX & UI Design. Review effect on Nov 19 together with the badge.
+
+## Proposal style (owner rule, Nov 14, 2026; overrides the skill's length and move rules)
+Owner: "по суті і фактами без води". Use the upwork-proposal-writer skill for checks, proof and honesty rules, but write in this style:
+- 60-120 words for a cover letter (3-5 short sentences, max 2 short paragraphs). Invite replies: 2-3 sentences.
+- Line 1 = a concrete fact or question about THIS job (what's likely broken, what decides the approach). No self-intro line, no "I build...", no restating the brief.
+- One real proof fact with a name (Jarvis, MBO Leads, LUMEX), one clause. No stack lists.
+- Plan only as one sentence (what he needs from the client + what he delivers + when). No numbered lists unless the job is a multi-milestone build.
+- Price/timing in one plain sentence. At most one question at the end.
+- Banned: "usually comes down to", "one of three things", "familiar work for me", "I'd love to", "seamless", "robust", "ensure", "leverage", triads, parenthetical asides, em dashes, sign-off fluff. Plain words, short sentences, slightly imperfect is fine.
+- Screening answers: 1-2 sentences each, facts only.

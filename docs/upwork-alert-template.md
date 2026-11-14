@@ -32,7 +32,7 @@ Client viewed/replied/invite notices: same endpoint, "kind": "upwork", short HTM
 - ✅ For him / ⛔ against him: short bullets, quote the job text for hard requirements.
 - Verdict: 🟢 подавати / 🟡 на ваш вибір / ❌ пропустити.
 - Price and milestones, 2-3 portfolio highlights.
-- Proposal (English, upwork-proposal-writer skill: no em dashes, no contact info, demos labelled as demos) + every screening question answered separately.
+- Proposal (English, upwork-proposal-writer skill + "Proposal style" section in upwork-profile.md: 60-120 words, facts only, no filler; no em dashes, no contact info, demos labelled as demos) + every screening question answered separately.
 - Ask: «Відправити? так / змінити (що саме) / ні. Вкладення потрібні?»
 
 ## 3. Other alerts
