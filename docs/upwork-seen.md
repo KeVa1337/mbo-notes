@@ -25,3 +25,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2121313668647487228 | 2026-11-13 | applied | EternaQR homepage pricing + QR phone demo (US, $55)
 2121335399019471544 | 2026-11-13 | skipped | AI prompt engineer modular chatbot (12 proposals in 5 min)
 2121325154675681009 | 2026-11-13 | skipped | Base44 button bug $15 (9 proposals)
+
+- 2026-11-14 13:47 Kyiv check: skipped 2121517671795555277 (TG views/followers growth), 2121417157152436831 (Neander.ai, MacBook required), 2121372566717303857 (athlete SaaS $40, Lovable mockups), 2121545076365423199 (Synthesia video)
