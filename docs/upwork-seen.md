@@ -31,4 +31,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-14 17:00 Kyiv: applied 2121615411587943473 (Debug Claude AI automation, recipe renaming, $20, US 4.99/376, 97% hire), $20, no boost
 - 2026-11-14 17:20 Kyiv peak check: skipped 2121620049464295677 (whole booking SaaS QA+fix+deploy for $100, 19% hire, unbounded scope), 2121620362897486431 (healthcare SaaS $5, 16 props)
 - 2026-11-14 18:25 Kyiv manual check: skipped 2121625780877550264 (Shopify theme+speed+SEO $50, new client 0 hires; requires opening line with own Shopify before/after speed score, which owner does not have), 2121633657078778929 (WP 3 sites $600, 40 props), 2121631294093485809 (Fix SlowDating $50, vague, 4.4 rating)
-- 2026-11-14 19:20 Kyiv peak: alerted 2121653163892715424 (Next.js 4 pages redesign $20 = 4x$5, Canada 5.0/18, 23 hires) — preview created; skipped 2121653249675201585 (n8n -> AWS SaaS $80, expert, AWS)
+- 2026-11-14 19:25 Kyiv: applied 2121653163892715424 (Next.js 4 pages redesign $20 = 4x$5, Canada 5.0/18, 23 hires), boost 7; skipped 2121653249675201585 (n8n -> AWS SaaS $80, expert, AWS)

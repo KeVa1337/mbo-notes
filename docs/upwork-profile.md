@@ -41,7 +41,7 @@ English: writes via AI-assisted translation; prefers written communication. Neve
 Note: everything except LUMEX is a demo/concept — describe as "demo" or "concept", never as client work.
 
 ## Connects
-Balance 28 (Nov 14, 2026, after Claude automation debug proposal; EternaQR boost 12 may also be charged).
+Balance 17 after Next.js redesign proposal (Nov 14, 2026); 10 if its boost 7 is charged; EternaQR boost 12 may also be charged.
 
 ## Project Catalog (status, Nov 11, 2026)
 - Project 1 "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110, category Website & CMS Bug Fixes): submitted for review Nov 11.
@@ -61,6 +61,7 @@ Balance 28 (Nov 14, 2026, after Claude automation debug proposal; EternaQR boost
 - Nov 13: "WordPress Website Maintenance Expert Needed" (client Sebastian, US, $42k spent, 130 reviews; $45 fixed by project: backup + one-by-one updates + speed/security report, then uptime monitoring; LUMEX + Jarvis attached; 11 Connects; no boost, preferred JSS/earnings unmet).
 - Nov 12: "Build a clean 3 page website that is easy to maintain" ($150 fixed: $60 homepage + $90 rest/CMS/launch; static site + Decap CMS + free form service; no boost; 11 Connects).
 - Nov 14: "Full Stack Developer Needed to Debug and Fix AI Automation" (US GA, 4.99 / 376 reviews, 97% hire, 401 contracts; $20 fixed by project; Claude recipe-renaming automation debug, first result 24h after access; Jarvis + MBO Leads; 11 Connects, no boost).
+- Nov 14: "Update the Design of 4 Next.js Pages" (Canada QC, 5.0 / 18 reviews, 23 contracts; $20 = 4 milestones x $5 (home 16 Nov, search+profile 17 Nov, registration 18 Nov); restyle per PR with Vercel preview, keep Supabase logic; LUMEX + Ohmline; 11 Connects + boost 7). First proposal in short factual style.
 
 ## Upwork rules — verified against the official Help Center (Nov 11, 2026)
 Source: support.upwork.com articles (public Zendesk API). Prefer these over memory.
