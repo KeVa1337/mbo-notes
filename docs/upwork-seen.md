@@ -30,3 +30,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-14 14:48 Kyiv check: skipped 2121584564242150680 (WP Asura $80, 13 props), 2121528045879790641 (Kajabi funnel, no-code), 2121579017357977329 (US citizens only); Wix redesign 2121538612937523453 now 14 props, no answer from owner
 - 2026-11-14 17:00 Kyiv: applied 2121615411587943473 (Debug Claude AI automation, recipe renaming, $20, US 4.99/376, 97% hire), $20, no boost
 - 2026-11-14 17:20 Kyiv peak check: skipped 2121620049464295677 (whole booking SaaS QA+fix+deploy for $100, 19% hire, unbounded scope), 2121620362897486431 (healthcare SaaS $5, 16 props)
+- 2026-11-14 18:25 Kyiv manual check: skipped 2121625780877550264 (Shopify theme+speed+SEO $50, new client 0 hires; requires opening line with own Shopify before/after speed score, which owner does not have), 2121633657078778929 (WP 3 sites $600, 40 props), 2121631294093485809 (Fix SlowDating $50, vague, 4.4 rating)
