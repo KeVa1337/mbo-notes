@@ -38,3 +38,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-15 13:48 Kyiv check: skipped 2121932700789406669 (PrestaShop 9 full migration, big scope, PHP), 2121891192578870321 (Zapier $25, already hired), 2121892143880110333 (audit firm senior AI, 3.53 rating, long), YouTube automation editor/thumbnail/script jobs (not code)
 - 2026-11-15 14:48 Kyiv check: nothing in window fits (AI 3D creative web full-time, art prints site 16 props, scraping already hired, YouTube/voice/sales jobs)
 - 2026-11-15 15:48 Kyiv check: nothing fits (WP themes $5 multi-theme, WP speed US-only, camp WP redesign designer)
+- 2026-11-15 16:18 Kyiv peak: skipped 2121966918111956017 (AI appointment booking system, $10 fixed for full build, US 5.0/88 hires, 5-10 props; budget below filter), 2121958042646704735 (Shopify Liquid eye clinic $6-8/h, below rate), 2121967266194745073 (supplement CRO, needs supplement experience)
