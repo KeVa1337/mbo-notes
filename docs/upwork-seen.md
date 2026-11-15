@@ -43,3 +43,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-15 17:48 Kyiv check: skipped 2121989961150064369 (Telegram growth + member scraping repost, $20; dubious)
 - 2026-11-15 18:48 Kyiv check: skipped 2122007842656023832 (CDP personalisation WP ACF $300, SGP 4.93, 0 props; requires real CDP case studies owner lacks), 2121946078031281101 (WP audit+DNS $10), 2121967418121843992 (wedding site Duda/Wix $20, design)
 - 2026-11-15 19:36 Kyiv manual search: alerted 2122018954311038232 (SiteGround migration of 6-8 small sites + domains, $60, US new client 0 hires, <5 props; preview $50, 9 Connects)
+- 2026-11-15 19:40 Kyiv: applied 2122018954311038232 (SiteGround migration 6-8 sites, $50, boost 2, 9 Connects)
