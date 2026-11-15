@@ -41,7 +41,7 @@ English: writes via AI-assisted translation; prefers written communication. Neve
 Note: everything except LUMEX is a demo/concept — describe as "demo" or "concept", never as client work.
 
 ## Connects
-Balance 93 after n8n booking agent proposal (Nov 16, 2026; owner topped up to 108). SiteGround boost 2 may still be charged.
+Balance 67 after wedding CRM proposal (Nov 16, 2026). SiteGround boost 2 may still be charged.
 
 ## Project Catalog (status, Nov 11, 2026)
 - Project 1 "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110, category Website & CMS Bug Fixes): submitted for review Nov 11.
@@ -52,6 +52,7 @@ Balance 93 after n8n booking agent proposal (Nov 16, 2026; owner topped up to 10
 ## Proposals sent
 - Nov 9: "Finish CMS in React.js" ($200 fixed, 2 milestones), boosted, later outbid.
 - Nov 10: "React App Developer Needed" ($130 fixed, React/RN/Cordova; honest note about little Cordova experience).
+- Nov 16: "Google Sheets / Apps Script Expert – Finalize & Automate an Existing CRM" (US wedding planner, 5.0; $2,400 in 6 milestones: QBO sync+PDF $600, Cockpit+templates $300, vendor links $500, Slides timelines $400, email sequences $400, Fluent Forms $200; Jarvis + MBO Leads; 26 Connects, no boost). No QuickBooks experience claimed.
 - Nov 16: "AI Agent Developer – n8n Booking Agent (Telegram, Google Calendar)" (US, 5 posts 0 hires; $650 by milestone: M1 $300 working bot booking real Calendar slots by Nov 18, M2 $350 EN/ES doc answers + handoff + Sheets log + alerts by Nov 21; Jarvis + MBO Leads; 15 Connects, no boost; opens with LEDGER).
 - Nov 15: "Backup and save 6-8 small websites and load them to new hosting account" (US new client, 0 hires; $50 by project; SiteGround Migrator + backups + domain transfer/DNS + SSL check, 24h after access; Jarvis + MBO Leads; 9 Connects + boost 2).
 - Nov 13: "Wix Expert Needed: Integrate Sign-Up Form with Email/CRM Tool" (Nurudeen, Canada, 4.99 / 47 reviews, many tiny jobs; $15 by project; Mailchimp via Wix integration or embedded form; MBO Solutions + Jarvis attached; 11 Connects + boost 2). Goal: fast first review.
@@ -108,3 +109,4 @@ Owner: "по суті і фактами без води". Use the upwork-proposa
 - Price/timing in one plain sentence. At most one question at the end.
 - Banned: "usually comes down to", "one of three things", "familiar work for me", "I'd love to", "seamless", "robust", "ensure", "leverage", triads, parenthetical asides, em dashes, sign-off fluff. Plain words, short sentences, slightly imperfect is fine.
 - Screening answers: 1-2 sentences each, facts only.
+- Owner, Nov 16: "не пиши аішно, максимально живо". Start with "Hi,", casual spoken English, contractions, short loose sentences, no framing lines like "Two choices decide...".
