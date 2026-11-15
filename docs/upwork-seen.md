@@ -36,3 +36,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-14 23:50 Kyiv: skipped 2121721029289337528 (baseball academy site+backend+Stripe $500, 3-6 mo, vague, 38% hire, client also posts Ticketmaster purchasing bot; 14 Connects of 17)
 - 2026-11-15 11:50 Kyiv: missed 2121886293050484465 (n8n workflows $50, client 4.99/533, 100% hire) — preview creation interrupted at 10:50, client hired within ~1h. Also 2121615411587943473 (Claude automation debug) dropped from active proposals (job closed/filled).
 - 2026-11-15 13:48 Kyiv check: skipped 2121932700789406669 (PrestaShop 9 full migration, big scope, PHP), 2121891192578870321 (Zapier $25, already hired), 2121892143880110333 (audit firm senior AI, 3.53 rating, long), YouTube automation editor/thumbnail/script jobs (not code)
+- 2026-11-15 14:48 Kyiv check: nothing in window fits (AI 3D creative web full-time, art prints site 16 props, scraping already hired, YouTube/voice/sales jobs)
