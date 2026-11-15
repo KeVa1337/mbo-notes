@@ -34,3 +34,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-14 19:25 Kyiv: applied 2121653163892715424 (Next.js 4 pages redesign $20 = 4x$5, Canada 5.0/18, 23 hires), boost 7; skipped 2121653249675201585 (n8n -> AWS SaaS $80, expert, AWS)
 - 2026-11-14 23:40 Kyiv: declined 2121706048997057208 (Next.js/Vercel number swap + Signal House SMS alerts $50, US 4.81/59; Upwork boost data said client already hired; owner said no to save Connects)
 - 2026-11-14 23:50 Kyiv: skipped 2121721029289337528 (baseball academy site+backend+Stripe $500, 3-6 mo, vague, 38% hire, client also posts Ticketmaster purchasing bot; 14 Connects of 17)
+- 2026-11-15 11:50 Kyiv: missed 2121886293050484465 (n8n workflows $50, client 4.99/533, 100% hire) — preview creation interrupted at 10:50, client hired within ~1h. Also 2121615411587943473 (Claude automation debug) dropped from active proposals (job closed/filled).
