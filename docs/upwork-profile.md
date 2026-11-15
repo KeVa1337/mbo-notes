@@ -110,3 +110,6 @@ Owner: "по суті і фактами без води". Use the upwork-proposa
 - Banned: "usually comes down to", "one of three things", "familiar work for me", "I'd love to", "seamless", "robust", "ensure", "leverage", triads, parenthetical asides, em dashes, sign-off fluff. Plain words, short sentences, slightly imperfect is fine.
 - Screening answers: 1-2 sentences each, facts only.
 - Owner, Nov 16: "не пиши аішно, максимально живо". Start with "Hi,", casual spoken English, contractions, short loose sentences, no framing lines like "Two choices decide...".
+
+## Profile repositioned (Nov 16, 2026, owner approved)
+Title: AI Automation Developer | n8n, Telegram Bots, AI Agents, Google Sheets. Skills now include n8n, Google Apps Script, AI Agent Development, Automation, Claude, Google Sheets, API Integration (removed Booking Mgmt, Page Speed, API Development, PostgreSQL, Tailwind, Responsive Design, Website Redesign). Overview leads with automation/AI agents. Checks now every 30 min 10:00-02:47 Kyiv.
