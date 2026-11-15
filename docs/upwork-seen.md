@@ -41,3 +41,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-15 16:18 Kyiv peak: skipped 2121966918111956017 (AI appointment booking system, $10 fixed for full build, US 5.0/88 hires, 5-10 props; budget below filter), 2121958042646704735 (Shopify Liquid eye clinic $6-8/h, below rate), 2121967266194745073 (supplement CRO, needs supplement experience)
 - 2026-11-15 16:48 Kyiv check: nothing fits (website security quick fix $10 already hired, rest photo/podcast/marketing)
 - 2026-11-15 17:48 Kyiv check: skipped 2121989961150064369 (Telegram growth + member scraping repost, $20; dubious)
+- 2026-11-15 18:48 Kyiv check: skipped 2122007842656023832 (CDP personalisation WP ACF $300, SGP 4.93, 0 props; requires real CDP case studies owner lacks), 2121946078031281101 (WP audit+DNS $10), 2121967418121843992 (wedding site Duda/Wix $20, design)
