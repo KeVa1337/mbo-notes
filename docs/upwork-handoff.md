@@ -58,3 +58,6 @@ Extra peak-hours check (Nov 13): trig_01B1WTQb9Agb3uvpKyRHavbg at :17 from 15:17
 - Nov 19 19:00 Kyiv: review Open for work badge results.
 
 - Nov 13 23:55 Kyiv: Availability badge (Available now) turned OFF by owner request. It was ON since Nov 11 and auto-renewed for 14 Connects each cycle. Do not recommend turning it on while Connects are low.
+
+## LUMEX / Alina (Nov 16, 2026)
+Upwork did not unblock Alina's payment; owner cannot ask her again. Drop LUMEX as first-review path. First review only via real clients: catalog $25 bug-fix, small $25-80 jobs from clients with hires, small first milestones.
