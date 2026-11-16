@@ -49,3 +49,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 00:10 Kyiv: applied 2122074261639885608 (n8n Telegram booking agent, $650 = M1 $300 Nov 18 + M2 $350 Nov 21, no boost, 15 Connects; starts with LEDGER)
 - 2026-11-16 00:16 Kyiv: applied 2122037532659125297 (wedding Google Sheets CRM, $2,400 in 6 milestones, no boost, 26 Connects; casual human style per owner)
 - 2026-11-16 02:30 Kyiv: applied 2122122366253370417 (ABSA academic site Node/TS/AWS + AI, AU 4.7, $1,800 = $200 review+fix + $1,600, no boost (boost war 21/20/16/15), 20 Connects)
+- 2026-11-16 10:17 Kyiv peak: nothing fits (n8n form->Sheets+AI $35 already 50 props/hired, Sheets+Pipedrive fix $10 17 props, Flutter bug fix India, GTA video, PHP PDF)
+- 2026-11-16 10:47 Kyiv: alerted 2122246920198678725 (Hostinger site recovery topbaterija.lt, $20, LT 5.0/31, 2 props; preview $20, 8 Connects; unmet preferred JSS/earnings/fluent); skipped 2122248886426897457 (GoHighLevel workflow $400, requires practical GHL experience owner lacks), 2122244424187778702 (static AdSense sites from scraped content, 13 props, 20% hire)
