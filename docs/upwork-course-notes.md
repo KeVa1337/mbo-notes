@@ -56,3 +56,24 @@
   6) Buy Freelancer Plus subscription for first 3 months: $20/month incl. 100 Connects (vs ~$18 for 100 Connects alone) + extra features; signals seriousness → organic boost. She spent $20 sub + ~$10 extra Connects/month. After Top Rated she dropped it and bought ~50 Connects when a contract ended.
 - Next: profile setup with specific conditions.
 - Our gaps: Freelancer Plus? (not noted — ask Bohdan). Mobile app with push for fast replies? Weekly profile micro-edit (can add to routine). Peak US hours 16:00–00:00 Kyiv already covered by checks.
+
+## Lecture 1 (part 8) — profile setup (her profile as example)
+- Her profile is not "the standard"; also study top freelancers in YOUR niche (high rating, good earnings, from Europe/US).
+- Do NOT write the profile with ChatGPT: clients spot it; GPT doesn't know insider Upwork experience. Write yourself in Ukrainian, use GPT only to translate / for theses.
+- Photo: face fills ~3/4 of the circle (client can't zoom), smiling, ideally with teeth. US clients buy from smiling positive people.
+- Header: name, location (auto), JSS, rating.
+- "Available Now" badge: turn ON; costs 1 Connect/day; some clients filter by it — without it you're excluded.
+- 1 General profile + 2 specialized sub-profiles (hers: Video Editor, AI Video Creator). When applying choose the matching sub-profile. Use it — Upwork sees you use its tools.
+- Title (profile + each sub-profile): put search keywords clients type (e.g. "AI video", "Premiere", popular AI tools). Character-limited → keywords + profession. Check titles of top freelancers in niche.
+- Rate: start LOW = minimum of your niche (she started $10/h at Rising Talent), because beginner-level clients have small budgets. Not dumping ($5–9). Raising later is just editing the number: Top Rated → $15, busy → $18, TR+ → $20, added AI → $30. Analogy: top manicure master vs regular.
+- Overview rules: client compares 10–20 freelancers, no time → long texts/portfolios annoy and get skipped. Be laconic, save client's time.
+  - First line = what you do for whom ("I create videos for businesses with AI and Adobe"). No "Hello, my name is…" (already shown).
+  - General skills block (years of experience, main skills).
+  - Education (if relevant; if not matching profession, still state it).
+  - Soft skills: short sentences 5–7 words, in blocks; client scans diagonally and grabs keywords.
+  - Tools: list main popular ones only, not everything.
+  - "Why work with me": one short paragraph max.
+  - Hobbies line (drawing, running, hiking, reading) → makes you a living person (marketing).
+  - END with call to action, never "I'd be happy to work with you". CTA = tell them what to do ("Contact me to discuss…", "Message me for an interview") OR a question ("Could you tell me more about your business?", "What are the next steps?"). Use CTA at the end of every selling message/proposal.
+- Video intro: mandatory. Not a slideshow of works — film YOURSELF. Purpose: show what kind of person you are, that it's comfortable to work with you. 40–50 sec max. Smiling, neat (clean ironed shirt/T-shirt), good background, light on face, energetic positive voice. If English weak: ask GPT for a 40–50s script at B1/B2 level, read from laptop 1–2 sentences at a time with pauses, then cut together. Monotone "Hello, I'm from Ukraine, I have experience" won't work — "play the role".
+- Our check vs this: Available badge ON ✅. Sub-profiles: unknown — check. Rate $20/h vs her "start at niche minimum" — consider $15 for first reviews (dev niche min is higher than video). Overview: currently pain-first; check for short lines, hobbies line, CTA at end. Video: reused Fiverr video — check it shows Bohdan smiling on camera, ≤50s. Photo: check 3/4 face + smile.
