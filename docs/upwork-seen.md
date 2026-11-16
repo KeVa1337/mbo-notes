@@ -52,3 +52,7 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 10:17 Kyiv peak: nothing fits (n8n form->Sheets+AI $35 already 50 props/hired, Sheets+Pipedrive fix $10 17 props, Flutter bug fix India, GTA video, PHP PDF)
 - 2026-11-16 10:47 Kyiv: alerted 2122246920198678725 (Hostinger site recovery topbaterija.lt, $20, LT 5.0/31, 2 props; preview $20, 8 Connects; unmet preferred JSS/earnings/fluent); skipped 2122248886426897457 (GoHighLevel workflow $400, requires practical GHL experience owner lacks), 2122244424187778702 (static AdSense sites from scraped content, 13 props, 20% hire)
 - 2026-11-16 10:55 Kyiv: applied 2122246920198678725 (Hostinger recovery topbaterija.lt, $20, no boost, 8 Connects)
+- 2026-11-16 11:17 Kyiv peak: nothing fits (Flutter fixes $10 12 props, Oracle RAC tuning, Python fintech 56 props)
+- 2026-11-16 11:47 Kyiv check: nothing fits (Squarespace migration $10, WP ecommerce+logo $20 unlimited revisions, GHL funnels ongoing, old Python roles)
+- 2026-11-16 12:17 Kyiv peak: nothing new in window (only older Expensify/Zapier/GHL posts)
+- 2026-11-16 12:47 Kyiv check: nothing fits (Shopify CRO $200 14 props, POD store $5, rest old/marketing)
