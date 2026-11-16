@@ -61,3 +61,6 @@ Extra peak-hours check (Nov 13): trig_01B1WTQb9Agb3uvpKyRHavbg at :17 from 15:17
 
 ## LUMEX / Alina (Nov 16, 2026)
 Upwork did not unblock Alina's payment; owner cannot ask her again. Drop LUMEX as first-review path. First review only via real clients: catalog $25 bug-fix, small $25-80 jobs from clients with hires, small first milestones.
+
+## Samarina course reply (Nov 16, 2026)
+She confirmed: support = 30 days from purchase, Telegram text + voice, any questions within course topics, profile and real proposals are reviewed, reply within 24 h. Recommendation given: buy the full course (4,850 UAH) only when ready to use all 30 days actively; prepare a pack (profile, 5-10 sent proposals with results, niche question) for day 1.
