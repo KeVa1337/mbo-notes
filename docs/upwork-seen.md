@@ -67,3 +67,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 15:52 Kyiv: applied 2122320755585381656 (St. Gallen event pipeline, $80 = 40+40, no boost, 9 Connects)
 - 2026-11-16 16:17 Kyiv peak: nothing new fits. St. Gallen job now 14 proposals (was ~5 at apply).
 - 2026-11-16 16:47 Kyiv check: nothing new in window (all results older)
+- 2026-11-16 17:21 Kyiv: alerted 2122348404524413736 (Shopify homepage layout fix $30, US 4.99/907, 0 props; preview $30, 11 Connects, boost min 3 = 1st)
+- 2026-11-16 17:50 Kyiv: missed 2122348404524413736 (Shopify $30): preview expired without owner reply; job went 0 -> 21 proposals + 4 interviews in 30 min. Rest of check: nothing fits.
