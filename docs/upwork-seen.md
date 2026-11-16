@@ -71,3 +71,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 17:50 Kyiv: missed 2122348404524413736 (Shopify $30): preview expired without owner reply; job went 0 -> 21 proposals + 4 interviews in 30 min. Rest of check: nothing fits.
 - 2026-11-16 18:17 Kyiv peak: skipped 2122362597008479886 (Shopify currency fix $200; client 2.0 rating 'scope pressure', requires 90% JSS + multi-currency store link owner lacks). Rest nothing.
 - 2026-11-16 18:47 Kyiv check: nothing fits (AI marketing agent full-time, Excel VBA $20, WP holiday banner $10 design)
+- 2026-11-16 19:17 Kyiv peak: nothing new in window
+- 2026-11-16 19:47 Kyiv check: skipped 2122374170121302824 (Three.js site audit $110, client from Lviv; needs 1.5h call + proven live WebGL work owner lacks). Rest nothing.
