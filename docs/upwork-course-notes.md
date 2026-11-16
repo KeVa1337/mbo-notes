@@ -12,3 +12,7 @@
 - Promote with Ads = paid profile promotion (Connects).
 - Profile blocks: video intro, about/languages/verification/education, portfolio, overview, reviews, open+closed contracts, skills, certifications, employment history.
 - Our status: video, certificates, employment history, portfolio, ID verified = done. To check: education filled? language level/English verification. Ads: not before first reviews.
+
+## Lecture 1 (part 3) — tools: ratings, badges, cover letter, Connects (start)
+- Whole Upwork career is built around rating (JSS + reviews). Complaints from failed freelancers: "dependency on rating" — true, but logical.
+- Implication for us: first contracts must end with 5★ + good private feedback; pick small, clear jobs we can over-deliver on (matches our "first reviews" filter).
