@@ -60,3 +60,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 13:47 Kyiv: alerted 2122293826974085928 (RAG chatbot + lead qualification agent, $600, PK 5.0/2, 100% hire; preview $600 = 200+400, 13 Connects, boost min 3 gives top slot)
 - 2026-11-16 13:55 Kyiv: applied 2122293826974085928 (RAG chatbot + lead agent, $600 = 200+400, no boost, 13 Connects)
 - 2026-11-16 13:56 Kyiv: boost 5 added to 2122293826974085928 (top bids were 5,5,4,4)
+- 2026-11-16 14:17 Kyiv peak: nothing fits (WP fixes $10 16 props, rest old/non-dev)
+- 2026-11-16 14:47 Kyiv check: nothing new fits. Insight: Hostinger $20 job reached 23 proposals in 4h; competitors avg $51k earned, 41 jobs, JSS 97%; client opened 5, not ours.
