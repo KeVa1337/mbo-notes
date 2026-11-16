@@ -79,3 +79,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 21:47 Kyiv check: nothing fits (Squarespace review $10, LaundryOS SaaS 20 props, rest copy/proofreading/marketing)
 - 2026-11-16 22:17 Kyiv peak: skipped 2122422651859878953 (Airtable+Make hourly, wants certified Make expert, Asia preference); rest nothing
 - 2026-11-16 22:47 Kyiv check: nothing fits (Twilio/SignalWire call passthrough hourly, vague, 6 props; rest old)
+- 2026-11-16 23:17 Kyiv peak check: nothing fits (SaaS audit CH unverified 10-15 props; Creative ad agency AU hourly vague; FHIR 76 props)
