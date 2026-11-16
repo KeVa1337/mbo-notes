@@ -18,3 +18,10 @@
 - Implication for us: first contracts must end with 5★ + good private feedback; pick small, clear jobs we can over-deliver on (matches our "first reviews" filter).
 - Good reviews → better/pricier jobs; bad → fewer jobs. Rating exists on any platform; only lever = do the work well.
 - "Big competition" con: ~15M clients vs ~5M freelancers (her numbers) — demand exceeds supply.
+- Ignore $3–5 freelancers and freeloader clients; real competitors = good-rated freelancers with normal rates. US clients expect to pay for quality.
+- Startup costs: her spend first 3 months ≤ $30/month (Connects); month 1 earned $190.
+- Pros: direct access to Western clients with B1–B2 English (translator OK, all written); USD income; no earning ceiling (individual → agency; example: dev from Dnipro, $1M solo in 8 yrs, agency later).
+- Ukraine: income to FOP group 3 (only group allowing foreign economic activity), USD account.
+- Badges: Rising Talent → Top Rated → Top Rated Plus (+ Expert-Vetted). She says Rising Talent is given at registration — CONFLICTS with current Help Center (needs invite or ≥4.8 rating + ≥$250/12 mo); lecture may be older. Trust Help Center.
+- Algorithms watch new freelancers: are they serious / staying long-term.
+- Our check: Connects spend today is high (several 13–26 Connect bids) vs her ≤$30/month — keep bids targeted.
