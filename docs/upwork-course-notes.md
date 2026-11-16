@@ -16,3 +16,5 @@
 ## Lecture 1 (part 3) — tools: ratings, badges, cover letter, Connects (start)
 - Whole Upwork career is built around rating (JSS + reviews). Complaints from failed freelancers: "dependency on rating" — true, but logical.
 - Implication for us: first contracts must end with 5★ + good private feedback; pick small, clear jobs we can over-deliver on (matches our "first reviews" filter).
+- Good reviews → better/pricier jobs; bad → fewer jobs. Rating exists on any platform; only lever = do the work well.
+- "Big competition" con: ~15M clients vs ~5M freelancers (her numbers) — demand exceeds supply.
