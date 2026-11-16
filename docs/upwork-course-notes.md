@@ -44,3 +44,15 @@
 - Invite to interview from client = NO Connects to reply. Client can also just send a direct message ("are you free?") → no Connects.
 - Goal: be at the top of talent search. Way 1: Boost Your Profile (pay Connects; auction like Google Ads, you set the bid e.g. 5–10; Connects charged ONLY when a client clicks your profile). She recommends it at the start (hers is off now). Way 2: (next chunk).
 - Our status: "Open for work"/availability badge boost on, max 14 Connects/week, review Nov 19 — matches her advice.
+
+## Lecture 1 (part 7) — organic ranking: activity rules, subscription
+- Way 2 to rank in talent search: organic, like Google. Better profile + more activity → algorithm lifts you. Clients search manually a LOT.
+- She says: do all of these or don't expect results.
+  1) Log in EVERY day (at least every other day). Even just open site/mobile app so algorithm sees you online. Install Upwork mobile app.
+  2) Reply to messages/invites within 1 hour, ideally 30 min (old freelancers' advice). Profile shows response time (e.g. "<24h" — too slow). If you can't talk now, at least reply "thanks, it's night here, I'll answer tomorrow at X". Best: start dialog, show portfolio, close the contract fast.
+  3) Apply to jobs daily while you have no project / after a contract ends. Her + Telegram channels stats: 5–7 proposals/day → ~half reply (3–4) → ~1 contract. Clients may reply in 1–4 days, so apply every day.
+  4) Apply in US working hours: ET/CT/PT zones start ~16:00–17:00 Kyiv. She monitored the feed 2–4 h from 16:00, chatted with clients until 23:00–00:00, did the work next morning. Some hours have no good jobs — keep scrolling.
+  5) Change something in profile at least weekly (a word, dash, bracket, a paragraph) — rumor that algorithm treats it as update; she does it "just in case".
+  6) Buy Freelancer Plus subscription for first 3 months: $20/month incl. 100 Connects (vs ~$18 for 100 Connects alone) + extra features; signals seriousness → organic boost. She spent $20 sub + ~$10 extra Connects/month. After Top Rated she dropped it and bought ~50 Connects when a contract ended.
+- Next: profile setup with specific conditions.
+- Our gaps: Freelancer Plus? (not noted — ask Bohdan). Mobile app with push for fast replies? Weekly profile micro-edit (can add to routine). Peak US hours 16:00–00:00 Kyiv already covered by checks.
