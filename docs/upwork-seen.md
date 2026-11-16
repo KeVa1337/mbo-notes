@@ -56,3 +56,6 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 11:47 Kyiv check: nothing fits (Squarespace migration $10, WP ecommerce+logo $20 unlimited revisions, GHL funnels ongoing, old Python roles)
 - 2026-11-16 12:17 Kyiv peak: nothing new in window (only older Expensify/Zapier/GHL posts)
 - 2026-11-16 12:47 Kyiv check: nothing fits (Shopify CRO $200 14 props, POD store $5, rest old/marketing)
+- 2026-11-16 13:17 Kyiv peak: nothing fits (OSINT deanonymize store, AI sales agent with phone calls $150 vague, GHL VA $10, Instagram follower bot platform)
+- 2026-11-16 13:47 Kyiv: alerted 2122293826974085928 (RAG chatbot + lead qualification agent, $600, PK 5.0/2, 100% hire; preview $600 = 200+400, 13 Connects, boost min 3 gives top slot)
+- 2026-11-16 13:55 Kyiv: applied 2122293826974085928 (RAG chatbot + lead agent, $600 = 200+400, no boost, 13 Connects)
