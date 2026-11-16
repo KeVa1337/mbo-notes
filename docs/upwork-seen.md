@@ -62,3 +62,6 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 13:56 Kyiv: boost 5 added to 2122293826974085928 (top bids were 5,5,4,4)
 - 2026-11-16 14:17 Kyiv peak: nothing fits (WP fixes $10 16 props, rest old/non-dev)
 - 2026-11-16 14:47 Kyiv check: nothing new fits. Insight: Hostinger $20 job reached 23 proposals in 4h; competitors avg $51k earned, 41 jobs, JSS 97%; client opened 5, not ours.
+- 2026-11-16 15:17 Kyiv peak: nothing fits (GHL agency specialist ongoing, WooCommerce site.pro sync $20 14 props + hired)
+- 2026-11-16 15:50 Kyiv: alerted 2122320755585381656 (Python event pipeline St. Gallen, Eventfrog API + 2 HSG scrapers, $80, US new client, ~5 props; preview $80 = 40+40, 9 Connects, boost min 2 = 1st)
+- 2026-11-16 15:52 Kyiv: applied 2122320755585381656 (St. Gallen event pipeline, $80 = 40+40, no boost, 9 Connects)
