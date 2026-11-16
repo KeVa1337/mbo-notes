@@ -25,3 +25,8 @@
 - Badges: Rising Talent → Top Rated → Top Rated Plus (+ Expert-Vetted). She says Rising Talent is given at registration — CONFLICTS with current Help Center (needs invite or ≥4.8 rating + ≥$250/12 mo); lecture may be older. Trust Help Center.
 - Algorithms watch new freelancers: are they serious / staying long-term.
 - Our check: Connects spend today is high (several 13–26 Connect bids) vs her ≤$30/month — keep bids targeted.
+- Clients tier by budget too; Upwork matches small-budget clients ($10–50 tasks) with beginners. Beginners' feed shows small jobs — take them to grow.
+- Top Rated: 90+ days on site, $1,000 earned, JSS ≥90% → badge within ~1 week; feed then shows $100–200 jobs. Lose it if JSS <90.
+- Top Rated Plus: +90 days at TR, JSS ≥90, $10k total, a "long-term contract" (hers ~2 months) → $500–1,000+ jobs, company managers hire TR+.
+- Her 2024 ramp: started Jan, first contract Feb $192 (tiny hourly $10/h jobs, e.g. 40 min = $8), Apr $573 (repeat client), May $921 → $1k cumulative → Top Rated; then ~$800–1,200/mo, autumn 12h/day.
+- Our takeaway: first 3–5 reviews from $20–100 jobs (incl. small hourly); big $600–2,400 bids with 0 reviews are low-odds Connect spend. Repeat clients matter.
