@@ -65,3 +65,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 15:17 Kyiv peak: nothing fits (GHL agency specialist ongoing, WooCommerce site.pro sync $20 14 props + hired)
 - 2026-11-16 15:50 Kyiv: alerted 2122320755585381656 (Python event pipeline St. Gallen, Eventfrog API + 2 HSG scrapers, $80, US new client, ~5 props; preview $80 = 40+40, 9 Connects, boost min 2 = 1st)
 - 2026-11-16 15:52 Kyiv: applied 2122320755585381656 (St. Gallen event pipeline, $80 = 40+40, no boost, 9 Connects)
+- 2026-11-16 16:17 Kyiv peak: nothing new fits. St. Gallen job now 14 proposals (was ~5 at apply).
+- 2026-11-16 16:47 Kyiv check: nothing new in window (all results older)
