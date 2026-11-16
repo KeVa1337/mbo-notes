@@ -64,3 +64,6 @@ Upwork did not unblock Alina's payment; owner cannot ask her again. Drop LUMEX a
 
 ## Samarina course reply (Nov 16, 2026)
 She confirmed: support = 30 days from purchase, Telegram text + voice, any questions within course topics, profile and real proposals are reviewed, reply within 24 h. Recommendation given: buy the full course (4,850 UAH) only when ready to use all 30 days actively; prepare a pack (profile, 5-10 sent proposals with results, niche question) for day 1.
+
+## Samarina course notes in progress (Nov 16, 2026)
+Bohdan records lectures and pastes transcript chunks into chat (author allowed personal transcription). Log EVERY chunk in docs/upwork-course-notes.md: detailed notes in own words, all numbers/conditions/tips, no skipping "intro" parts; flag conflicts with Help Center. At the end: full summary + action list for profile, proposals, filter. Pending question to Bohdan: switch check filter to prioritize $20–100 jobs.
