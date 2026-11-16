@@ -73,3 +73,5 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-16 18:47 Kyiv check: nothing fits (AI marketing agent full-time, Excel VBA $20, WP holiday banner $10 design)
 - 2026-11-16 19:17 Kyiv peak: nothing new in window
 - 2026-11-16 19:47 Kyiv check: skipped 2122374170121302824 (Three.js site audit $110, client from Lviv; needs 1.5h call + proven live WebGL work owner lacks). Rest nothing.
+- 2026-11-16 20:17 Kyiv peak: nothing fits (WP canonical fix $10 8 props, GHL redirect $20 11 props, GHL CRM $10, GenAI RAG $50 11 props)
+- 2026-11-16 20:47 Kyiv check: nothing fits (Python CSV dup script for Odoo $5 below min budget though client 5.0/121; Google reviews removal = dubious; rest marketing)
