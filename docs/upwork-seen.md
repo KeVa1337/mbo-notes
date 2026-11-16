@@ -48,3 +48,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-15 23:18 Kyiv peak: alerted 2122074261639885608 (n8n AI booking agent Telegram->Google Calendar, EN/ES, RAG on price doc, handoff, Sheets log, $800, US client 5 posts 0 hires, <5 props; 15 Connects, balance 8 — blocked; must start with LEDGER)
 - 2026-11-16 00:10 Kyiv: applied 2122074261639885608 (n8n Telegram booking agent, $650 = M1 $300 Nov 18 + M2 $350 Nov 21, no boost, 15 Connects; starts with LEDGER)
 - 2026-11-16 00:16 Kyiv: applied 2122037532659125297 (wedding Google Sheets CRM, $2,400 in 6 milestones, no boost, 26 Connects; casual human style per owner)
+- 2026-11-16 02:30 Kyiv: applied 2122122366253370417 (ABSA academic site Node/TS/AWS + AI, AU 4.7, $1,800 = $200 review+fix + $1,600, no boost (boost war 21/20/16/15), 20 Connects)
