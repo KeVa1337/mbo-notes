@@ -93,3 +93,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 11:47 Kyiv check: nothing fits (app alerts checked: Website Refresh US $150 = 71 props in 2h, Website Improvements AU $130 = 81 props; course-filter search: only non-dev/long-term)
 - 2026-11-17 12:17 Kyiv: ALERTED 2122634010781030030 AI-Driven Marketing Workflow Specialist (UAE 5.0/16 hires, $50, <5 props) 🟡 preview ready
 - 2026-11-17 12:22 Kyiv: APPLIED 2122634010781030030 ($50, 11 Connects + boost 3, proposal 2122636257978417153)
+- 2026-11-17 12:47 Kyiv check: nothing fits (2122106719339383857 Cloud Run IAM review AU $350 — prefers $10K+ earned & JSS 90, asks for past Cloud Run/IAM review; 2122635953033189006 OpenAI pixel Shopify 13 props; no invites)
