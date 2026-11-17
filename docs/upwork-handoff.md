@@ -81,3 +81,4 @@ Filters: proposals 0-4,5-9; payment_verified=1; location AU&NZ, Northern America
 Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixes, Sheets & automation. Alerts ON: AI apps & Supabase, Telegram, React fixes.
 (Upwork API has no saved-search endpoint; Bohdan saves them in the UI.)
 - Reminder: at the first check after 19:00 Kyiv on Nov 17, remind Bohdan (one line) to save the course-mode searches (links in this file).
+- Reminder (evening Nov 17, first check after 19:00 Kyiv): also remind Bohdan to enable Available Now badge (https://www.upwork.com/nx/find-work/best-matches?openModal=pib), profile boost 3-5/click with 20-30 weekly cap (https://www.upwork.com/nx/find-work/best-matches?boostProfile=1), buy 80-100 Connects; then verify with boost_profile get_status.
