@@ -88,3 +88,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 02:17 Kyiv peak check: nothing fits (Instagram private API follow bot = ToS/spam skip; RN Expo 19 props; sales-only)
 - 2026-11-17 02:47 Kyiv check (last of day): nothing new fits; no invitations, no offers
 - 2026-11-17 10:17 Kyiv peak check (course filter ≤10): nothing fits (Shopify product page fix IN hourly 10 props 2 interviewing; HK Browserstack automation full-time)
+- 2026-11-17 10:47 Kyiv check: nothing fits (KPDW AI back-office app IN $100 big scope, new client; RN+iOS; SEO; Web3)
