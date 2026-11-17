@@ -91,3 +91,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 10:47 Kyiv check: nothing fits (KPDW AI back-office app IN $100 big scope, new client; RN+iOS; SEO; Web3)
 - 2026-11-17 11:17 Kyiv peak check: nothing new in window (Relevance AI consulting+training US hourly needs calls/training; rest old)
 - 2026-11-17 11:47 Kyiv check: nothing fits (app alerts checked: Website Refresh US $150 = 71 props in 2h, Website Improvements AU $130 = 81 props; course-filter search: only non-dev/long-term)
+- 2026-11-17 12:17 Kyiv: ALERTED 2122634010781030030 AI-Driven Marketing Workflow Specialist (UAE 5.0/16 hires, $50, <5 props) 🟡 preview ready
