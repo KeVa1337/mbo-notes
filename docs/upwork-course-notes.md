@@ -172,3 +172,5 @@
 
 ## Lecture 6 (part 1) — Upwork updates 2025–2026
 - Intro: overview of important 2025–2026 changes; Upwork heavily integrated AI, many features changed, new ones appeared, some removed. (continued)
+- (Lecture 6 cont., recorded April 2026) Feb 2025: Direct Contracts fee 0% (was 5%) when you bring your own client. May 2025: Freelancer Plus got detailed proposal stats (opened/viewed/replied per job). May 2025: variable fee 0–15% by contract category (AI video/photo now 15% for her; UX/UI ~10%; no official table). Jun 2025: Rising Talent now requires $250 earned + 100% profile + verified ID + verified payment method BEFORE the badge. Jul 2025: Uma AI interviews — clients may let Upwork's AI interview freelancers by VOICE in English (questions about workflow/tools, it paraphrases answers, recording sent to client). Her English is weak and it's fine.
+- Our actions: watch viewedByClient via Plus; check the fee % per job (AI categories may be 15%); Rising Talent left: $250 earned + verify payment method; prefer cover letter over AI interview (no English voice).
