@@ -86,3 +86,4 @@ Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixe
 ## Full course mode (Nov 18, Bohdan: «робимо усе згідно курсу»)
 - Hourly trigger prompt rewritten: human-written flow (Bohdan dictates Ukrainian gist, Claude translates plainly), low hire-rate filter, AI-interview-required skip, first client message/invite = top-priority alert (reply <4h), never decline invites. Peak :17 trigger follows the same procedure.
 - Course summary + checklist: docs/upwork-kurs-konspekt.md (end).
+- Nov 18: saved searches done in UI (alerts max 3: Telegram+AI, Lovable/Supabase, Automation & Sheets).
