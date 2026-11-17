@@ -75,3 +75,8 @@ Overrides "First reviews mode" where they differ:
 - Client country priority: USA, Canada, UK, Australia, New Zealand, Northern Europe (Nordics, NL, DE, IE), Cyprus, Hong Kong, Singapore. Others only if clearly strong (hires, rating ≥4.8).
 - Payment verified always. Apply within 15–30 min of posting.
 - Every proposal ends with a call to action (question or "message me to…"), short sentences, no "I'd be happy to".
+
+### Course-mode saved searches (Nov 17) — URLs given to Bohdan to open + "Save search"
+Filters: proposals 0-4,5-9; payment_verified=1; location AU&NZ, Northern America, Northern Europe, UK, Cyprus, Hong Kong, Singapore; sort=recency.
+Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixes, Sheets & automation. Alerts ON: AI apps & Supabase, Telegram, React fixes.
+(Upwork API has no saved-search endpoint; Bohdan saves them in the UI.)
