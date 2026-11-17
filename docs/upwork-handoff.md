@@ -80,3 +80,4 @@ Overrides "First reviews mode" where they differ:
 Filters: proposals 0-4,5-9; payment_verified=1; location AU&NZ, Northern America, Northern Europe, UK, Cyprus, Hong Kong, Singapore; sort=recency.
 Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixes, Sheets & automation. Alerts ON: AI apps & Supabase, Telegram, React fixes.
 (Upwork API has no saved-search endpoint; Bohdan saves them in the UI.)
+- Reminder: at the first check after 19:00 Kyiv on Nov 17, remind Bohdan (one line) to save the course-mode searches (links in this file).
