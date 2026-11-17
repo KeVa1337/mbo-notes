@@ -136,3 +136,6 @@
 - Closing: keep learning (Veo 3 example flooded her feed); take jobs you can't do yet if you know where to learn, ask for extra days (4 instead of 2); English is no barrier with tools; read Joe Girard "How to Sell Yourself"; do everything daily for 3 months, results by month 2 (motion designer: 6 small contracts + 2 regulars in 3 weeks); profession must suit freelancing. (Cut off mid-sentence.)
 - Our actions: no VPN on PC/phone when using Upwork; soft review-request template; contact-request reply template; add Joe Girard book.
 - End of lecture 3: those who earn more want better conditions → better society and Ukraine; thanks, wishes of success and peace. (A short gap after 'military, moms with kids...' was not dictated.) END OF LECTURE 3.
+
+## Lecture 3 addendum — AI Best Match on cover letters
+- Upwork's AI ranks proposals for the client by keyword match with the job. Repeat the exact role/keyword phrase from the job title or description in the cover letter ("Python developer", "AI video creator").
