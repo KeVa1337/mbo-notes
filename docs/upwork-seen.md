@@ -108,3 +108,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 18:47 Kyiv check: smart_search + landing page/website/script — nothing fits (WP redesign 2122730334869636137 US $10 already 11 proposals; rest non-dev/old).
 - 2026-11-17 19:17 Kyiv peak check: smart_search + bug/n8n/openai — nothing new in window. Evening reminder delivered.
 - 2026-11-17 19:47 Kyiv check: smart_search + javascript/supabase/bot — nothing new fits (Solana MM bot NL $400 9 proposals → skip, crypto/VPS). Invitations: 0.
+- 2026-11-17 20:17/20:47 Kyiv: ALERTED 🟢 2122748330879215813 HMA AI reporting agent (US 5.0, 100% hire, $750-1000, <5 proposals, 21 Connects; top boosts 81/80/66/65). Preview $700 in 4 milestones. Skipped 2122748967698830990 (GHL voice agent, Loom/live demo, no hires).
