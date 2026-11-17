@@ -127,3 +127,11 @@
 - If job asks to describe the last project: bullet steps (step 1..4), then "message me for details".
 - Loom video ("John, here's how I see solving your task") is great but only with good spoken English.
 - Our adaptation: no invented links (only Bohdan's real ones); no calls/Loom; portfolio via Upwork highlights unless Bohdan allows mbo-solutions.com/portfolio link (open question — conflicts with no-off-platform-links rule).
+
+## Lecture 3 (part 3) — 3 permanent-ban rules + closing advice
+- One ID = one profile forever; change specialty inside it; bans hit the ID (photo, name, passport), no new account possible.
+- Rule 1: no personal contacts (email, phone, WhatsApp) before the contract starts; instant ban for both sides. After contract start it's allowed, but disputes only consider Upwork-messenger history (WhatsApp/email screenshots rejected). Reply template: "Of course, but per Upwork rules only after we start the contract, otherwise we'd both get banned." Tricks (number in words, paper, Word file on Drive with WhatsApp) = client circumventing → avoid. Links to Instagram/Facebook/Google Drive/YouTube are OK (portfolio/files); contacts are not.
+- Rule 2: no VPN (instant IP/location change looks like account sharing → ban). She deleted VPN apps. Normal travel is fine; 10:00 Warsaw → 10:01 Bangladesh is not. Exception: Ukraine frontline EW (REB) jamming changes geolocation → write support explaining (city, shelling, EW devices, didn't share access), repeatedly and on multiple channels (email, Telegram, Twitter); they restore.
+- Rule 3: never pressure for reviews (rating manipulation). Ask only softly: "thanks for the great project... if you're happy with my work and communication, I'd appreciate a few words on my profile". Avoid "5 stars", "positive review", "leave me a review" — bots flag it.
+- Closing: keep learning (Veo 3 example flooded her feed); take jobs you can't do yet if you know where to learn, ask for extra days (4 instead of 2); English is no barrier with tools; read Joe Girard "How to Sell Yourself"; do everything daily for 3 months, results by month 2 (motion designer: 6 small contracts + 2 regulars in 3 weeks); profession must suit freelancing. (Cut off mid-sentence.)
+- Our actions: no VPN on PC/phone when using Upwork; soft review-request template; contact-request reply template; add Joe Girard book.
