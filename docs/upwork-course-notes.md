@@ -155,3 +155,9 @@
 - Bad examples: Ukrainian greeting + template English; "Hello, I hope you're doing well, I would really like to apply... I'm confident..." — all about self, no mention of the spa hotel; long walls of text.
 - Expanded view: photo, Available now, title, video, JSS, badges, reviews split into Relevant vs All, AI-generated work history summary, client's chosen skills highlighted green, completed jobs (many "no feedback" is fine), employment, skills, education, English level, agency.
 - Our takeaways: reply within 0–4h; put job keywords + any requested item in the first ~4 lines; apply early; boost on best jobs when affordable; tune skills to niche.
+
+## Lecture 5 (part 1) — writing cover letters now (extended)
+- Cover letter = main sales tool; goal of the first contact: grab attention, show work, show you understand THEIR business and can solve it, so they message you. Sales lecture applies; Uma now weighs keywords.
+- Structure unchanged: hook → portfolio → answers to client's questions/requests → call to action.
+- Hook stays as taught: about the client's business, shows you read the job and know the business as a user. "Do it and you'll see results" — many watch, don't apply, then ask why no orders.
+- NEVER write cover letters with ChatGPT/Copilot: everyone pastes the job and asks for "my strengths, best for you..." → AI uses the same knowledge → identical letters (seen in her test job: same structure "Hi, your..."). (continued)
