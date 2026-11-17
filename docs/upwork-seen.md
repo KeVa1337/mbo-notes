@@ -85,3 +85,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 00:47 Kyiv check: nothing fits (AppSheet onboarding app hourly 13 props 4 interviewing; AI sales automation 16 props $5-12/h)
 - 2026-11-17 01:17 Kyiv peak check: nothing new in window
 - 2026-11-17 01:47 Kyiv check: nothing fits (2122473204377291825 scraper Cloudflare bypass = protection bypass, skip; rest sales/translation/design)
+- 2026-11-17 02:17 Kyiv peak check: nothing fits (Instagram private API follow bot = ToS/spam skip; RN Expo 19 props; sales-only)
