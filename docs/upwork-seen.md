@@ -102,3 +102,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 15:47 Kyiv check: nothing new fits
 - 2026-11-17 16:17 Kyiv peak check: nothing fits (Squarespace mobile fix $10 8 props; AI Product Engineer PL full-time; rest non-dev)
 - 2026-11-17 16:47 Kyiv check: nothing fits (2122698033707637406 Clay agent clone 'scrape Google + gated data' IN $300 — scraping gated data, skip; WP transport booking $15; Power Automate 15 props)
+- 2026-11-17 17:17 Kyiv peak check: 2122637187240695438 (UK, 4.98★, 193 hires, $150 fixed, 5–10 proposals, Grok/Claude agents on a dedicated PC) — 🟡 posted ~5h ago, scope bigger than $150, mentioned in chat only. Rest old/non-dev.
