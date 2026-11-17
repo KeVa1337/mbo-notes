@@ -90,3 +90,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 10:17 Kyiv peak check (course filter ≤10): nothing fits (Shopify product page fix IN hourly 10 props 2 interviewing; HK Browserstack automation full-time)
 - 2026-11-17 10:47 Kyiv check: nothing fits (KPDW AI back-office app IN $100 big scope, new client; RN+iOS; SEO; Web3)
 - 2026-11-17 11:17 Kyiv peak check: nothing new in window (Relevance AI consulting+training US hourly needs calls/training; rest old)
+- 2026-11-17 11:47 Kyiv check: nothing fits (app alerts checked: Website Refresh US $150 = 71 props in 2h, Website Improvements AU $130 = 81 props; course-filter search: only non-dev/long-term)
