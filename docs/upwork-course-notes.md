@@ -105,3 +105,11 @@
 - Speed: if posted 15–30 min ago with <5 proposals → open and apply immediately; after 20–50 min it will be 10–20 proposals.
 - She monitors her saved searches one by one when she has no projects.
 - Our gaps: our checks use proposals_max=15 → tighten to ≤10 (prefer <5); add client-country preference; Bohdan should create saved searches (pending task).
+
+## Lecture 3 (part 1) — hourly vs fixed, applying step by step, cover letter intro (dictated Nov 17)
+- Hourly: Upwork tracks hours, multiplies by contract rate, pays weekly to the Upwork balance.
+- Fixed: agree a sum for the result (client offers $100, freelancer asks $150, contract at $150). Time is not counted. Previews/edits/final agreed with client; deliver final, press Submit Payment; client approves → money lands immediately.
+- Choice hourly vs fixed depends on task/client; discuss.
+- Applying (hourly): choose profile (General or specialized, e.g. AI profile for AI job); rate prefilled with standard rate ($30 in her case); if client states max, bid their max. Fee: since May 1 (lecture year) Upwork charges 0–15% "depending on factors"; in practice nearly all 10%, she saw one at 15%. Rate increase frequency: Never (contracts may be one-off; raise by talking to client). Attachments: max 10 files / 20 MB — skip, give portfolio links (Google Drive etc.). Boost proposal: bid extra Connects for top slots (example: someone bid 40 for #1; her 12 + 8 boost = 20 for #3); use only when you really want the job; can be outbid.
+- Applying (fixed, e.g. $36 job): choose By milestone or By project (~10% fee). Milestones = paid in parts (her $2000 3-min video → 10 x $200 per scene). Useful for big projects; small ($100–200, ~3 days) → By project. Can always choose By project since real terms are agreed in chat and client builds the contract from them. Duration: always "less than 1 month". Screening questions: answer fast before others pile in; use ChatGPT for translation if English weak. Skip files.
+- Cover letter intro: this is where everyone fails ("no replies, Upwork sucks"). Beginners paste the job into ChatGPT → bad, ChatGPT doesn't understand sales. "Cover letter" is misleading: it's a cover MESSAGE, not a letter. Client has 10–15 proposals and skims them... (continued next part)
