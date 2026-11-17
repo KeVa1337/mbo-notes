@@ -77,3 +77,31 @@
   - END with call to action, never "I'd be happy to work with you". CTA = tell them what to do ("Contact me to discuss…", "Message me for an interview") OR a question ("Could you tell me more about your business?", "What are the next steps?"). Use CTA at the end of every selling message/proposal.
 - Video intro: mandatory. Not a slideshow of works — film YOURSELF. Purpose: show what kind of person you are, that it's comfortable to work with you. 40–50 sec max. Smiling, neat (clean ironed shirt/T-shirt), good background, light on face, energetic positive voice. If English weak: ask GPT for a 40–50s script at B1/B2 level, read from laptop 1–2 sentences at a time with pauses, then cut together. Monotone "Hello, I'm from Ukraine, I have experience" won't work — "play the role".
 - Our check vs this: Available badge ON ✅. Sub-profiles: unknown — check. Rate $20/h vs her "start at niche minimum" — consider $15 for first reviews (dev niche min is higher than video). Overview: currently pain-first; check for short lines, hobbies line, CTA at end. Video: reused Fiverr video — check it shows Bohdan smiling on camera, ≤50s. Photo: check 3/4 face + smile.
+
+## Lecture 1 (part 9) — rest of profile + job feed setup
+- Video intro (cont.): if not natural, still do ~40s. Among 10 similar freelancers, the one with a video (a living person) gets picked. Also shows Upwork you use its tools.
+- Availability prefs: open to all contract lengths (<1 month, 1–3, >3 months), open to contract-to-hire. Response time shown by Upwork ("<24h").
+- Languages: English + Ukrainian; don't add Russian (may trigger clients; no Russian companies on the site). Other languages if you work those markets. She says ALWAYS set English = Fluent regardless of real level, to pass client filters. ⚠️ Our view: misrepresenting level conflicts with Bohdan's no-calls rule and risks bad reviews; keep an honest level (decision is Bohdan's).
+- Verification: verify phone + ID BEFORE applying anywhere; many clients filter "ID verified"; unverified accounts can be blocked as spam/scam. If buttons missing → Upwork support (responsive).
+- Military veterans section: she says it's for US veterans (special programs). Licenses: only for US-licensed professions (lawyers, finance, medical, psychologists).
+- Education: list base education + ALL courses in your profession (shows depth).
+- Linked accounts: connect developer sites (GitHub etc.) if you have them.
+- Portfolio: client has 10–20 others → no time. Each portfolio item is a "folder" (hers: AI videos, images, book character illustrations, face swap), each with ~10 samples + description of task and tools. Max 2 pages of portfolio items. Detailed portfolio later via Google Drive link.
+- Summary: Upwork generates it itself from your contracts.
+- Skills: max 15, only from Upwork's dropdown; they act as search keywords → choose carefully.
+- Project Catalog, testimonials: skip for now. Certifications: duplicate all course certificates here (later: verify and link to skills).
+- Employment history: top entry related to current profession (she says invent one if none — ⚠️ we don't fabricate; Bohdan has real MBO Solutions). Add 1–2 previous jobs.
+- Other experience: fill with anything (hers: photographer).
+- "Complete your profile" widget: aim to tick as many items as possible (don't trust the % — check ticks). Part of activity for organic ranking.
+
+### Finding clients: job feed setup (start of next block)
+- Complaint "no good jobs" = feed not configured. Thousands of jobs per minute; default feed shows random jobs by skills, mixed budgets.
+- Use Saved Searches: Search → Jobs → keyword (e.g. "Video Editing") → filters → Save Search; then click it on the feed home. Manage button to delete.
+- Keywords from your title/skills/overview get highlighted in green in matching jobs → put search words in title, overview, skills.
+- Filters for beginners:
+  1) Number of proposals: "Less than 5" + "5–10" only (later 10–15 when confident).
+  2) Payment verified: always.
+  3) Client location: her list = USA, Canada, UK, Australia, New Zealand, Northern Europe, Cyprus (tech companies), Hong Kong, Singapore. Exclude Pakistan/Bangladesh/India/Turkey feeds (her preference).
+- Speed: if posted 15–30 min ago with <5 proposals → open and apply immediately; after 20–50 min it will be 10–20 proposals.
+- She monitors her saved searches one by one when she has no projects.
+- Our gaps: our checks use proposals_max=15 → tighten to ≤10 (prefer <5); add client-country preference; Bohdan should create saved searches (pending task).
