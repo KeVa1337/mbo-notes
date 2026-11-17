@@ -95,3 +95,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 12:22 Kyiv: APPLIED 2122634010781030030 ($50, 11 Connects + boost 3, proposal 2122636257978417153)
 - 2026-11-17 12:47 Kyiv check: nothing fits (2122106719339383857 Cloud Run IAM review AU $350 — prefers $10K+ earned & JSS 90, asks for past Cloud Run/IAM review; 2122635953033189006 OpenAI pixel Shopify 13 props; no invites)
 - 2026-11-17 13:17 Kyiv peak check: nothing new fits (window empty for dev work)
+- 2026-11-17 13:47 Kyiv check: nothing fits (no new dev jobs in window; Expensify $175-250 GitHub-bounty jobs are old and need GitHub proposal flow)
