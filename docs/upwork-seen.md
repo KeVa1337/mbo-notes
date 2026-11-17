@@ -101,3 +101,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 15:17 Kyiv peak check: nothing new in window
 - 2026-11-17 15:47 Kyiv check: nothing new fits
 - 2026-11-17 16:17 Kyiv peak check: nothing fits (Squarespace mobile fix $10 8 props; AI Product Engineer PL full-time; rest non-dev)
+- 2026-11-17 16:47 Kyiv check: nothing fits (2122698033707637406 Clay agent clone 'scrape Google + gated data' IN $300 — scraping gated data, skip; WP transport booking $15; Power Automate 15 props)
