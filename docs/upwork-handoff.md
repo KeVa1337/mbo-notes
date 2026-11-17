@@ -66,4 +66,12 @@ Upwork did not unblock Alina's payment; owner cannot ask her again. Drop LUMEX a
 She confirmed: support = 30 days from purchase, Telegram text + voice, any questions within course topics, profile and real proposals are reviewed, reply within 24 h. Recommendation given: buy the full course (4,850 UAH) only when ready to use all 30 days actively; prepare a pack (profile, 5-10 sent proposals with results, niche question) for day 1.
 
 ## Samarina course notes in progress (Nov 16, 2026)
-Bohdan records lectures and pastes transcript chunks into chat (author allowed personal transcription). Log EVERY chunk in docs/upwork-kurs-konspekt.md (Ukrainian, for Bohdan, keep action list at bottom updated) and docs/upwork-course-notes.md: detailed notes in own words, all numbers/conditions/tips, no skipping "intro" parts; flag conflicts with Help Center. At the end: full summary + action list for profile, proposals, filter. Pending question to Bohdan: switch check filter to prioritize $20–100 jobs.
+Bohdan records lectures and pastes transcript chunks into chat (author allowed personal transcription). Log EVERY chunk in docs/upwork-kurs-konspekt.md (Ukrainian, for Bohdan, keep action list at bottom updated) and docs/upwork-course-notes.md: detailed notes in own words, all numbers/conditions/tips, no skipping "intro" parts; flag conflicts with Help Center. At the end: full summary + action list for profile, proposals, filter. Filter switched to Course mode (see below) on Nov 17.
+
+## Course mode filter (Nov 17, 2026 — Bohdan: "do everything per the course")
+Overrides "First reviews mode" where they differ:
+- proposals_max = 10; <5 proposals first; skip anything with 10+ proposals or interviews/hires running.
+- Budget sweet spot $20–100 fixed (or small hourly $10+/h); bigger projects only on a 100% skill match.
+- Client country priority: USA, Canada, UK, Australia, New Zealand, Northern Europe (Nordics, NL, DE, IE), Cyprus, Hong Kong, Singapore. Others only if clearly strong (hires, rating ≥4.8).
+- Payment verified always. Apply within 15–30 min of posting.
+- Every proposal ends with a call to action (question or "message me to…"), short sentences, no "I'd be happy to".
