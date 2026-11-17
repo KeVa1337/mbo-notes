@@ -169,3 +169,6 @@
 - Keywords: put exact phrases from the job title/first lines into the hook or the CTA (e.g. "What's your deadline for the 60-second video for your spa hotel?"). Don't paste the whole job; light paraphrase OK.
 - Brevity: expanded letters are shown in dim text; the letter is a bridge to the profile/portfolio. 4 blocks = 4 short paragraphs: hook, portfolio, answers, CTA (+keywords). Business owners value structured, short, time-saving text.
 - Our adaptation: drafts by Claude + Ukrainian translation; Bohdan may dictate his own Ukrainian version, Claude translates to casual English and adds job keywords.
+
+## Lecture 6 (part 1) — Upwork updates 2025–2026
+- Intro: overview of important 2025–2026 changes; Upwork heavily integrated AI, many features changed, new ones appeared, some removed. (continued)
