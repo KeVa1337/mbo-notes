@@ -118,3 +118,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 00:17 Kyiv peak check: smart_search + automation/telegram/fix — nothing fits (marketing data specialist full-time, 14 proposals; Telegram growth/spam jobs skip).
 - 2026-11-18 00:47 Kyiv check: smart_search + python/chatbot/website — skip 2122823141435905678 website update & brand refinement (US 5.0, design/branding-led, 3 proposals). Nothing else. Proposals: 'High-end design for AI Matchmaking' no longer in active list (likely closed/archived); HMA not viewed yet.
 - 2026-11-18 01:17 Kyiv peak check: smart_search + script/ai agent/react — nothing new fits (voice-recording jobs, old).
+- 2026-11-18 01:47 Kyiv check (new course-mode prompt): smart_search + n8n/bug/landing page — nothing new fits. Invitations 0.
