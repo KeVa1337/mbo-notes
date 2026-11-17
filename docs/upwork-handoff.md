@@ -82,3 +82,7 @@ Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixe
 (Upwork API has no saved-search endpoint; Bohdan saves them in the UI.)
 - Reminder: at the first check after 19:00 Kyiv on Nov 17, remind Bohdan (one line) to save the course-mode searches (links in this file).
 - Reminder (evening Nov 17, first check after 19:00 Kyiv): also remind Bohdan to enable Available Now badge (https://www.upwork.com/nx/find-work/best-matches?openModal=pib), profile boost 3-5/click with 20-30 weekly cap (https://www.upwork.com/nx/find-work/best-matches?boostProfile=1), buy 80-100 Connects; then verify with boost_profile get_status.
+
+## Full course mode (Nov 18, Bohdan: «робимо усе згідно курсу»)
+- Hourly trigger prompt rewritten: human-written flow (Bohdan dictates Ukrainian gist, Claude translates plainly), low hire-rate filter, AI-interview-required skip, first client message/invite = top-priority alert (reply <4h), never decline invites. Peak :17 trigger follows the same procedure.
+- Course summary + checklist: docs/upwork-kurs-konspekt.md (end).
