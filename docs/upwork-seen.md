@@ -106,3 +106,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 17:47 Kyiv check: smart_search + react/python/api/google sheets/telegram bot — nothing new in window (all old/full-time/non-dev); fix/landing page hit rate limit. Proposals: no changes (16 submitted).
 - 2026-11-17 18:17 Kyiv peak check: smart_search + fix/automation/ai agent/chatbot — nothing in window that fits (WP fixes 2122721718042812871 US $30 already 13 proposals → skip). landing page rate-limited.
 - 2026-11-17 18:47 Kyiv check: smart_search + landing page/website/script — nothing fits (WP redesign 2122730334869636137 US $10 already 11 proposals; rest non-dev/old).
+- 2026-11-17 19:17 Kyiv peak check: smart_search + bug/n8n/openai — nothing new in window. Evening reminder delivered.
