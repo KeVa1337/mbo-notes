@@ -139,3 +139,10 @@
 
 ## Lecture 3 addendum — AI Best Match on cover letters
 - Upwork's AI ranks proposals for the client by keyword match with the job. Repeat the exact role/keyword phrase from the job title or description in the cover letter ("Python developer", "AI video creator").
+
+## Lecture 4 (part 1) — Upwork from the client side: posting a job
+- Uma (Upwork's AI agent) now sorts proposals by Best Match (proposal + profile vs job), not by arrival order; re-sorts as new ones arrive.
+- One account can hold freelancer, client and agency profiles. Client menu: post job, find talent, jobs, payments, work in progress, reports, messages.
+- Post a job: long/short-term → title (Upwork auto-suggests category) → up to 10 skills (auto-suggested, incl. tools) → size (S/M/L) → duration → level (entry/intermediate/expert; she thinks clients pick expert) → contract-to-hire → budget (Upwork auto-suggests the average hourly range for such specialists, e.g. $20–50/h; most clients likely keep it; fixed = client types amount) → description (+files) → review → screening questions (optional; she skips them but tells beginners to answer) → invite specific freelancer → visibility (public / Upwork users / invite only), add coworkers to chat → advanced: English level (fluent), talent type (independent/agency), location, hire date, JSS filter (she hires only 90%+), min earnings → posting: free (30 invites) or $30 (70 invites, featured badge); Business Plus upsell.
+- KEY: job skills chosen by the client are matched by Uma against freelancer profile skills; fill all 20 skill slots (was 15) with the exact names Upwork suggests to clients in your niche.
+- Our action: audit Bohdan's 20 skills against the names Upwork suggests for AI automation / n8n / bots jobs.
