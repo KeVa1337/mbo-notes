@@ -104,3 +104,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 16:47 Kyiv check: nothing fits (2122698033707637406 Clay agent clone 'scrape Google + gated data' IN $300 — scraping gated data, skip; WP transport booking $15; Power Automate 15 props)
 - 2026-11-17 17:17 Kyiv peak check: 2122637187240695438 (UK, 4.98★, 193 hires, $150 fixed, 5–10 proposals, Grok/Claude agents on a dedicated PC) — 🟡 posted ~5h ago, scope bigger than $150, mentioned in chat only. Rest old/non-dev.
 - 2026-11-17 17:47 Kyiv check: smart_search + react/python/api/google sheets/telegram bot — nothing new in window (all old/full-time/non-dev); fix/landing page hit rate limit. Proposals: no changes (16 submitted).
+- 2026-11-17 18:17 Kyiv peak check: smart_search + fix/automation/ai agent/chatbot — nothing in window that fits (WP fixes 2122721718042812871 US $30 already 13 proposals → skip). landing page rate-limited.
