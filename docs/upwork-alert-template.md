@@ -40,3 +40,6 @@ Client viewed/replied/invite notices: same endpoint, "kind": "upwork", short HTM
 - 💬 Client replied on «<title>»: with a draft reply.
 - 📩 Invitation to «<title>»: breakdown + draft reply (invites cost no Connects).
 - Nothing worth it: one sentence in chat, no push, no Telegram.
+
+## 4. Human-written flow (Nov 18, course rule — default)
+In the full chat alert, instead of a finished proposal give Bohdan in Ukrainian: client's business, exact job keyword phrase, what the client asks (screening questions), suggested price/milestones, risks, and 3 prompts: «Хук про його бізнес (твій реальний зв'язок)?», «Яку роботу показати?», «Яке питання поставити клієнту?». Ask him to dictate 3 short paragraphs in Ukrainian. Then translate plainly, add the keyword, create the preview, show English + Ukrainian back-translation. Only if he says «пиши сам» — write a simple draft yourself.

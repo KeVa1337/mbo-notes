@@ -185,3 +185,9 @@
 - Using funds: (1) transfer to own personal card → converted to UAH (no FX cash withdrawals under martial law; self-transfers don't trigger fin-monitoring); (2) pay business-related expenses directly from the FOP account (laptop, EcoFlow, another FOP's services; not manicure); (3) USD cash legally via a min-3-month USD deposit, then order cash at the bank branch; (4) abroad: virtual USD/EUR card in Apple/Google Pay, withdraw at NFC ATM, justified as cash withdrawal on a business trip.
 - Bookkeeper vs self: her old bookkeeper (cheap, many clients) made errors → refilings, fines. (continued)
 - For Bohdan: group 3 confirmed; candidate IT KVEDs 62.01/62.02/63.11 — verify in Diia.
+
+## Bonus video — "why nobody opens your cover letters"
+- 100% of mentees make the same mistake: cover letters written by AI (ChatGPT/Gemini/Claude). "I did everything" usually means: no video intro, wall-of-text overview, applying to weak clients (e.g. Nigeria, 32% hire rate).
+- No official Upwork rules; her success = the full set of actions: 5–7 proposals/day, ≥4h/day on Upwork, online in clients' working hours, change something in profile weekly, full profile, video, non-AI-edited avatar, hand-written letters.
+- AI letters: typical phrasing/structure, Upwork reads it; Upwork's contradiction: pushes automation (Uma) but blocks automation as spam (bans for automated Telegram job-feed channels) and ranks AI letters lower. Even AI trained on her structure is detectable. Imperfect human text is the value now (YouTube human channels outperform AI ones; mannequin-with-sign vs live consultant). Use AI only to translate your own thoughts. 3 paragraphs in your own words.
+- Our change: Bohdan writes/dictates the gist in Ukrainian, Claude translates plainly and inserts the job keyword; Claude-written drafts only as an exception. Don't connect automated job-feed bots to the Upwork account; we use the official API, manual approval.
