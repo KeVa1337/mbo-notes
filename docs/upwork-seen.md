@@ -115,3 +115,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 22:47 Kyiv check: smart_search + urgent/apps script/booking — nothing fits (travel AI repost 2122790954870993903 $7, 9 proposals → skip). Verified: Open for work badge ON (14/wk), profile boost ON (4/click, total 25, until Nov 24), Connects 124.
 - 2026-11-17 23:17 Kyiv peak check: smart_search + deploy/node/chrome extension — nothing new in window.
 - 2026-11-17 23:47 Kyiv check: smart_search + finish/scraper/html — skip 2122806181752465605 browser AI agent (US 3.72★, 10-15 proposals). Nothing else new. Invitations 0.
+- 2026-11-18 00:17 Kyiv peak check: smart_search + automation/telegram/fix — nothing fits (marketing data specialist full-time, 14 proposals; Telegram growth/spam jobs skip).
