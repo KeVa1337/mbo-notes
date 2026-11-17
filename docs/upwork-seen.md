@@ -111,3 +111,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 20:17/20:47 Kyiv: ALERTED 🟢 2122748330879215813 HMA AI reporting agent (US 5.0, 100% hire, $750-1000, <5 proposals, 21 Connects; top boosts 81/80/66/65). Preview $700 in 4 milestones. Skipped 2122748967698830990 (GHL voice agent, Loom/live demo, no hires).
 - 2026-11-17 21:19 Kyiv: APPLIED 2122748330879215813 HMA AI reporting (proposal 2122776204769935361, $700 in 4 milestones, 21 Connects, no boost, Jarvis + MBO Leads). Balance 25.
 - 2026-11-17 21:47 Kyiv check: smart_search + small/zapier/claude — nothing new fits (Claude KYC = skip, identity task).
+- 2026-11-17 22:17 Kyiv peak check: smart_search + quick/next.js/make.com — skip 2122785274329678889 travel AI automation ($7 placeholder, huge vague scope, 1 already invited to interview, 33% hire). Connects now 125 (Bohdan bought). Badge still OFF, no profile boost.
