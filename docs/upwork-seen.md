@@ -99,3 +99,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-17 14:17 Kyiv peak check: nothing new in window
 - 2026-11-17 14:47 Kyiv check: nothing fits (2122672368896172486 WP speed fix ZA $10, 0 props — below $20 and WordPress not our fit; rest non-dev)
 - 2026-11-17 15:17 Kyiv peak check: nothing new in window
+- 2026-11-17 15:47 Kyiv check: nothing new fits
