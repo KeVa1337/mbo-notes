@@ -148,3 +148,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 18:48 Kyiv main check: 0 invites, nothing worth it (2123094324034805973 'AI Agent business automation platform' $50 US 4.99★ 329 hires — platform scope for $50, 5–10 props in 6 min — skip).
 - 2026-11-18 19:18 Kyiv peak check: nothing worth it (QA, translation, sales, video coaching).
 - 2026-11-18 19:48 Kyiv main check: ALERTED 🟡 2123110709519589589 'Python + Next.js to Review Our AI Chat Bot' $110 (UA client Yulia, 5★, 2/2 hires, <5 props, 13 Connects; WP plugin + PHP/Python/Next.js + LangChain, Claude Code required). Peter's Claude-projects proposal now OnHold: client opened 11/20, shortlisted 2, messaged 2 — ours NOT opened (boost 10). Other applicants avg 44 jobs, JSS 98.8%.
+- 2026-11-18 20:18 Kyiv peak check: nothing new. AI chat bot review job (UA) still open, no interviews; bids recorded 100–1500, avg ~227 (basis unspecified). Awaiting Bohdan.
