@@ -139,3 +139,4 @@ Title: AI Automation Developer | n8n, Telegram Bots, AI Agents, Google Sheets. S
 - 2026-11-18: Base44 mobile responsive fix (Mistura, US) — $15, boost 3, 14 Connects. Draft written by Claude (Bohdan said «давай»/«відправ»). Connects left ~51.
 - 2026-11-18: Python + Next.js AI Chat Bot review (Yulia, Ukraine) — $280 in 2 milestones (110/170), no boost, 13 Connects. Draft by Claude, approved by Bohdan («так, як є»). Connects left 54.
 - 2026-11-18: RAG Assistant from Product Manuals (Kenya client, 5★) — $75 by project, boost 4, 17 Connects. Bohdan's dictated text. Connects left ~37.
+- 2026-11-19: GoHighLevel workflow fix (Canada client 4.99, 197 reviews) — $10 by project, boost 4, 12 Connects, proposal 2123186584510578689. Reviews-first mode. Connects left ~28.
