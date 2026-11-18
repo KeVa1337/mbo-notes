@@ -106,3 +106,12 @@ All four checks fire into this session and use the REVIEWS-FIRST filter.
 Result: every 15 min during 15:00–24:00 Kyiv, every 30 min otherwise.
 Client working hours in Kyiv time (winter): UK 11–19, US East 16–00, US West 19–03, Australia (Sydney) 00–08.
 To revert after 3–5 reviews: delete the two fast-scan tasks and restore the $20–100 course filter.
+
+## PROFILE AUDIT vs COURSE (2026-11-19, asked by Bohdan)
+Overview form is OK (no greeting, blocks, short lines, hobby, CTA question, no emoji). Open issues:
+1. Overview text was composed by Claude on Nov 17 (course: write yourself in Ukrainian, AI only translates). Plan: Bohdan dictates 5-6 sentences, Claude translates plainly.
+2. Portfolio contradicts the title: 12 items, 9 are concept websites + MBO Solutions site + LUMEX; only Jarvis and MBO Leads are AI/bot work; no n8n / Google Sheets / automation example. Order puts EV Dealership first. Fix: move Jarvis + MBO Leads first, add a real n8n/Sheets demo.
+3. "MBO Leads — AI bot that finds and sorts freelance jobs" (portfolio title + overview line): course says Upwork blocked accounts for automated Telegram job-search channels. Low-probability, high-cost risk; reword only with true facts (reads RSS, Reddit, public Telegram, Threads; ask Bohdan whether it reads Upwork).
+4. Small: line "I'm Bogdan, a developer from Lviv, Ukraine" (name/location already visible); no education line; keywords RAG, Make.com, API integration, Python absent from the text; lonely "Not a fit: native mobile apps."
+5. Bohdan to check himself: photo (face 3/4, smile, no AI retouch); employment entry "Workday — Freelancer"; degree name vs diploma; contract-to-hire; Account Health; payout method; GitHub link; AI summary toggle.
+OK: title, 20 skills, video, ID, Public, Open for work badge ON (renews 2026-11-19 08:33 UTC, 14 Connects), profile boost running to Nov 24 (1 click, 4 Connects), Freelancer Plus (next billing Dec 9, +100 Connects). Connects 32.
