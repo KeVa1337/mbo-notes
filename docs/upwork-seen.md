@@ -131,3 +131,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 11:48 Kyiv main check: 0 invites. Nothing worth it. Noted 2122989579726414279 Webflow Figma→Webflow $110 (UA client 5★, 0 props) — skip, Webflow off-stack.
 - 2026-11-18 12:17 Kyiv peak check: nothing new in window.
 - 2026-11-18 ~12:30 Kyiv: grok bots 2122866570615843013 — skipped, client already hired (totalHired=1, contract started 10:19 UTC). Bohdan said «Давай» but not applied.
+- 2026-11-18 12:48 Kyiv main check: 0 invites, nothing worth it (video/voice/sales/full-time; Telegram growth HK $1000 already interviewing, marketing-heavy).
