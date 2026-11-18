@@ -137,3 +137,4 @@ Title: AI Automation Developer | n8n, Telegram Bots, AI Agents, Google Sheets. S
 
 - 2026-11-18: Voiceflow Chatbot + Make.com + Airtable (AU) — $280 in 2 milestones (120/160), boost 13, 26 Connects total. Bohdan's dictated text. Connects left ~65.
 - 2026-11-18: Base44 mobile responsive fix (Mistura, US) — $15, boost 3, 14 Connects. Draft written by Claude (Bohdan said «давай»/«відправ»). Connects left ~51.
+- 2026-11-18: Python + Next.js AI Chat Bot review (Yulia, Ukraine) — $280 in 2 milestones (110/170), no boost, 13 Connects. Draft by Claude, approved by Bohdan («так, як є»). Connects left 54.
