@@ -163,3 +163,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 23:06 Kyiv: schedule changed on Bohdan request — both checks switched to reviews-first filter (+rag/assistant/mcp, platform small fixes, category searches); added fast scans :02/:32 for 15:00-23:32 Kyiv.
 - 2026-11-18 23:19 Kyiv extra check: skipped "WhatsApp Cloud API + n8n AI agent not receiving messages" (~022123159254037960334) $50, SE client 4.87 - requires live screen share, 10-15 props in 18 min, 1 interview; Instantly.ai setup $250 - outreach tool, 9 props. Nothing else.
 - 2026-11-18 23:24 Kyiv: PROFILE overview changed (Bohdan approved): "Not a fit: WordPress, Wix or Shopify themes, native mobile apps." -> "Not a fit: native mobile apps."
+- 2026-11-18 23:49 Kyiv main check: nothing new worth it; no views on proposals, invites 0.
