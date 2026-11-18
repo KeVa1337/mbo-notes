@@ -87,3 +87,13 @@ Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixe
 - Hourly trigger prompt rewritten: human-written flow (Bohdan dictates Ukrainian gist, Claude translates plainly), low hire-rate filter, AI-interview-required skip, first client message/invite = top-priority alert (reply <4h), never decline invites. Peak :17 trigger follows the same procedure.
 - Course summary + checklist: docs/upwork-kurs-konspekt.md (end).
 - Nov 18: saved searches done in UI (alerts max 3: Telegram+AI, Lovable/Supabase, Automation & Sheets).
+
+## REVIEWS-FIRST MODE (Bohdan's decision, 2026-11-18 evening)
+Goal now: first 3–5 reviews, price does not matter.
+- Take small fixed jobs $5–50 (1–3 h), any stack doable with Claude, incl. WordPress / Shopify / Wix / Squarespace / Base44 small fixes (previously skipped).
+- Client must: payment verified, hire rate ≥ ~70%, rating ≥ 4.8, and actually leave reviews (many reviews relative to hires). Serial small-task clients with 100+ hires are good targets.
+- Fewer than 5 proposals, posted < 30 min ago. Skip if interviews already started.
+- Skip big projects ($300+) until 3 reviews exist, except a clear unique advantage (e.g. Ukrainian-speaking client).
+- First line of every cover: client's name (if in reviews) + concrete proof or "can do it today". No sympathy intro.
+- Never fake reviews or review-exchange; only real work.
+- Lesson from Peter's job (closed, 2 hires): client opened 11/20 proposals, ours not opened despite boost 10 — list card without reviews + weak first 2 lines + applied ~3 h late.
