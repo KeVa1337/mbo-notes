@@ -136,3 +136,4 @@ Title: AI Automation Developer | n8n, Telegram Bots, AI Agents, Google Sheets. S
 - Nov 17, 2026 CORRECTION: dashboard shows Availability badge OFF ("turned off by you") and no profile boost running (earlier note said ON). API cannot enable them; Bohdan to enable on upwork.com (badge 14 Connects/week; profile boost bid 3-5 per click). Balance 46 (RAG chatbot job cancelled by client, 13 refunded).
 
 - 2026-11-18: Voiceflow Chatbot + Make.com + Airtable (AU) — $280 in 2 milestones (120/160), boost 13, 26 Connects total. Bohdan's dictated text. Connects left ~65.
+- 2026-11-18: Base44 mobile responsive fix (Mistura, US) — $15, boost 3, 14 Connects. Draft written by Claude (Bohdan said «давай»/«відправ»). Connects left ~51.
