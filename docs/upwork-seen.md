@@ -120,3 +120,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 01:17 Kyiv peak check: smart_search + script/ai agent/react — nothing new fits (voice-recording jobs, old).
 - 2026-11-18 01:47 Kyiv check (new course-mode prompt): smart_search + n8n/bug/landing page — nothing new fits. Invitations 0.
 - 2026-11-18 02:05 Kyiv manual check: ALERTED 🟢 2122796248283968495 Claude projects setup (US 4.92, 96% hire, 168 contracts, $50, <5 proposals, 8 Connects; wants 40-min screen share + WhatsApp → only after contract). Skip 2122839896728278670 NZ Retell voice agents ($1400, 3-6 mo, new client). Timezone verified: UTC+02:00 Eastern European Time.
+- 2026-11-18 02:12 Kyiv: APPLIED 2122796248283968495 Claude projects setup (proposal 2122844931126259713, $50 by project, 8 Connects + boost 10, Jarvis highlight). First proposal in human-written flow (Bohdan dictated, Claude translated plainly).
