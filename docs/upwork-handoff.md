@@ -97,3 +97,12 @@ Goal now: first 3–5 reviews, price does not matter.
 - First line of every cover: client's name (if in reviews) + concrete proof or "can do it today". No sympathy intro.
 - Never fake reviews or review-exchange; only real work.
 - Lesson from Peter's job (closed, 2 hires): client opened 11/20 proposals, ours not opened despite boost 10 — list card without reviews + weak first 2 lines + applied ~3 h late.
+
+## ACTIVE-HOURS SCHEDULE (Bohdan's request, 2026-11-18 23:00 Kyiv)
+All four checks fire into this session and use the REVIEWS-FIRST filter.
+- :47 main check, Kyiv 10:00–02:47 (trig_01JqY5XSSze4YJALVVFhAjja) — prompt rewritten for reviews-first: category searches (fixed, <=$150, <=5 proposals, client 5+ hires), keywords + rag/assistant/mcp/llm, wordpress/shopify/wix/squarespace/dns/migration, ready draft cover in the alert.
+- :17 extra check, same hours (trig_01B1WTQb9Agb3uvpKyRHavbg) — same filter, lighter.
+- :02 and :32 fast scans, Kyiv 15:00–23:32 only = US/Canada business hours (trig_01NctHQ4iPykWmNLiUHPi8br, trig_01FsX8TmgzbZZRe72JvSoSyD): jobs posted in the last ~20 min, 3–4 requests, "Скан: нічого" if empty.
+Result: every 15 min during 15:00–24:00 Kyiv, every 30 min otherwise.
+Client working hours in Kyiv time (winter): UK 11–19, US East 16–00, US West 19–03, Australia (Sydney) 00–08.
+To revert after 3–5 reviews: delete the two fast-scan tasks and restore the $20–100 course filter.
