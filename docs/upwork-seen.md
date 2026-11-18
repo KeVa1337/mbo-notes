@@ -170,3 +170,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 00:50 Kyiv main check: nothing new; GHL proposal listed as submitted (boost 4 stored), not viewed yet; invites 0.
 - 2026-11-19 01:19 Kyiv extra check: nothing (Squarespace section redesign $5, Nigeria client, design work; Claude/Grokbot automation hourly AU 4.74 - 20-50 props in 20 min). No views, invites 0. Bohdan: wait for client replies before applying further.
 2026-11-19 01:58 Kyiv portfolio pack prepared (docs/upwork-portfolio-pack.md): n8n demo item, MBO Leads and Jarvis texts fixed; nothing changed on Upwork yet
+- 2026-11-19 01:59 Kyiv main check: nothing (Build responsive Web forms $100 US - client 4.73, $107 spent, 5 props in 5 min, 3-6 months; 360 image viewer $100 India 4.63). No views, invites 0. Bohdan asked about a mobile app job (hourly $10-20, 20 Connects): advised to skip (native mobile, long hourly, Connects).
