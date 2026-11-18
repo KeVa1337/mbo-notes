@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lead form test</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; background: #ebe5dc; color: #23211d; margin: 0; padding: 32px 16px; }
+  form { max-width: 420px; margin: 0 auto; background: #fbf9f6; border-radius: 24px; padding: 28px; display: grid; gap: 14px; }
+  h1 { font-size: 24px; font-weight: 500; margin: 0 0 4px; }
+  label { display: grid; gap: 6px; font-size: 14px; color: #6b635a; }
+  input, textarea { font: inherit; padding: 12px 14px; border: 1px solid #ddd5ca; border-radius: 12px; background: #fff; color: inherit; }
+  button { font: inherit; font-weight: 600; padding: 14px; border: 0; border-radius: 99px; background: #1e1d1a; color: #e6f2b0; cursor: pointer; }
+  /* Hidden field: people never see it, bots fill it in */
+  .hp { position: absolute; left: -9999px; }
+  #out { min-height: 1.5em; font-size: 14px; color: #6f7f3c; }
+</style>
+</head>
+<body>
+<form id="lead">
+  <h1>Book a call</h1>
+  <label>Name <input name="name" required></label>
+  <label>Email <input name="email" type="email"></label>
+  <label>Phone <input name="phone" type="tel"></label>
+  <label>Message <textarea name="message" rows="4"></textarea></label>
+  <label class="hp" aria-hidden="true">Website <input name="website" tabindex="-1" autocomplete="off"></label>
+  <input type="hidden" name="source" value="contact page">
+  <button>Send</button>
+  <div id="out" role="status"></div>
+</form>
+<script>
+  // Put the production webhook URL of the n8n workflow here
+  const WEBHOOK = "https://YOUR-N8N/webhook/lead";
+  const form = document.getElementById("lead"), out = document.getElementById("out");
+  form.addEventListener("submit", async (e) => {
+    e.preventDefault();
+    out.textContent = "Sending…";
+    try {
+      const res = await fetch(WEBHOOK, {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify(Object.fromEntries(new FormData(form))),
+      });
+      if (!res.ok) throw new Error(res.status);
+      out.textContent = "Thanks! We will get back to you today.";
+      form.reset();
+    } catch {
+      out.textContent = "Could not send. Please try again in a minute.";
+    }
+  });
+</script>
+</body>
+</html>

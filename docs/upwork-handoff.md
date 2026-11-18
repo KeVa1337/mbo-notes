@@ -115,3 +115,16 @@ Overview form is OK (no greeting, blocks, short lines, hobby, CTA question, no e
 4. Small: line "I'm Bogdan, a developer from Lviv, Ukraine" (name/location already visible); no education line; keywords RAG, Make.com, API integration, Python absent from the text; lonely "Not a fit: native mobile apps."
 5. Bohdan to check himself: photo (face 3/4, smile, no AI retouch); employment entry "Workday — Freelancer"; degree name vs diploma; contract-to-hire; Account Health; payout method; GitHub link; AI summary toggle.
 OK: title, 20 skills, video, ID, Public, Open for work badge ON (renews 2026-11-19 08:33 UTC, 14 Connects), profile boost running to Nov 24 (1 click, 4 Connects), Freelancer Plus (next billing Dec 9, +100 Connects). Connects 32.
+
+## PORTFOLIO PACK (2026-11-19)
+Bohdan asked to fix the portfolio first, then the profile text. Everything for manual paste is in `docs/upwork-portfolio-pack.md`
+(the connector cannot edit the portfolio). Status: prepared, NOT yet pasted on Upwork; waiting for Bohdan.
+- New item: real n8n workflow "Website lead → Leads table + Telegram alert", built and run on a local n8n 2.48.5 (sample data).
+  Source in `n8n-lead-demo/` (workflow.json with placeholders, README, form.html, images/). Images n8n-1..4 are real n8n screenshots.
+- MBO Leads: new title and description (public sources named; the bot does not read Upwork), tag OpenAI API → Claude,
+  the two frames with invented user numbers removed (image set is now leads-1, leads-2).
+- Jarvis: new title with "AI agent", skills changed, one line added that screens use demo data.
+- Order: Jarvis, MBO Leads, n8n, LUMEX, MBO Solutions, then concept sites.
+- Open questions for Bohdan are at the end of the pack (real MBO Leads users, own n8n instance, items per portfolio page, Workday entry).
+- Next after that: profile overview rewrite from his own dictated Ukrainian text. The overview line "MBO Leads: finds freelance orders…" must be reworded too.
+- `/home/user/works` is not in git: portfolio images live only there and in the files sent to Bohdan in chat.

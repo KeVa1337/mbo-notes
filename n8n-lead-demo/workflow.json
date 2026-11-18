@@ -1,0 +1,499 @@
+{
+  "name": "Website lead → Leads table + Telegram alert",
+  "nodes": [
+    {
+      "parameters": {
+        "content": "## 1. Intake and spam check\nThe website form posts here. Fields are cleaned, and bots are caught by a hidden field, a missing contact or too many links.",
+        "height": 420,
+        "width": 520,
+        "color": 4
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -80,
+        -180
+      ],
+      "id": "note-intake",
+      "name": "Note intake"
+    },
+    {
+      "parameters": {
+        "content": "## 2. Save every lead\nNew and spam rows both go to the Leads table, so nothing is lost and spam rules can be tuned later.",
+        "height": 420,
+        "width": 280,
+        "color": 5
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        460,
+        -180
+      ],
+      "id": "note-store",
+      "name": "Note store"
+    },
+    {
+      "parameters": {
+        "content": "## 3. Telegram alert\nReal leads reach the owner's phone in seconds, with a one-tap reply button. Spam is saved but stays silent.",
+        "height": 420,
+        "width": 760,
+        "color": 6
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        760,
+        -180
+      ],
+      "id": "note-alert",
+      "name": "Note alert"
+    },
+    {
+      "parameters": {
+        "content": "## Daily summary, 9:00\nYesterday's numbers in one message. If there were no leads, it says so: an early sign that the form is broken.",
+        "height": 300,
+        "width": 1220,
+        "color": 7
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "typeVersion": 1,
+      "position": [
+        -80,
+        280
+      ],
+      "id": "note-summary",
+      "name": "Note summary"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "lead",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.2,
+      "position": [
+        0,
+        60
+      ],
+      "id": "webhook-lead",
+      "name": "Website form (webhook)",
+      "webhookId": "lead-demo-webhook"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Clean the form fields, check for spam, prepare the Telegram text\nconst b = $input.first().json.body ?? {};\nconst one = (v) => String(v ?? '').trim().replace(/\\s+/g, ' ');\nconst esc = (v) => String(v).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');\n\nconst name = one(b.name).slice(0, 80);\nconst email = one(b.email).toLowerCase().slice(0, 120);\nconst phone = one(b.phone).replace(/[^\\d+]/g, '').slice(0, 20);\nconst message = String(b.message ?? '').trim().slice(0, 1500);\nconst source = one(b.source).slice(0, 60) || 'website';\n\nconst links = (message.match(/https?:\\/\\//gi) || []).length;\nlet reason = '';\nif (one(b.website)) reason = 'hidden field filled (bot)';\nelse if (!email && !phone) reason = 'no contact details';\nelse if (email && !/^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$/.test(email)) reason = 'invalid email';\nelse if (links > 2) reason = 'too many links';\n\nconst lines = [\n  '🔔 <b>New lead</b> · ' + esc(source),\n  '<b>' + esc(name || 'No name') + '</b>',\n  email ? '📧 ' + esc(email) : '',\n  phone ? '📞 ' + esc(phone) : '',\n  '',\n  esc(message || '(no message)'),\n].filter((l, i) => l !== '' || i === 4);\n\nconst buttons = email\n  ? [{ text: 'Reply by email', url: 'https://mail.google.com/mail/?view=cm&to=' + encodeURIComponent(email) }]\n  : [];\n\nreturn [{ json: {\n  name, email, phone, message, source,\n  status: reason ? 'spam' : 'new',\n  spam_reason: reason,\n  received_at: new Date().toISOString(),\n  alert_text: lines.join('\\n'),\n  buttons,\n} }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        240,
+        60
+      ],
+      "id": "clean-check",
+      "name": "Clean and check for spam"
+    },
+    {
+      "parameters": {
+        "resource": "row",
+        "operation": "insert",
+        "dataTableId": {
+          "__rl": true,
+          "mode": "name",
+          "value": "Leads"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "name": "={{ $json.name }}",
+            "email": "={{ $json.email }}",
+            "phone": "={{ $json.phone }}",
+            "message": "={{ $json.message }}",
+            "source": "={{ $json.source }}",
+            "status": "={{ $json.status }}",
+            "spam_reason": "={{ $json.spam_reason }}",
+            "received_at": "={{ $json.received_at }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "name",
+              "displayName": "name",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "email",
+              "displayName": "email",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "phone",
+              "displayName": "phone",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "message",
+              "displayName": "message",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "source",
+              "displayName": "source",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "status",
+              "displayName": "status",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "spam_reason",
+              "displayName": "spam_reason",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "readOnly": false,
+              "removed": false
+            },
+            {
+              "id": "received_at",
+              "displayName": "received_at",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "dateTime",
+              "readOnly": false,
+              "removed": false
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.dataTable",
+      "typeVersion": 1.1,
+      "position": [
+        540,
+        60
+      ],
+      "id": "save-lead",
+      "name": "Save to Leads table"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "is-spam",
+              "leftValue": "={{ $json.status }}",
+              "rightValue": "spam",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.2,
+      "position": [
+        820,
+        60
+      ],
+      "id": "is-spam",
+      "name": "Spam?"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://YOUR-DOMAIN/api/notify",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ kind: 'info', html: true, text: $('Clean and check for spam').item.json.alert_text, buttons: $('Clean and check for spam').item.json.buttons }) }}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        1060,
+        140
+      ],
+      "id": "telegram-alert",
+      "name": "Telegram alert",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_WITH_YOUR_CREDENTIAL_ID",
+          "name": "Telegram relay token"
+        }
+      },
+      "onError": "continueRegularOutput",
+      "retryOnFail": true,
+      "maxTries": 2,
+      "waitBetweenTries": 2000
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({ ok: true }) }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        1320,
+        140
+      ],
+      "id": "reply-ok",
+      "name": "Reply OK to the form"
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify({ ok: true }) }}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [
+        1060,
+        -40
+      ],
+      "id": "reply-spam",
+      "name": "Reply OK, no alert"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "triggerAtHour": 9
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [
+        0,
+        420
+      ],
+      "id": "daily-9",
+      "name": "Every day at 9:00"
+    },
+    {
+      "parameters": {
+        "resource": "row",
+        "operation": "get",
+        "dataTableId": {
+          "__rl": true,
+          "mode": "name",
+          "value": "Leads"
+        },
+        "matchType": "anyCondition",
+        "filters": {},
+        "returnAll": true
+      },
+      "type": "n8n-nodes-base.dataTable",
+      "typeVersion": 1.1,
+      "position": [
+        240,
+        420
+      ],
+      "id": "read-leads",
+      "name": "Read Leads table",
+      "alwaysOutputData": true
+    },
+    {
+      "parameters": {
+        "jsCode": "// Count yesterday's leads and build one short Telegram message\nconst rows = $input.all().map((i) => i.json);\nconst tz = 'Europe/Kyiv';\nconst day = (d) => new Date(d).toLocaleDateString('en-CA', { timeZone: tz });\nconst y = new Date(Date.now() - 24 * 3600 * 1000);\nconst yesterday = day(y);\n\nconst mine = rows.filter((r) => r.received_at && day(r.received_at) === yesterday);\nconst fresh = mine.filter((r) => r.status === 'new');\nconst spam = mine.filter((r) => r.status === 'spam');\nconst bySource = {};\nfor (const r of fresh) bySource[r.source || 'website'] = (bySource[r.source || 'website'] || 0) + 1;\nconst esc = (v) => String(v).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');\n\nconst text = [\n  '📊 <b>Leads yesterday</b> (' + yesterday + ')',\n  'New: <b>' + fresh.length + '</b> · spam blocked: ' + spam.length,\n  ...Object.entries(bySource).map(([s, n]) => '• ' + esc(s) + ': ' + n),\n  fresh.length ? '' : 'No new leads. Worth checking that the form still works.',\n].filter((l) => l !== '').join('\\n');\n\nreturn [{ json: { text, new_leads: fresh.length, spam: spam.length } }];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        540,
+        420
+      ],
+      "id": "count-yesterday",
+      "name": "Count yesterday's leads"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://YOUR-DOMAIN/api/notify",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ kind: 'info', html: true, text: $json.text }) }}",
+        "options": {
+          "timeout": 10000
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        820,
+        420
+      ],
+      "id": "telegram-summary",
+      "name": "Telegram summary",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "REPLACE_WITH_YOUR_CREDENTIAL_ID",
+          "name": "Telegram relay token"
+        }
+      },
+      "retryOnFail": true,
+      "maxTries": 2,
+      "waitBetweenTries": 2000
+    }
+  ],
+  "connections": {
+    "Website form (webhook)": {
+      "main": [
+        [
+          {
+            "node": "Clean and check for spam",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Clean and check for spam": {
+      "main": [
+        [
+          {
+            "node": "Save to Leads table",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Save to Leads table": {
+      "main": [
+        [
+          {
+            "node": "Spam?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Spam?": {
+      "main": [
+        [
+          {
+            "node": "Reply OK, no alert",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Telegram alert",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Telegram alert": {
+      "main": [
+        [
+          {
+            "node": "Reply OK to the form",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Every day at 9:00": {
+      "main": [
+        [
+          {
+            "node": "Read Leads table",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Read Leads table": {
+      "main": [
+        [
+          {
+            "node": "Count yesterday's leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Count yesterday's leads": {
+      "main": [
+        [
+          {
+            "node": "Telegram summary",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "timezone": "Europe/Kyiv"
+  }
+}
