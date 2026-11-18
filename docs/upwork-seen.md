@@ -128,3 +128,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 10:17 Kyiv peak check: proposals no views, 0 invites. Candidate 2122866570615843013 'grok bots: optimize AI for my company' (US healthcare staffing, 4.87★, 451 hires, $942K, hourly $15–50 Expert, written ideas first, 26 Connects, posted 01:37 UTC) — sent to Bohdan as 🟡 candidate.
 - 2026-11-18 10:48 Kyiv main check: proposals no views, 0 invites. Nothing new worth it (Squarespace broken links $10 — skip, already interviewing; rest old/off-profile). grok bots job still awaiting Bohdan.
 - 2026-11-18 11:17 Kyiv peak check: nothing new worth it (scripts/voice/video only). SafetyCulture job now 169 proposals.
+- 2026-11-18 11:48 Kyiv main check: 0 invites. Nothing worth it. Noted 2122989579726414279 Webflow Figma→Webflow $110 (UA client 5★, 0 props) — skip, Webflow off-stack.
