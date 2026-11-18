@@ -165,3 +165,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 23:24 Kyiv: PROFILE overview changed (Bohdan approved): "Not a fit: WordPress, Wix or Shopify themes, native mobile apps." -> "Not a fit: native mobile apps."
 - 2026-11-18 23:49 Kyiv main check: nothing new worth it; no views on proposals, invites 0.
 - 2026-11-19 00:19 Kyiv extra check: nothing (Squarespace polish $150 - design work, 11 props in 15 min, 1 interview; AI video background fix - video).
+- 2026-11-19 00:35 Kyiv reviews search (Bohdan: "беремо вакансії для відгуку"): shown 2 options — (A) GHL $10 fix still open, 13 props, 8 Connects, no GHL experience; (B) Expensify open-source bug bounties (client 5.0, 9891 reviews, $175-250 per bug, React Native/TS; proposal goes to the GitHub issue first, Upwork hire after acceptance), e.g. #101707 ~022123125463587889365. Awaiting choice.
