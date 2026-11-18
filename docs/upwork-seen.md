@@ -134,3 +134,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 12:48 Kyiv main check: 0 invites, nothing worth it (video/voice/sales/full-time; Telegram growth HK $1000 already interviewing, marketing-heavy).
 - 2026-11-18 13:17 Kyiv peak check: nothing new in window.
 - 2026-11-18 13:48 Kyiv main check: ALERTED 🟢 2123019321500754374 Quick Base44 mobile responsive fix $15, 1 proposal, US 5★ 129 hires (Mistura), 11 Connects.
+- 2026-11-18 14:21 Kyiv peak check: ALERTED 🟢 2123028061971423445 Voiceflow chatbot + Make.com + Airtable $280, 4 proposals, AU 5★ 2/2 hires, 13 Connects. Base44 job still open (1 in interview).
