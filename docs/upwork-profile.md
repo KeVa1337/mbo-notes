@@ -134,3 +134,5 @@ Title: AI Automation Developer | n8n, Telegram Bots, AI Agents, Google Sheets. S
 - Nov 18 00:25: skills changed (Bohdan approved): removed Full-Stack Development, Landing Page, Web Application; added Make.com, Python, Web Scraping.
 - Nov 17 22:47: Connects 124. "Open for work" badge ON (this is the old Available Now, 14 Connects/week, renews weekly). Profile boost ON: 4 per click, total 25, category Web/Mobile/Software Dev > AI Integration, ends Nov 24. "Work Now" (beta) = separate live session, start only when at PC. Review results ~Nov 20.
 - Nov 17, 2026 CORRECTION: dashboard shows Availability badge OFF ("turned off by you") and no profile boost running (earlier note said ON). API cannot enable them; Bohdan to enable on upwork.com (badge 14 Connects/week; profile boost bid 3-5 per click). Balance 46 (RAG chatbot job cancelled by client, 13 refunded).
+
+- 2026-11-18: Voiceflow Chatbot + Make.com + Airtable (AU) — $280 in 2 milestones (120/160), boost 13, 26 Connects total. Bohdan's dictated text. Connects left ~65.
