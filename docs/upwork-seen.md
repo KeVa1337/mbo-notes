@@ -143,3 +143,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-18 16:20 Kyiv peak check: nothing new worth it. Earlier ~16:00: full status + course-based recommendations given; drafted message to Samarina for profile review (Bohdan to send himself).
 - 2026-11-18 16:48 Kyiv main check: 0 invites/messages, nothing worth it (Wix giftbox $300 US — Wix off-stack; QA mobile; LATAM-only).
 - 2026-11-18 17:17 Kyiv peak check: nothing strong. Noted 2123070865703966350 Make.com/Zapier expert $10–15/hr (Bangladesh agency 5★, 7 props in 9 min) — mentioned as optional 🟡, not alerted.
+- 2026-11-18 17:48 Kyiv main check: 0 invites, nothing worth it (AI e-commerce platform for $100 — unrealistic scope, 9 props in 8 min; travel chatbot fix IL — 28 props in 6 min; WooCommerce LMS; HIPAA site 13 props).
