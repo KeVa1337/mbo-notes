@@ -175,3 +175,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 02:49 Kyiv main check (last of the night): nothing new in the window. No views, invites 0. Next check 10:00 Kyiv; Open-for-work badge renews 10:33 Kyiv (14 Connects).
 - 2026-11-19 10:18 Kyiv extra check (first of the day): nothing (video/design/testing jobs, Neander apps need a MacBook, India 4.63 viewer). No views overnight, invites 0.
 - 2026-11-19 10:48 Kyiv main check: nothing (iOS testers, video editing, testing tied to other countries). Invites 0.
+- 2026-11-19 11:17 Kyiv extra check: nothing (GHL landing page $60 US 5.0 - 13 props in 20 min, needs GHL; hourly AI automation jobs 20-50 props). No views, invites 0.
