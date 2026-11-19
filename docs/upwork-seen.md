@@ -203,3 +203,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 23:18 Kyiv extra check: nothing worth it. Skipped: GHL funnels+CRM+reactivation $12 (~022123517648878887367, scope far beyond $12, no GHL experience, 9 props); HTML landing $20 (new Nigeria client, no history).
 - 2026-11-19 23:48 Kyiv main check: nothing new since 23:18; 21 proposals all unviewed, invites 0.
 - 2026-11-20 00:18 Kyiv extra check: nothing worth it (only new: ASO $100, off-niche, needs proof of rankings).
+- 2026-11-20 00:48 Kyiv main check (light, market research running in parallel): nothing worth it (Azure voice AI agent $30 for build+docs+teaching, Canada 4.79, scope far beyond budget). Invites 0.
