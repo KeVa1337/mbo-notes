@@ -191,3 +191,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 17:18 Kyiv extra check: nothing sent as alert. Seen: Real Estate AI Automation (CRE firm, n8n/Make/agents) hourly, no rate, US 5.0, 8/14 reviews, $7.3k spent, <5 props at 3 min - in niche but scope is one vague line ('full AI integration'), not a 1-5 h task; Full-Stack AI consultation Latvia 4.98 - 50+ props. No views, invites 0.
 - 2026-11-19 17:48 Kyiv main check: nothing new (GrokBot + Claude YouTube repurposing hourly $8-10, 10 interviewing). Invites 0.
 - 2026-11-19 18:18 Kyiv extra check: nothing (Claude/Automation expert $10/hr over Zoom, asks 98% JSS and 1000+ hours; AI chatbot hourly, South Africa, unverified). No views, invites 0.
+- 2026-11-19 18:48 Kyiv main check: nothing (Claude AI automation for law firm, hourly $19-40 - 50+ props and 7 interviewing in 30 min; Shopify 50-product upload $15 - data entry, off-niche). Invites 0.
