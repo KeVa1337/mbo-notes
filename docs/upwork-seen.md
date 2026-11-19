@@ -182,3 +182,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 13:18 Kyiv extra check: nothing new. The alerted n8n workflow job now has 20-50 props and 1 interview (38 min old) - window closed unless Bohdan wants it. No views, invites 0.
 - 2026-11-19 13:48 Kyiv main check: nothing (PDF Q&A RAG chatbot MVP $50 US 5.0, 56/64 reviews - 20-50 props in 25 min; WhatsApp real estate bot hourly, Pakistan, unverified; WordPress pop-up $100, 9 props, off-niche). Invites 0.
 - 2026-11-19 14:18 Kyiv extra check: nothing (GHL automation specialist $100 US 5.0 - 12 props in 10 min, needs GHL). No views, invites 0. Bohdan started the profile rework after Samarina's review; waiting for his Ukrainian text (6 blocks).
+- 2026-11-19 14:48 Kyiv main check: nothing (German-speaking voicebot dev $2500 - needs native German; rest off-niche). Invites 0.
