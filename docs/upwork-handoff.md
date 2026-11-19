@@ -88,6 +88,16 @@ Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixe
 - Course summary + checklist: docs/upwork-kurs-konspekt.md (end).
 - Nov 18: saved searches done in UI (alerts max 3: Telegram+AI, Lovable/Supabase, Automation & Sheets).
 
+## DIRECTION: AI AUTOMATION ONLY (Bohdan's decision, 2026-11-20 ~01:15 Kyiv)
+Bohdan: «так, автоматизація». Based on market snapshot `docs/upwork-market-2026-11-19.md` and Samarina's review (one direction).
+- Main profile = AI automation for small business: n8n / Make / Zapier + AI agents & chatbots (Claude, OpenAI, RAG) + API/webhook integrations (Sheets, Airtable, CRM). Telegram/Slack/email are just alert channels.
+- Websites leave the main profile (later maybe a specialized profile). Lovable/Bolt app fixing = possible second service in ~2 months.
+- Honest skill state: Bohdan knows HTML/CSS/JS; everything else so far was built with Claude. Plan: 1–2 weeks of hands-on n8n exercises (he builds, Claude tutors), then apply. Only take tasks he can verify himself.
+- Exercises: 1) form → Sheets → Telegram; 2) email → AI topic → table; 3) daily report from a table; 4) simple AI chatbot over a document (RAG); 5) repair a broken workflow.
+- Scheduled checks narrowed to automation keywords (n8n, make.com, zapier, airtable, google sheets/apps script, webhook, api integration, crm automation, ai agent, chatbot, rag, openai/claude, gpt). Web/WordPress/Shopify/Wix/design jobs are skipped.
+- Rate target: $25/h now (currently $20 on profile; change only after his «так»), $35 after 3–5 reviews, $40–45 later.
+- Proposal count restarts after the profile is rewritten.
+
 ## REVIEWS-FIRST MODE (Bohdan's decision, 2026-11-18 evening)
 Goal now: first 3–5 reviews, price does not matter.
 - Take small fixed jobs $5–50 (1–3 h), any stack doable with Claude, incl. WordPress / Shopify / Wix / Squarespace / Base44 small fixes (previously skipped).
