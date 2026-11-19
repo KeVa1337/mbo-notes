@@ -177,3 +177,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 10:48 Kyiv main check: nothing (iOS testers, video editing, testing tied to other countries). Invites 0.
 - 2026-11-19 11:17 Kyiv extra check: nothing (GHL landing page $60 US 5.0 - 13 props in 20 min, needs GHL; hourly AI automation jobs 20-50 props). No views, invites 0.
 - 2026-11-19 11:47 Kyiv main check: nothing (UAE AI agent system on n8n/Claude/voice - hourly 30+ hrs/week, large build, client $336 spent; rest design/testing). Invites 0.
+- 2026-11-19 12:18 Kyiv extra check: ALERTED "Quick Website Audit for a Squarespace website" (~022123358729974309318) $10, 0 props at 5 min, 11 Connects, client Juan US 5.0, 142/159 reviews, hire 95%. Risk: asks Squarespace 7.1 experience and 2-3 Squarespace sites (none). Draft cover shown, waiting for Bohdan. No views, invites 0. Connects 27.
