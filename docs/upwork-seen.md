@@ -196,3 +196,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 19:48 Kyiv main check: nothing (n8n/GHL/Zapier workflows $50 - Pakistan client with no history; Claude Code website edits $55 India, no rating, web; Shopify upgrade $150 live on US PST hours). Invites 0.
 - 2026-11-19 20:18 Kyiv extra check: nothing new. No views, invites 0.
 - 2026-11-19 20:48 Kyiv main check: nothing (Wix section redesign $10 US 5.0, 126/141 reviews - design work on Wix, off-niche after Samarina's review). Invites 0.
+- 2026-11-19 21:18 Kyiv extra check: nothing (Moosend to FeedBlitz email migration $50 US 4.77 - email marketing tools he has not used, design included). No views, invites 0.
