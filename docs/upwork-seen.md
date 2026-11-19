@@ -195,3 +195,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 19:18 Kyiv extra check: nothing new. No views, invites 0. 19:00 badge review: Open-for-work badge week = 0 invites, costs 1 Connect per 12 h; profile boost charged 4+4 (2 clicks, no result); balance 27. Advised Bohdan to turn both off until the profile is reworked; waiting for his decision and a profile-views screenshot.
 - 2026-11-19 19:48 Kyiv main check: nothing (n8n/GHL/Zapier workflows $50 - Pakistan client with no history; Claude Code website edits $55 India, no rating, web; Shopify upgrade $150 live on US PST hours). Invites 0.
 - 2026-11-19 20:18 Kyiv extra check: nothing new. No views, invites 0.
+- 2026-11-19 20:48 Kyiv main check: nothing (Wix section redesign $10 US 5.0, 126/141 reviews - design work on Wix, off-niche after Samarina's review). Invites 0.
