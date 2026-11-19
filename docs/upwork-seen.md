@@ -174,3 +174,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 02:18 Kyiv extra check: nothing in the window (WarmySender + ChatGPT setup $40 US 4.96 - 75 min old, 2 already interviewed, no experience with the tool). Invites 0.
 - 2026-11-19 02:49 Kyiv main check (last of the night): nothing new in the window. No views, invites 0. Next check 10:00 Kyiv; Open-for-work badge renews 10:33 Kyiv (14 Connects).
 - 2026-11-19 10:18 Kyiv extra check (first of the day): nothing (video/design/testing jobs, Neander apps need a MacBook, India 4.63 viewer). No views overnight, invites 0.
+- 2026-11-19 10:48 Kyiv main check: nothing (iOS testers, video editing, testing tied to other countries). Invites 0.
