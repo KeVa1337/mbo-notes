@@ -199,3 +199,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 21:18 Kyiv extra check: nothing (Moosend to FeedBlitz email migration $50 US 4.77 - email marketing tools he has not used, design included). No views, invites 0.
 - 2026-11-19 21:48 Kyiv main check: nothing (n8n troubleshoot AI workflows $10 US 4.97, 40/45 reviews - asks for a specialist based in the United States, 8 props in 16 min; Tufts research study; dating app $80 client 4.4). Invites 0.
 - 2026-11-19 22:18 Kyiv extra check: nothing new (AI chatbot for IoT support hourly $5-15, UK, payment unverified). No views, invites 0.
+- 2026-11-19 22:48 Kyiv main check: nothing new since 22:18 (n8n troubleshoot $10 ~022123499430001647829 is US-only, 15-20 props, skipped); 21 proposals all unviewed, invites 0.
