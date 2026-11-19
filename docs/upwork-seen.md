@@ -189,3 +189,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 16:19 Kyiv extra check: nothing new. Agentic AI Engineer job: 15-20 props and 1 interview after 20 min, no answer from Bohdan - window closing. No views, invites 0.
 - 2026-11-19 16:49 Kyiv main check: nothing (Claude Code barber booking app $150 Germany 5.0 - iOS/Android Flutter app, mobile, off-niche; Agentic AI Engineer job hired someone in 45 min). Invites 0.
 - 2026-11-19 17:18 Kyiv extra check: nothing sent as alert. Seen: Real Estate AI Automation (CRE firm, n8n/Make/agents) hourly, no rate, US 5.0, 8/14 reviews, $7.3k spent, <5 props at 3 min - in niche but scope is one vague line ('full AI integration'), not a 1-5 h task; Full-Stack AI consultation Latvia 4.98 - 50+ props. No views, invites 0.
+- 2026-11-19 17:48 Kyiv main check: nothing new (GrokBot + Claude YouTube repurposing hourly $8-10, 10 interviewing). Invites 0.
