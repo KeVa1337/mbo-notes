@@ -204,3 +204,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 23:48 Kyiv main check: nothing new since 23:18; 21 proposals all unviewed, invites 0.
 - 2026-11-20 00:18 Kyiv extra check: nothing worth it (only new: ASO $100, off-niche, needs proof of rankings).
 - 2026-11-20 00:48 Kyiv main check (light, market research running in parallel): nothing worth it (Azure voice AI agent $30 for build+docs+teaching, Canada 4.79, scope far beyond budget). Invites 0.
+- 2026-11-20 01:18 Kyiv extra check (first with automation-only filter): nothing worth it (IT/Automation lead for Canadian bookkeeping firm ~022123553519448620130: part-time 3–6 mo, GHL+Grok+DigitalOcean, client 4.5 with 4 reviews / 23 jobs — skip).
