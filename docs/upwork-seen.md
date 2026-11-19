@@ -172,3 +172,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 2026-11-19 01:58 Kyiv portfolio pack prepared (docs/upwork-portfolio-pack.md): n8n demo item, MBO Leads and Jarvis texts fixed; nothing changed on Upwork yet
 - 2026-11-19 01:59 Kyiv main check: nothing (Build responsive Web forms $100 US - client 4.73, $107 spent, 5 props in 5 min, 3-6 months; 360 image viewer $100 India 4.63). No views, invites 0. Bohdan asked about a mobile app job (hourly $10-20, 20 Connects): advised to skip (native mobile, long hourly, Connects).
 - 2026-11-19 02:18 Kyiv extra check: nothing in the window (WarmySender + ChatGPT setup $40 US 4.96 - 75 min old, 2 already interviewed, no experience with the tool). Invites 0.
+- 2026-11-19 02:49 Kyiv main check (last of the night): nothing new in the window. No views, invites 0. Next check 10:00 Kyiv; Open-for-work badge renews 10:33 Kyiv (14 Connects).
