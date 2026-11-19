@@ -187,3 +187,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 15:48 Kyiv main check: nothing new in the window (LearnWorlds lessons $10 Nigeria, off-niche). Invites 0.
 - 2026-11-19 16:03 Kyiv fast scan: ALERTED "Agentic AI Engineer | AI Agents, RAG & LangGraph" (~022123415888035017711) $55 fixed, <5 props at 4 min, 14 Connects, client Jason US (TX) 5.0, 56/64 reviews, hire 75%, 51 open jobs in unrelated fields, generic description (same client as PDF Q&A chatbot $50 and AI Engineer $10). Draft shown, waiting for Bohdan.
 - 2026-11-19 16:19 Kyiv extra check: nothing new. Agentic AI Engineer job: 15-20 props and 1 interview after 20 min, no answer from Bohdan - window closing. No views, invites 0.
+- 2026-11-19 16:49 Kyiv main check: nothing (Claude Code barber booking app $150 Germany 5.0 - iOS/Android Flutter app, mobile, off-niche; Agentic AI Engineer job hired someone in 45 min). Invites 0.
