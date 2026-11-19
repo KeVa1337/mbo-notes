@@ -185,3 +185,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-19 14:48 Kyiv main check: nothing (German-speaking voicebot dev $2500 - needs native German; rest off-niche). Invites 0.
 - 2026-11-19 15:21 Kyiv extra check: nothing new in the window. No views, invites 0.
 - 2026-11-19 15:48 Kyiv main check: nothing new in the window (LearnWorlds lessons $10 Nigeria, off-niche). Invites 0.
+- 2026-11-19 16:03 Kyiv fast scan: ALERTED "Agentic AI Engineer | AI Agents, RAG & LangGraph" (~022123415888035017711) $55 fixed, <5 props at 4 min, 14 Connects, client Jason US (TX) 5.0, 56/64 reviews, hire 75%, 51 open jobs in unrelated fields, generic description (same client as PDF Q&A chatbot $50 and AI Engineer $10). Draft shown, waiting for Bohdan.
