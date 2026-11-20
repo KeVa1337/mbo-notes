@@ -213,3 +213,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 11:18 Kyiv extra check: nothing to alert. Closest: AI agent for Facebook posting $75 n8n/Make (~022123702423348830662, US 4.91, 45 hires/30 reviews) — already 15–20 props in 19 min, Facebook Graph API/page tokens not yet practised; UK WhatsApp AI agent PoC hourly expert; others off-niche.
 - 2026-11-20 11:48 Kyiv main check: nothing new worth it (voice AI consultation India hourly, already hired 1). Invites 0.
 - 2026-11-20 12:18 Kyiv extra check: nothing (voice AI consultation $5 India, already hired 1).
+- 2026-11-20 12:48 Kyiv main check: nothing in automation niche (India $5 AI agent/voice posts already hired; rest are site redesigns). Invites 0.
