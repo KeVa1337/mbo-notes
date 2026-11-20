@@ -236,4 +236,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 22:48 Kyiv main check: category fixed≤300 (site rework, GTA recorder, lead-gen, PHP rebuild, trading bot) + n8n/airtable/assistant — nothing automation-fit; invites 0
 - 2026-11-20 23:18 Kyiv extra check: make.com/google sheets/webhook/ai agent — nothing automation-fit (video gigs, $5 India agents, old hourly Keap)
 - 2026-11-20 23:48 Kyiv main check: category fixed≤300 + workflow/crm/openai — nothing automation-fit (Odoo hourly, AppFolio, Zoho India, Bitrix24); invites 0
-- 2026-11-21 00:18 Kyiv extra check: n8n/apps script/claude/rag — nothing new automation-fit; invites 0
+- 2026-11-21 00:18 Kyiv extra check: n8n/apps script/claude/rag — nothing new automation-fit; invites not rechecked (0 at 23:48)
