@@ -239,3 +239,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 00:18 Kyiv extra check: n8n/apps script/claude/rag — nothing new automation-fit; invites not rechecked (0 at 23:48)
 - 2026-11-21 00:48 Kyiv main check: smart/category/hubspot/gpt — n8n content assistant (MX recruiting, hourly, 20–50 props, 4.75) skipped; nothing automation-fit; invites 0
 - 2026-11-21 01:18 Kyiv extra check: zapier/automation/chatbot/airtable — nothing automation-fit (GHL email copy $20 already 10 props, Klaviyo full-time, Zoho India)
+- 2026-11-21 01:48 Kyiv main check: smart/category/api/assistant — OpenClaw+Ollama self-hosted agent (hourly, too complex) skipped; nothing automation-fit; invites 0
