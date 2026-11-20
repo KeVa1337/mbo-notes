@@ -231,3 +231,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 20:18 Kyiv extra check: nothing (GHL roofing CRM $150 US 5.0 — GHL platform, 16 props; full-time automation roles UK/NL).
 - 2026-11-20 20:48 Kyiv main check: nothing (Deriv trading bot — skip; site/Shopify tasks). Invites 0.
 - 2026-11-20 21:19 Kyiv extra check: ALERTED 🟢 n8n/Zapier website leads → HubSpot + Sheets + Slack + Twilio + OpenAI follow-up, $100 fixed (~022123857550087814242, AU 5.0, 136 reviews/167 contracts, ~94% hire, 0 props at 5 min, 11 Connects). Risks: scope 6–10 h for $100, HubSpot/Twilio new, short explainer video required.
+- 2026-11-20 21:48 Kyiv main check: nothing in niche (multi-agent Python/TS engineer hourly 1–3 mo; site builds). n8n $100 lead job from 21:19 now 20–50 props. Invites 0.
