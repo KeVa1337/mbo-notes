@@ -225,3 +225,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 17:18 Kyiv extra check: nothing new.
 - 2026-11-20 17:48 Kyiv main check: nothing (Python driving-test cancellation bot upgrade $250 UK new client — scraping a gov booking site, skip; site redesigns). Invites 0.
 - 2026-11-20 18:18 Kyiv extra check: ALERTED 🟡 n8n setup $30 fixed (~022123811794606643870, US NY 4.99, 73 reviews/81 contracts, hire 78%, 4 props, 11 Connects). Risks: vague scope, serial small-task client (57 open jobs, ~$21/contract), Bohdan still learning n8n.
+- 2026-11-20 18:48 Kyiv main check: nothing new in automation (Amazon SES + GHL bulk email hourly, GameMaker fix, Shopify uploads). n8n $30 alert from 18:18 now 20–50 props. Invites 0.
