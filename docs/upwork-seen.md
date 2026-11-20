@@ -234,3 +234,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 21:48 Kyiv main check: nothing in niche (multi-agent Python/TS engineer hourly 1–3 mo; site builds). n8n $100 lead job from 21:19 now 20–50 props. Invites 0.
 - 2026-11-20 22:18 Kyiv extra check: nothing (Zoho outbound email $100 India new client — marketing ops; law-firm Zapier builder hourly, client 3.82).
 - 2026-11-20 22:48 Kyiv main check: category fixed≤300 (site rework, GTA recorder, lead-gen, PHP rebuild, trading bot) + n8n/airtable/assistant — nothing automation-fit; invites 0
+- 2026-11-20 23:18 Kyiv extra check: make.com/google sheets/webhook/ai agent — nothing automation-fit (video gigs, $5 India agents, old hourly Keap)
