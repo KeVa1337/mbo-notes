@@ -209,3 +209,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 02:18 Kyiv extra check: nothing in automation niche. Skipped Shopify integration fix $15 (~022123569903808946389, UK 4.97, 2 props, 25 invites sent) — Shopify site work, outside the chosen direction.
 - 2026-11-20 02:48 Kyiv main check: nothing worth it (AI marketing platform build, hourly, 50+ props). Invites 0.
 - 2026-11-20 10:18 Kyiv extra check (overnight window): nothing worth it. n8n+OpenAI lead qualification $200 (~022123581797127123951, US 5.0, 11 hires/5 reviews) already 50+ props; WhatsApp AI bots (Qatar/SA, unverified or 50+); AI voice caller Malaysia $200 unverified.
+- 2026-11-20 10:48 Kyiv main check: nothing in automation niche (category feed: listings VA, Square mirroring, Wix clinic site, UX critique). Invites 0.
