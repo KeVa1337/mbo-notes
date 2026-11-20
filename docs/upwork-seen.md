@@ -220,3 +220,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 14:49 Kyiv main check: nothing (grant-ops AI agents + n8n full-time, top-rated only). Invites 0.
 - 2026-11-20 15:21 Kyiv extra check: nothing (RPA tax-form bot India hourly, Claude KYC help — suspicious).
 - 2026-11-20 15:49 Kyiv main check: nothing in automation niche (site builds, app testers). Invites 0.
+- 2026-11-20 16:20 Kyiv extra check: nothing (GHL email workflow $5 US 5.0 at 16:03 skipped — GHL platform + 9 props; pentest AI chatbot $1000 off-niche).
