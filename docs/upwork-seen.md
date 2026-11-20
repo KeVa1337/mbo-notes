@@ -206,3 +206,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 00:48 Kyiv main check (light, market research running in parallel): nothing worth it (Azure voice AI agent $30 for build+docs+teaching, Canada 4.79, scope far beyond budget). Invites 0.
 - 2026-11-20 01:18 Kyiv extra check (first with automation-only filter): nothing worth it (IT/Automation lead for Canadian bookkeeping firm ~022123553519448620130: part-time 3–6 mo, GHL+Grok+DigitalOcean, client 4.5 with 4 reviews / 23 jobs — skip).
 - 2026-11-20 01:48 Kyiv main check: nothing worth it (Make.com TikTok/YouTube video automation ~022123561311840203759: hourly 3–6 mo, big scope; YouTube niche research $10 is marketing). Invites 0.
+- 2026-11-20 02:18 Kyiv extra check: nothing in automation niche. Skipped Shopify integration fix $15 (~022123569903808946389, UK 4.97, 2 props, 25 invites sent) — Shopify site work, outside the chosen direction.
