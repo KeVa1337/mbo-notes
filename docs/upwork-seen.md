@@ -217,3 +217,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-20 13:18 Kyiv extra check: nothing new.
 - 2026-11-20 13:48 Kyiv main check: nothing in automation niche (Shopify fixes, TikTok/Amazon sync $10 from new client, testers). Invites 0.
 - 2026-11-20 14:19 Kyiv extra check: nothing (Instagram auto-comment app on competitors' posts — spam, skip).
+- 2026-11-20 14:49 Kyiv main check: nothing (grant-ops AI agents + n8n full-time, top-rated only). Invites 0.
