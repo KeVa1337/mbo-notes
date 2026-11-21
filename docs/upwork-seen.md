@@ -263,3 +263,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 19:18 Kyiv extra check: zapier/google sheets/webhook/automation — nothing new
 - 2026-11-21 19:48 Kyiv main check: category/workflow/integration/openai — only Shopify/Etsy/Klaviyo (out of direction); invites 0
 - 2026-11-21 20:18 Kyiv extra check: IN $50 n8n+GHL lead follow-up (new client, no reviews, GHL) skipped; nothing fit
+- 2026-11-21 20:48 Kyiv main check: category/api/claude/hubspot — nothing automation-fit; invites 0
