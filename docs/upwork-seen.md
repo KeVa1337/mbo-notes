@@ -255,3 +255,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 15:18 Kyiv extra check: zapier/make.com/chatbot/crm — nothing new
 - 2026-11-21 15:48 Kyiv main check: category/api/webhook/claude — nothing new; invites 0
 - 2026-11-21 16:18 Kyiv extra check: smart/n8n/google sheets/workflow — nothing new
+- 2026-11-21 16:48 Kyiv main check: category/zapier/rag/apps script — nothing new; invites 0
