@@ -271,3 +271,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 23:18 Kyiv extra check: zapier/integration/claude/crm — US $60 GHL VA (3–6 months, GHL) skipped; nothing fit
 - 2026-11-21 23:48 Kyiv main check: category/n8n/rag/apps script — only Shopify/WP/GHL VA; nothing fit; invites 0
 - 2026-11-22 00:18 Kyiv extra check: automation/ai agent/make.com/chatbot — nothing new
+- 2026-11-22 00:48 Kyiv main check: category/zapier/hubspot/airtable — nothing automation-fit; invites 0
