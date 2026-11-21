@@ -265,3 +265,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 20:18 Kyiv extra check: IN $50 n8n+GHL lead follow-up (new client, no reviews, GHL) skipped; nothing fit
 - 2026-11-21 20:48 Kyiv main check: category/api/claude/hubspot — nothing automation-fit; invites 0
 - 2026-11-21 21:18 Kyiv extra check: zapier/automation/ai agent/airtable — nothing fit (reCAPTCHA bypass dubious, $20 product dev vague)
+- 2026-11-21 21:48 Kyiv main check: category/make.com/crm/gpt — only sites/Wix/360 viewer; nothing fit; invites 0
