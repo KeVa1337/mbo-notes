@@ -251,3 +251,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 13:18 Kyiv extra check: IN $10 n8n workflow fix (new client, no reviews, 5 props) — skip; rest nothing
 - 2026-11-21 13:48 Kyiv main check: smart/category/hubspot/gpt — nothing new automation-fit; invites 0
 - 2026-11-21 14:18 Kyiv extra check: smart/automation/airtable/openai — nothing new
+- 2026-11-21 14:48 Kyiv main check: smart/category/workflow/assistant — nothing new; invites 0
