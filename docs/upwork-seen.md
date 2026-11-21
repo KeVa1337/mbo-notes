@@ -249,3 +249,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 12:18 Kyiv extra check: smart/webhook/ai agent/apps script — nothing new (SI $110 n8n agent already hired)
 - 2026-11-21 12:48 Kyiv main check: NG $50 n8n lead capture+AI qualify (4.99, 320 hires, ~$20/hire) — 10 props at 9 min, 1–3 months scope, low-priority country; skip; invites 0
 - 2026-11-21 13:18 Kyiv extra check: IN $10 n8n workflow fix (new client, no reviews, 5 props) — skip; rest nothing
+- 2026-11-21 13:48 Kyiv main check: smart/category/hubspot/gpt — nothing new automation-fit; invites 0
