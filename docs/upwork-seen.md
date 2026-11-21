@@ -268,3 +268,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 21:48 Kyiv main check: category/make.com/crm/gpt — only sites/Wix/360 viewer; nothing fit; invites 0
 - 2026-11-21 22:18 Kyiv extra check: n8n/webhook/openai/workflow — nothing new
 - 2026-11-21 22:48 Kyiv main check: category/google sheets/chatbot/assistant — nothing automation-fit (UK CRM codebase full-stack, UML); invites 0
+- 2026-11-21 23:18 Kyiv extra check: zapier/integration/claude/crm — US $60 GHL VA (3–6 months, GHL) skipped; nothing fit
