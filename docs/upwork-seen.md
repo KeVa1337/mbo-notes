@@ -253,3 +253,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 14:18 Kyiv extra check: smart/automation/airtable/openai — nothing new
 - 2026-11-21 14:48 Kyiv main check: smart/category/workflow/assistant — nothing new; invites 0
 - 2026-11-21 15:18 Kyiv extra check: zapier/make.com/chatbot/crm — nothing new
+- 2026-11-21 15:48 Kyiv main check: category/api/webhook/claude — nothing new; invites 0
