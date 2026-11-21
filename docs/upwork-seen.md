@@ -257,3 +257,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 16:18 Kyiv extra check: smart/n8n/google sheets/workflow — nothing new
 - 2026-11-21 16:48 Kyiv main check: category/zapier/rag/apps script — nothing new; invites 0
 - 2026-11-21 17:18 Kyiv extra check: US $50 cold email outreach setup+manage (1–3 months, marketing not n8n) skipped; nothing fit
+- 2026-11-21 17:48 Kyiv main check: category/airtable/hubspot/chatbot — nothing automation-fit (spec sheets design, Expensify bounty, eBay); invites 0
