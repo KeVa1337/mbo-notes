@@ -247,3 +247,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 11:18 Kyiv extra check: SI $110 n8n AI agent (5.0, 5 reviews) already 20–50 props at ~23 min — skip; rest not fit
 - 2026-11-21 11:48 Kyiv main check: smart/category/make.com/claude — nothing new automation-fit; invites 0
 - 2026-11-21 12:18 Kyiv extra check: smart/webhook/ai agent/apps script — nothing new (SI $110 n8n agent already hired)
+- 2026-11-21 12:48 Kyiv main check: NG $50 n8n lead capture+AI qualify (4.99, 320 hires, ~$20/hire) — 10 props at 9 min, 1–3 months scope, low-priority country; skip; invites 0
