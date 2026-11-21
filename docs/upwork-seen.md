@@ -244,3 +244,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-21 02:48 Kyiv main check: smart/category/webhook/google sheets — IT chatbot (unverified, hourly), IN $3000 n8n (50+) skipped; nothing fit; invites 0
 - 2026-11-21 10:18 Kyiv extra check: smart/n8n/automation/zapier — IN $350 support-triage LLM agent (<5 props, too big for now), CA Claude+n8n+Obsidian $50 (50+, 4.58) skipped; invites 0
 - 2026-11-21 10:48 Kyiv main check: category/chatbot/workflow/airtable + get IN $350 triage agent (n8n+Claude+Gmail+Shopify+ShipStation, RAG, eval set, call; hire 21%, ~19 bids) — skip; nothing fit; Connects balance now 23 (was 25)
+- 2026-11-21 11:18 Kyiv extra check: SI $110 n8n AI agent (5.0, 5 reviews) already 20–50 props at ~23 min — skip; rest not fit
