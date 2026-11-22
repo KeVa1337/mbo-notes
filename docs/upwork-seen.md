@@ -296,3 +296,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 18:48 Kyiv main check: no new automation jobs (dev fixed: Lovable hosting $10, Amazon FBA, Unity, WP perfume site; sheets/zapier stale) — nothing fit; invites 0
 - 2026-11-22 19:18 Kyiv extra check: no new automation jobs since 18:18 (n8n/chatbot/crm stale) — nothing fit
 - 2026-11-22 19:48 Kyiv main check: no new automation jobs (dev fixed: UI $5, Amazon, Unity; assistant/api titles: data entry, IG private-API bot — skipped as dubious) — nothing fit; invites 0
+- 2026-11-22 20:18 Kyiv extra check: UK DTC n8n data engineer (full-time hourly, 20–50 props), Singapore email marketer with Claude (not automation, 6+ months) skipped; make.com 0, airtable stale — nothing fit
