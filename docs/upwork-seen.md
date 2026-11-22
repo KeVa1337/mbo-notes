@@ -300,3 +300,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 20:48 Kyiv main check: no new automation jobs (dev fixed: WP speed, Wix/Webflow site, Shopify recreation, QA; hubspot/apps script stale) — nothing fit; invites 0
 - 2026-11-22 21:18 Kyiv extra check: India $500 support chatbot (unverified payment) skipped; n8n/zapier/rag stale — nothing fit
 - 2026-11-22 21:48 Kyiv main check: US $10 AI GTM engineer (Claude/MCP/n8n, vague, < floor), Canada agentic AI PMO (unverified, call) skipped; dev fixed QA only — nothing fit; invites 0
+- 2026-11-22 22:18 Kyiv extra check: Canada hourly 'AI automation for business tasks' (new client, no reviews, vague broad scope) skipped; automation/ai agent/crm stale — nothing fit
