@@ -305,3 +305,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 23:18 Kyiv extra check: no new automation jobs since 22:18 (n8n/sheets/apps script stale) — nothing fit
 - 2026-11-22 23:48 Kyiv main check: US senior SWE AI automation (hourly, 50+ props) skipped; dev fixed: voice-over, Webflow, Squarespace, crypto recovery (dubious) — nothing fit; invites 0
 - 2026-11-23 00:18 Kyiv extra check: no new automation jobs since 23:48 (zapier/webhook/openai stale) — nothing fit
+- 2026-11-23 00:48 Kyiv main check: no new automation jobs (dev fixed: Android testers, Wix landing, Webflow; hubspot/assistant off-direction) — nothing fit; invites 0
