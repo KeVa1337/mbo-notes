@@ -275,3 +275,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 01:18 Kyiv extra check: n8n/google sheets/openai/webhook — IN Sheets tracker (1-line vague, hourly, new client) skipped; nothing fit
 - 2026-11-22 01:48 Kyiv main check: category/workflow/gpt/api — nothing automation-fit; invites 0
 - 2026-11-22 02:18 Kyiv extra check: zapier/integration/claude/crm — nothing new
+- 2026-11-22 02:48 Kyiv main check: category/n8n/assistant — nothing automation-fit (VA/store spam); invites 0
