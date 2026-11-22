@@ -280,3 +280,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 10:48 Kyiv main check: category/zapier/ai agent/google sheets — CA $15 GHL AI agent (GHL, underpriced) skipped; nothing fit
 - 2026-11-22 11:18 Kyiv extra check: US n8n+AI agents for SMB (hourly 30+h/wk, 3–6 months, 20–50 props) skipped; nothing fit
 - 2026-11-22 11:48 Kyiv main check: dev fixed ≤$300 (WordPress, social media mgr, Apple Watch app, Shopify app test), workflow/openai/hubspot titles (AppFolio, account recovery, Webflow testers, sales roles) — nothing fit; invites 0
+- 2026-11-22 12:18 Kyiv extra check: India $12 RAG review (unverified), Switzerland $500 FB AI agent (20–50 props), GHL CA $15, n8n/zapier/sheets/chatbot titles stale or off-direction — nothing fit
