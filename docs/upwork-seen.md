@@ -289,3 +289,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 15:18 Kyiv extra check: Pakistan $100 GHL+n8n multi-platform agents (GHL main, long-term stack ownership, client 1 hire) skipped; make.com 0, workflow/openai/sheets stale — nothing fit
 - 2026-11-22 15:48 Kyiv main check: no new automation jobs (dev fixed: APK reverse/license bypass — skipped as dubious, Roblox playtest, Wix; hubspot/webhook stale) — nothing fit; invites 0
 - 2026-11-22 16:18 Kyiv extra check: no new automation jobs since 15:18 (smart_search unchanged; n8n/zapier/apps script/chatbot stale) — nothing fit
+- 2026-11-22 16:48 Kyiv main check: no new automation jobs (dev fixed: Wix, QA testers; rag/crm stale) — nothing fit; invites 0
