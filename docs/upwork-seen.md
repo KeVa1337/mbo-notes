@@ -307,3 +307,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 00:18 Kyiv extra check: no new automation jobs since 23:48 (zapier/webhook/openai stale) — nothing fit
 - 2026-11-23 00:48 Kyiv main check: no new automation jobs (dev fixed: Android testers, Wix landing, Webflow; hubspot/assistant off-direction) — nothing fit; invites 0
 - 2026-11-23 01:18 Kyiv extra check: US senior AI agent engineer (hourly 40–80h, client 3.3★), US AI receptionist voice system (hourly, expert, voice) skipped — nothing fit
+- 2026-11-23 01:48 Kyiv main check: Dominican Rep. $35 1-hour Zoom consult on GHL+n8n wholesaling stack (mandatory call, GHL, needs real experience) skipped; rest stale/off-direction — nothing fit; invites 0
