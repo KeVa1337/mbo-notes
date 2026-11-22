@@ -287,3 +287,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 14:18 Kyiv extra check: UK agency $350 WEXTL Upwork-auto-reply automation (15–20 props, niche platform, auto-messaging clients) skipped; n8n/crm/claude/rag titles stale or off-direction — nothing fit
 - 2026-11-22 14:48 Kyiv main check: no new automation jobs (dev fixed: WP/Elementor, Wix; api/assistant titles off-direction) — nothing fit; invites 0
 - 2026-11-22 15:18 Kyiv extra check: Pakistan $100 GHL+n8n multi-platform agents (GHL main, long-term stack ownership, client 1 hire) skipped; make.com 0, workflow/openai/sheets stale — nothing fit
+- 2026-11-22 15:48 Kyiv main check: no new automation jobs (dev fixed: APK reverse/license bypass — skipped as dubious, Roblox playtest, Wix; hubspot/webhook stale) — nothing fit; invites 0
