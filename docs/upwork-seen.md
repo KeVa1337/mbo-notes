@@ -276,3 +276,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 01:48 Kyiv main check: category/workflow/gpt/api — nothing automation-fit; invites 0
 - 2026-11-22 02:18 Kyiv extra check: zapier/integration/claude/crm — nothing new
 - 2026-11-22 02:48 Kyiv main check: category/n8n/assistant — nothing automation-fit (VA/store spam); invites 0
+- 2026-11-22 10:18 Kyiv extra check: smart/n8n/automation/chatbot — US $1100 'fulfillment partner' (unverified, long-term) skipped; nothing fit; invites 0
