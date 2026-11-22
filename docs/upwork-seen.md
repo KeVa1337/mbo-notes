@@ -283,3 +283,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 12:18 Kyiv extra check: India $12 RAG review (unverified), Switzerland $500 FB AI agent (20–50 props), GHL CA $15, n8n/zapier/sheets/chatbot titles stale or off-direction — nothing fit
 - 2026-11-22 12:48 Kyiv main check: no new automation jobs since 12:18 (dev fixed: Figma redesign, NATS $5, mobile apps; make.com 0; airtable stale) — nothing fit; invites 0
 - 2026-11-22 13:18 Kyiv extra check: Vietnam agency $100 n8n/GHL voice agents + missed-call text-back (GHL main, voice, 3–6 months, 4 props) skipped; automation/webhook/ai agent/apps script titles off-direction or stale — nothing fit
+- 2026-11-22 13:48 Kyiv main check: dev fixed (Wix fixes, brand sites, QA), integration (ServiceNow, NATS), gpt titles (German hourly lead-gen workflow 1–3 months, 6 props; ads/GEO) — nothing fit; Vietnam GHL job now 15–20 props; invites 0
