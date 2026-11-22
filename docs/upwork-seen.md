@@ -303,3 +303,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 22:18 Kyiv extra check: Canada hourly 'AI automation for business tasks' (new client, no reviews, vague broad scope) skipped; automation/ai agent/crm stale — nothing fit
 - 2026-11-22 22:48 Kyiv main check: no new automation jobs (dev fixed: Squarespace/landing, Shopify subscriptions, SEO; claude/workflow stale) — nothing fit; invites 0
 - 2026-11-22 23:18 Kyiv extra check: no new automation jobs since 22:18 (n8n/sheets/apps script stale) — nothing fit
+- 2026-11-22 23:48 Kyiv main check: US senior SWE AI automation (hourly, 50+ props) skipped; dev fixed: voice-over, Webflow, Squarespace, crypto recovery (dubious) — nothing fit; invites 0
