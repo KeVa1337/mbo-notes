@@ -295,3 +295,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 18:18 Kyiv extra check: UK $500 GHL+n8n trades automations (unverified payment, GHL), France agency 2× hourly long-term white-label (20–50 props) skipped; n8n/webhook/openai stale — nothing fit
 - 2026-11-22 18:48 Kyiv main check: no new automation jobs (dev fixed: Lovable hosting $10, Amazon FBA, Unity, WP perfume site; sheets/zapier stale) — nothing fit; invites 0
 - 2026-11-22 19:18 Kyiv extra check: no new automation jobs since 18:18 (n8n/chatbot/crm stale) — nothing fit
+- 2026-11-22 19:48 Kyiv main check: no new automation jobs (dev fixed: UI $5, Amazon, Unity; assistant/api titles: data entry, IG private-API bot — skipped as dubious) — nothing fit; invites 0
