@@ -292,3 +292,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-22 16:48 Kyiv main check: no new automation jobs (dev fixed: Wix, QA testers; rag/crm stale) — nothing fit; invites 0
 - 2026-11-22 17:18 Kyiv extra check: Pakistan $5 RAG/agent/n8n (below $20 floor, 7 props in 20 min) skipped; automation/integration/claude titles stale — nothing fit
 - 2026-11-22 17:48 Kyiv main check: Australia $10 fix existing n8n workflow (client 5.0/139 reviews, but $10 < floor and 8 props in ~6 min) skipped; gpt/workflow/dev fixed off-direction — nothing fit; invites 0
+- 2026-11-22 18:18 Kyiv extra check: UK $500 GHL+n8n trades automations (unverified payment, GHL), France agency 2× hourly long-term white-label (20–50 props) skipped; n8n/webhook/openai stale — nothing fit
