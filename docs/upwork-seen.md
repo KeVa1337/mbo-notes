@@ -321,3 +321,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 14:19 Kyiv extra check: US full-time marketing+automation lead $1200/mo skip; AU n8n CRM dashboard now 50+; webhook/rag empty — nothing fit
 - 2026-11-23 14:49 Kyiv main check: Claude subscription reseller dubious skip; WordPress dev 3 hires skip; Win ARM64 32-bit troubleshoot off-direction skip; church UI $10 skip; google sheets empty, gpt stale — nothing fit; invites 0
 - 2026-11-23 15:26 Kyiv extra check: PH Pancake travel chatbot (hourly, client $35 spent, no reviews, Pancake not in stack) skip; n8n/apps script/crm stale — nothing fit
+- 2026-11-23 15:49 Kyiv main check: US $20 AI agent bugfix (Python/LangChain/CrewAI — not Bohdan's stack, 5–10 props) skip; Icertis sandbox $40, Wix redesign, SIM/app testers skip; airtable/workflow stale — nothing fit; invites 0
