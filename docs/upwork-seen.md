@@ -337,3 +337,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 22:18 Kyiv extra check: India $400 B2B GTM appointment setting (no history, 3–6 mo) skip; feed unchanged; automation/airtable/openai stale — nothing fit
 - 2026-11-23 22:48 Kyiv main check: Nigeria $200 Perfex CRM PHP/AWS optimisation (off-stack) skip; Jordan $100 Meta App Review skip; UGC/Next.js skip; zapier/api stale — nothing fit; invites 0
 - 2026-11-23 23:18 Kyiv extra check: UK $40 'complete business automation system' (vague, huge scope, now 20–50 props) skip; n8n/workflow stale, rag empty — nothing fit
+- 2026-11-23 23:48 Kyiv main check: Kenya AI support chatbot (hourly, payment NOT verified) skip; Shopify image fix, Google Ads/Merchant, FB outreach, BD testers skip; apps script/hubspot stale — nothing fit; invites 0
