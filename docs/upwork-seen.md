@@ -317,3 +317,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 12:18 Kyiv extra check: no new jobs in feed since 11:48; zapier/crm/openai stale (B2B sales, Bitrix consultant, Meta Ads) — nothing fit
 - 2026-11-23 12:48 Kyiv main check: AI full-stack SaaS hourly 30+h/wk 50+ skip; $5 landing/Python skip; QA testers skip; pentest $5k, Meta App Review docs skip — nothing fit; invites 0
 - 2026-11-23 13:18 Kyiv extra check: Romania $50 'senior AI dev fix whole AI-built SaaS' (no client history, full refactor) skip; France AI API creds hourly unverified skip; Claude KYC/Singapore setup dubious skip; make.com/chatbot stale — nothing fit
+- 2026-11-23 13:48 Kyiv main check: AU agency n8n+Claude CRM dashboard (<5 props, але hourly, payment NOT verified, unpaid-style trial build for agency) skip; FB group/UI design/VA/telecaller skip; hubspot stale — nothing fit; invites 0
