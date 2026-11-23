@@ -335,3 +335,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 21:18 Kyiv extra check: no new on-direction jobs since 20:48 (feed unchanged); google sheets empty, integration/crm stale — nothing fit
 - 2026-11-23 21:48 Kyiv main check: US $150 full-stack app maintenance (Supabase/mobile, 1–3 mo) skip; WP ecommerce $17, Android Kotlin $25, front-end designer skip; webhook/chatbot empty — nothing fit; invites 0
 - 2026-11-23 22:18 Kyiv extra check: India $400 B2B GTM appointment setting (no history, 3–6 mo) skip; feed unchanged; automation/airtable/openai stale — nothing fit
+- 2026-11-23 22:48 Kyiv main check: Nigeria $200 Perfex CRM PHP/AWS optimisation (off-stack) skip; Jordan $100 Meta App Review skip; UGC/Next.js skip; zapier/api stale — nothing fit; invites 0
