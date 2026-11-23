@@ -339,3 +339,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 23:18 Kyiv extra check: UK $40 'complete business automation system' (vague, huge scope, now 20–50 props) skip; n8n/workflow stale, rag empty — nothing fit
 - 2026-11-23 23:48 Kyiv main check: Kenya AI support chatbot (hourly, payment NOT verified) skip; Shopify image fix, Google Ads/Merchant, FB outreach, BD testers skip; apps script/hubspot stale — nothing fit; invites 0
 - 2026-11-24 00:18 Kyiv extra check: no new on-direction jobs (feed unchanged since 23:48); make.com empty, ai agent/claude stale — nothing fit
+- 2026-11-24 00:48 Kyiv main check: UAE n8n+GHL CRM hourly 30+h/wk Top Rated only skip; phone screenshots/WP auction/Shopify marketing/app testers skip; integration/gpt stale — nothing fit; invites 0
