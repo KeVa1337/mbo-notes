@@ -308,3 +308,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 00:48 Kyiv main check: no new automation jobs (dev fixed: Android testers, Wix landing, Webflow; hubspot/assistant off-direction) — nothing fit; invites 0
 - 2026-11-23 01:18 Kyiv extra check: US senior AI agent engineer (hourly 40–80h, client 3.3★), US AI receptionist voice system (hourly, expert, voice) skipped — nothing fit
 - 2026-11-23 01:48 Kyiv main check: Dominican Rep. $35 1-hour Zoom consult on GHL+n8n wholesaling stack (mandatory call, GHL, needs real experience) skipped; rest stale/off-direction — nothing fit; invites 0
+- 2026-11-23 02:18 Kyiv extra check: Nigeria $10 'expert' n8n lead pipeline (end-to-end CRM in n8n, 1–3 months scope at $10, < floor) skipped; workflow/airtable/rag stale — nothing fit
