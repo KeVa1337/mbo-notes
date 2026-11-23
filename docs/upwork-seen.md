@@ -333,3 +333,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 20:18 Kyiv extra check: Canada $200 Apps Script Calendar→Sheets sync (ідеальний збіг, клієнт 5.0/3, але 20–50 заявок за 15 хв, 6 на співбесіді) skip; US Retool dev $2500 ongoing skip; apps script/make.com/ai agent stale — nothing fit
 - 2026-11-23 20:48 Kyiv main check: US Claude+GHL full-time $1200 skip; Canada PowerShell/SharePoint $200 (off-stack) skip; 'compromised website fixes' = private payment for another freelancer skip; CRM Figma design, Shopify skip; n8n/claude stale — nothing fit; invites 0
 - 2026-11-23 21:18 Kyiv extra check: no new on-direction jobs since 20:48 (feed unchanged); google sheets empty, integration/crm stale — nothing fit
+- 2026-11-23 21:48 Kyiv main check: US $150 full-stack app maintenance (Supabase/mobile, 1–3 mo) skip; WP ecommerce $17, Android Kotlin $25, front-end designer skip; webhook/chatbot empty — nothing fit; invites 0
