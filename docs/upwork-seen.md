@@ -328,3 +328,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 17:48 Kyiv main check: India $100 vague 'web automation' Python (no history, 1–3 mo) skip; Nigeria $10 GHL follow-up skip; Shopify landing/store skip; api/automation stale — nothing fit; invites 0
 - 2026-11-23 18:18 Kyiv extra check: India WhatsApp lead bot (hourly, payment NOT verified, no history) skip; n8n/google sheets/crm stale — nothing fit
 - 2026-11-23 18:48 Kyiv main check: US $10 Twilio A2P 10DLC consult (GHL, <floor) skip; Serbia invoice job hired; Belgium SaaS design, Shopify, game testers skip; hubspot/rag stale — nothing fit; invites 0
+- 2026-11-23 19:18 Kyiv extra check: Switzerland $200 Apify DACH job scrapers (good client, but 20–50 props in 12 min, scraping not in stack) skip; WhatsApp India 15–20 skip; zapier/workflow/openai stale — nothing fit
