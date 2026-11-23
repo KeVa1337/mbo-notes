@@ -319,3 +319,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 13:18 Kyiv extra check: Romania $50 'senior AI dev fix whole AI-built SaaS' (no client history, full refactor) skip; France AI API creds hourly unverified skip; Claude KYC/Singapore setup dubious skip; make.com/chatbot stale — nothing fit
 - 2026-11-23 13:48 Kyiv main check: AU agency n8n+Claude CRM dashboard (<5 props, але hourly, payment NOT verified, unpaid-style trial build for agency) skip; FB group/UI design/VA/telecaller skip; hubspot stale — nothing fit; invites 0
 - 2026-11-23 14:19 Kyiv extra check: US full-time marketing+automation lead $1200/mo skip; AU n8n CRM dashboard now 50+; webhook/rag empty — nothing fit
+- 2026-11-23 14:49 Kyiv main check: Claude subscription reseller dubious skip; WordPress dev 3 hires skip; Win ARM64 32-bit troubleshoot off-direction skip; church UI $10 skip; google sheets empty, gpt stale — nothing fit; invites 0
