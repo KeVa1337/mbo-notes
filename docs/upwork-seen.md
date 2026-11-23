@@ -326,3 +326,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-23 16:48 Kyiv main check: Serbia invoice-OCR job re-posted (new id 2124873814467199667, already 20–50 props) skip; US AI coach long-term hourly 50+ skip; Solana pump.fun detector, Lovable→Shopify migration, Shopify $5, WP Ubuntu migration skip; ai agent/claude stale — nothing fit; invites 0
 - 2026-11-23 17:19 Kyiv extra check: China $200 ComfyUI dance-video face swap (unverified, off-direction) skip; Serbia invoice job now 50+; make.com/webhook/chatbot empty — nothing fit
 - 2026-11-23 17:48 Kyiv main check: India $100 vague 'web automation' Python (no history, 1–3 mo) skip; Nigeria $10 GHL follow-up skip; Shopify landing/store skip; api/automation stale — nothing fit; invites 0
+- 2026-11-23 18:18 Kyiv extra check: India WhatsApp lead bot (hourly, payment NOT verified, no history) skip; n8n/google sheets/crm stale — nothing fit
