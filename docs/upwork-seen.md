@@ -350,3 +350,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 11:49 Kyiv main check: категорія — Hostinger сайт (19 заявок), AU сайт+лого, gaming app, Rust/WebGPU, UI/UX skip; assistant — рекрутинг/GHL VA/SMM; webhook 0; zapier/airtable/openai stale — nothing fit; invites 0
 - 2026-11-24 12:18 Kyiv extra check: smart_search без нових; crm — GHL Nigeria (hired), Meta Ads, CRM UI — skip; make.com 0, google sheets 0 — nothing fit
 - 2026-11-24 12:49 Kyiv main check: Munich roofing GHL follow-up $30 (GHL основна платформа, 10 заявок) skip; Alibaba scraping CRM (unclear, 1–3 міс), Godot/Unity ігри, AI invoice code review $20, Rust/WebGPU skip; ai agent/integration/apps script/n8n stale — nothing fit; invites 0
+- 2026-11-24 13:18 Kyiv extra check: AU AI receptionist voice $5 20–50, Munich GHL тепер 20–50, Alibaba scraping 5–10 skip; workflow/claude — ComfyUI, Godot, сумнівне, stale; chatbot 0 — nothing fit
