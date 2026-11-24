@@ -371,3 +371,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 22:18 Kyiv extra check: скан — без нових AI-задач (LangChain RAG тепер 10–15); zapier/apps script stale, make.com 0, rag 0 — nothing fit
 - 2026-11-24 22:49 Kyiv main check: AU Jellyfin VPS media setup $35 (Linux-сервер, поза напрямом), Canada GHL $10 skip; категорія — Shopify, бізнес-сайт, 360, Kajabi, QA skip; openai stale — nothing fit; invites 0
 - 2026-11-24 23:18 Kyiv extra check: скан без нових; crm — Meta Ads (4.39) skip; workflow/claude stale, chatbot 0 — nothing fit
+- 2026-11-24 23:49 Kyiv main check: Finland restaurant AI full-stack hourly 50+ skip; категорія — WordPress Impreza, QA testing, Squarespace, Wix, Jellyfin, 360 skip; api/gpt stale — nothing fit; invites 0
