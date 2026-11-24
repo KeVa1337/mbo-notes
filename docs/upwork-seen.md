@@ -354,3 +354,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 13:49 Kyiv main check: Bulgaria WP/Elementor через MCP $100 (0 заявок, 4.97, hire 62%) — skip: потрібні 2 демо-відео з голосом англійською і вже готовий досвід WP+MCP; UI/UX trial, Shopify app review, Rust, Alibaba — skip; zapier/api stale — nothing fit; invites 0; Connects 39
 - 2026-11-24 14:18 Kyiv extra check: Germany B2B outbound AI automation hourly 50+ skip; решта smart_search без змін; airtable/openai stale, webhook 0 — nothing fit
 - 2026-11-24 14:49 Kyiv main check: категорія — WooCommerce/Elementor, QA-тестери, Rust, QA automation full-time, Shopify app review skip; automation/gpt stale — nothing fit; invites 0
+- 2026-11-24 15:23 Kyiv extra check: smart_search (о :02) — US Claude chat+voice $650 50+, grant ops n8n hourly 50+; crm/integration stale; make.com 0, rag 0 — nothing fit
