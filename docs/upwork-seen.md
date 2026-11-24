@@ -342,3 +342,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 00:48 Kyiv main check: UAE n8n+GHL CRM hourly 30+h/wk Top Rated only skip; phone screenshots/WP auction/Shopify marketing/app testers skip; integration/gpt stale — nothing fit; invites 0
 - 2026-11-24 01:18 Kyiv extra check: feed unchanged since 00:48; zapier stale, google sheets/chatbot empty — nothing fit
 - 2026-11-24 01:48 Kyiv main check: US $75 PSD→HTML email newsletter (HTML/CSS — Bohdan's stack, але поза напрямом автоматизації; клієнт 4.45) skip; mobile vibe-coder $10, Flutter audit, Kotlin chatbot app skip; n8n/assistant stale — nothing fit; invites 0
+- 2026-11-24 02:18 Kyiv extra check: UAE n8n+GHL hourly 3–6 міс, Kenya chatbot hourly/unverified, UK $40 automation 50+, Alacrue GHL full-time skip; Meta Ads/CRM (клієнт 4.39), CRM UI design $15, Bitrix24 hired; webhook/airtable/openai stale — nothing fit
