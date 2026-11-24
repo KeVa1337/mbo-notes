@@ -373,3 +373,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 23:18 Kyiv extra check: скан без нових; crm — Meta Ads (4.39) skip; workflow/claude stale, chatbot 0 — nothing fit
 - 2026-11-24 23:49 Kyiv main check: Finland restaurant AI full-stack hourly 50+ skip; категорія — WordPress Impreza, QA testing, Squarespace, Wix, Jellyfin, 360 skip; api/gpt stale — nothing fit; invites 0
 - 2026-11-25 00:18 Kyiv extra check: smart_search без нових; n8n/integration/ai agent stale — nothing fit
+- 2026-11-25 00:48 Kyiv main check: категорія — Odoo B2C (4.34), MMORPG map, Wix, WordPress, Squarespace skip; webhook 0, airtable stale — nothing fit; invites 0
