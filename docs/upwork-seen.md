@@ -358,3 +358,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 15:50 Kyiv main check: US ChatGPT agent $300 (<5, Python, expert, клієнт без відгуків), IT AI-агент hourly 50+ skip; категорія — edtech $15, Rust, QA skip; hubspot/assistant stale — nothing fit; invites 0
 - 2026-11-24 16:19 Kyiv extra check: скани :02/:32 — US ChatGPT agent $300 тепер 50+, AU 4TG GHL $300 skip; n8n/workflow/ai agent stale, google sheets 0 — nothing fit
 - 2026-11-24 16:49 Kyiv main check: India AI content system $500 (15–20, Python) skip; категорія — Unity консультація, Shopify, SIM/SMS-тестери, Salesforce LWC skip; chatbot 0, apps script stale — nothing fit; invites 0
+- 2026-11-24 17:18 Kyiv extra check: smart_search без нових (India AI content $500 тепер 20–50); zapier/openai/claude/crm — stale — nothing fit
