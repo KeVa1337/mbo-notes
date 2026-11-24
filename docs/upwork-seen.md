@@ -368,3 +368,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 20:49 Kyiv main check: скан — US Senior Automation hourly full-time 20–50, AU ChatGPT plugin тепер 10–15, Bangladesh n8n hired skip; категорія — ShineOn jewelry store, Kajabi landing $20, QA UA-тестер, Expensify skip; hubspot/assistant stale/VA — nothing fit; invites 0
 - 2026-11-24 21:18 Kyiv extra check: скан :02 — Israel market research lead-automation (4.06), YouTube video, cold caller skip; airtable/integration/ai agent stale, webhook 0 — nothing fit
 - 2026-11-24 21:48 Kyiv main check: Italy LangChain RAG $20 (Python, 1–3 міс, 6 заявок) skip; категорія — Shopify CRO, 360 viewer, ShineOn, Kajabi, QA skip; n8n stale, google sheets 0 — nothing fit; invites 0
+- 2026-11-24 22:18 Kyiv extra check: скан — без нових AI-задач (LangChain RAG тепер 10–15); zapier/apps script stale, make.com 0, rag 0 — nothing fit
