@@ -360,3 +360,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-24 16:49 Kyiv main check: India AI content system $500 (15–20, Python) skip; категорія — Unity консультація, Shopify, SIM/SMS-тестери, Salesforce LWC skip; chatbot 0, apps script stale — nothing fit; invites 0
 - 2026-11-24 17:18 Kyiv extra check: smart_search без нових (India AI content $500 тепер 20–50); zapier/openai/claude/crm — stale — nothing fit
 - 2026-11-24 17:48 Kyiv main check: US ManyChat→GHL $50 (клієнт 4.99/1967, але GHL основна і 10–15 заявок), Canada RE AI automation hourly 50+ skip; категорія — PM (3.89), AI full-stack $80, Webflow, Shopify skip; automation/airtable stale — nothing fit; invites 0
+- 2026-11-24 18:18 Kyiv extra check: скани — France AI agents hourly full-time (французька), US Kids Bible AI hourly 20–50, ManyChat→GHL тепер 20–50, Nigeria GHL $10 skip; make.com/webhook/rag 0, integration stale — nothing fit
