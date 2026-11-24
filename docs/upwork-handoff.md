@@ -1,5 +1,7 @@
 # Upwork: where we are (handoff for the next session)
 
+> **At the PC:** see `docs/pc-todo.md` (skills install + open decisions), saved 2026-11-25.
+
 Updated: Nov 12, 2026. Read together with `docs/upwork-profile.md` (profile facts, rules verified against the Help Center, proposals log).
 
 ## Status
