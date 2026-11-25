@@ -404,3 +404,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 21:18 Kyiv extra check: Canada GHL funnels $30 (0 заявок, але GHL основна) skip; YouTube automation tutor skip; apps script stale — nothing fit
 - 2026-11-25 21:48 Kyiv main check: PAK n8n/Make business automation $20 (розмите ТЗ, не пріоритетна країна) skip; airtable/rag stale — nothing fit; invites 0
 - 2026-11-25 22:18 Kyiv extra check: TX n8n+Apps Script hourly part-time (26 заявок) skip; PAK n8n $20 вже бачили; решта stale/hourly — nothing fit; invites 0
+- 2026-11-25 22:48 Kyiv main check: нових automation-задач $20–150 з ≤10 заявками нема (Singapore AI video hourly, dental integration full-time — skip); invites 0
