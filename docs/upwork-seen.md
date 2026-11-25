@@ -400,3 +400,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 19:18 Kyiv extra check: Canada Claude referral system hourly (4.37, 20–50) skip; make.com 0, crm — Monday full-time — nothing fit
 - 2026-11-25 19:48 Kyiv main check: US Voice AI restaurant hourly (GHL/Vapi, без історії) skip; Shopify Gorgias replace hourly 50+ skip; integration/openai stale — nothing fit; invites 0
 - 2026-11-25 20:18 Kyiv extra check: Canada AI Automation Engineer $500 (Python/RAG, 1–3 міс, уже 12) skip; US healthcare n8n→Airtable $200 (payment unverified, 20–50) skip; chatbot stale — nothing fit
+- 2026-11-25 20:48 Kyiv main check: smart_search без нових після 20:18; zapier stale, assistant — VA/eBay/estimating — nothing fit; invites 0
