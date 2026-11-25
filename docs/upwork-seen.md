@@ -384,3 +384,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 11:48 Kyiv main check: Canada GHL+ManyChat fix $50 (<5, 4.99/81 відгук) — GHL основна платформа, skip; chatbot/hubspot stale або не наше — nothing fit; invites 0
 - 2026-11-25 12:18 Kyiv extra check: smart_search без нових (Canada GHL вже 10–15); automation — LinkedIn growth, YouTube script, Android mass-actions (сумнівне), mentorship skip; n8n/zapier stale — nothing fit
 - 2026-11-25 12:48 Kyiv main check: Saudi n8n AI email drafts+Slack approval $90 — за 25 хв уже 20–50 заявок, клієнт без історії, skip (гарна ідея для демо); api/gpt stale або не наше — nothing fit; invites 0
+- 2026-11-25 13:18 Kyiv extra check: smart_search — France AI API hourly (unverified, 20–50), India Claude expert $35 (15–20, >6 міс) skip; integration/ai agent/airtable stale — nothing fit
