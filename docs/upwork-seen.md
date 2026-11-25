@@ -392,3 +392,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 15:48 Kyiv main check: smart_search без нових (Canada n8n $20 вже 20–50); apps script/openai stale — nothing fit; invites 0
 - 2026-11-25 16:03 Kyiv fast scan: ALERTED US n8n contact form→Sheets+Gmail $250 (<5, 7 хв, 10 Connects; ризик: payment unverified, перше замовлення клієнта)
 - 2026-11-25 16:18 Kyiv extra check: n8n form→Sheets $250 уже 20–50 заявок; preview заявки $200 by project підготовлено, чекає «відправ»; make.com 0 — інших нових немає
+- 2026-11-25 16:48 Kyiv main check: smart_search без нових; n8n form→Sheets тепер 50+ (preview прострочено, не відправлено); zapier/webhook stale — nothing fit; invites 0
