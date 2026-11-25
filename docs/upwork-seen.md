@@ -381,3 +381,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 10:18 Kyiv extra check: smart_search — Saudi staffing (hourly, 20–50, unverified), US Claude coach hourly 50+ skip; n8n/workflow/crm stale або не наше (Meta Ads, VA) — nothing fit
 - 2026-11-25 10:48 Kyiv main check: make.com 0, google sheets 0, openai (ChatGPT account recovery, не наше); smart_search без нових після 10:18 — nothing fit; invites 0
 - 2026-11-25 11:18 Kyiv extra check: smart_search без нових; webhook/claude/rag stale або не наше (Claude KYC, vendors, video) — nothing fit
+- 2026-11-25 11:48 Kyiv main check: Canada GHL+ManyChat fix $50 (<5, 4.99/81 відгук) — GHL основна платформа, skip; chatbot/hubspot stale або не наше — nothing fit; invites 0
