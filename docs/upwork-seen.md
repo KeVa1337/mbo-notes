@@ -398,3 +398,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 18:18 Kyiv extra check: Canada Grok Bot hourly 30+ год/тиж (20–50) skip; Maps agent $25 preview прострочено, не відправлено (20–50); n8n/rag stale — nothing fit
 - 2026-11-25 18:48 Kyiv main check: AU n8n lead form→Sheets $20 (клієнт 5.0/149) — за 15 хв уже 20–50 skip; workflow/api не наше — nothing fit; invites 0
 - 2026-11-25 19:18 Kyiv extra check: Canada Claude referral system hourly (4.37, 20–50) skip; make.com 0, crm — Monday full-time — nothing fit
+- 2026-11-25 19:48 Kyiv main check: US Voice AI restaurant hourly (GHL/Vapi, без історії) skip; Shopify Gorgias replace hourly 50+ skip; integration/openai stale — nothing fit; invites 0
