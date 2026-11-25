@@ -387,3 +387,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 13:18 Kyiv extra check: smart_search — France AI API hourly (unverified, 20–50), India Claude expert $35 (15–20, >6 міс) skip; integration/ai agent/airtable stale — nothing fit
 - 2026-11-25 13:48 Kyiv main check: smart_search без нових після 13:18 (Canada GHL hired); workflow/assistant — VA, відео, не наше — nothing fit; invites 0
 - 2026-11-25 14:18 Kyiv extra check: smart_search без нових; n8n stale, google sheets 0, make.com 0 — nothing fit
+- 2026-11-25 14:48 Kyiv main check: smart_search без нових (Saudi email-drafts вже offer); zapier/chatbot stale — nothing fit; invites 0
