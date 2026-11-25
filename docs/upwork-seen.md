@@ -409,3 +409,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 23:48 Kyiv main check: нових fixed automation-задач за годину нема (PHL AI Specialist hourly вже бачили); invites 0
 - 2026-11-26 00:18 Kyiv extra check: US Funnel Architect $100 (довгий проєкт 6+ міс, 11 заявок) skip — nothing fit; invites 0
 - 2026-11-26 00:48 Kyiv main check: нових automation-вакансій за годину нема (стрічка стоїть); invites 0
+- 2026-11-26 01:18 Kyiv extra check: AU AI workflow for marketing docs hourly (50+ заявок за 25 хв) skip — nothing fit; invites 0
