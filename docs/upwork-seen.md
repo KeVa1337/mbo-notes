@@ -402,3 +402,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 20:18 Kyiv extra check: Canada AI Automation Engineer $500 (Python/RAG, 1–3 міс, уже 12) skip; US healthcare n8n→Airtable $200 (payment unverified, 20–50) skip; chatbot stale — nothing fit
 - 2026-11-25 20:48 Kyiv main check: smart_search без нових після 20:18; zapier stale, assistant — VA/eBay/estimating — nothing fit; invites 0
 - 2026-11-25 21:18 Kyiv extra check: Canada GHL funnels $30 (0 заявок, але GHL основна) skip; YouTube automation tutor skip; apps script stale — nothing fit
+- 2026-11-25 21:48 Kyiv main check: PAK n8n/Make business automation $20 (розмите ТЗ, не пріоритетна країна) skip; airtable/rag stale — nothing fit; invites 0
