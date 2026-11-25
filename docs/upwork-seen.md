@@ -395,3 +395,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 16:48 Kyiv main check: smart_search без нових; n8n form→Sheets тепер 50+ (preview прострочено, не відправлено); zapier/webhook stale — nothing fit; invites 0
 - 2026-11-25 17:18 Kyiv extra check: smart_search без нових; automation/claude — відеомонтаж, YouTube, менторство, не наше — nothing fit
 - 2026-11-25 17:48 Kyiv main check: ALERTED US AI agent + Google Maps API $25 (<5, 6 хв, клієнт 4.99/74, hire 80%, 11 Connects; ТЗ розмите); GHL+AI $100 вже 20–50 skip; google sheets 0, hubspot stale; invites 0
+- 2026-11-25 18:18 Kyiv extra check: Canada Grok Bot hourly 30+ год/тиж (20–50) skip; Maps agent $25 preview прострочено, не відправлено (20–50); n8n/rag stale — nothing fit
