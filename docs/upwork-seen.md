@@ -378,3 +378,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 01:48 Kyiv main check: smart_search most_recent — без нових за годину (усе з 16–21 UTC, 10–50+ заявок); zapier/chatbot stale (Pancake, Korean voice) — nothing fit; invites 0
 - 2026-11-25 02:18 Kyiv extra check: smart_search без нових; automation (Jellyfin VPS $35, YouTube/QA/Salesforce не наше), airtable/apps script stale — nothing fit
 - 2026-11-25 02:48 Kyiv main check: smart_search без нових; ai agent — Shopify support agent $300/міс (клієнт 3.41, не наше) skip; integration stale — nothing fit; invites 0
+- 2026-11-25 10:18 Kyiv extra check: smart_search — Saudi staffing (hourly, 20–50, unverified), US Claude coach hourly 50+ skip; n8n/workflow/crm stale або не наше (Meta Ads, VA) — nothing fit
