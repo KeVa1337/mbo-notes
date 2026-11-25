@@ -376,3 +376,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-25 00:48 Kyiv main check: категорія — Odoo B2C (4.34), MMORPG map, Wix, WordPress, Squarespace skip; webhook 0, airtable stale — nothing fit; invites 0
 - 2026-11-25 01:18 Kyiv extra check: smart_search — Lovable transfer hourly, TRIO React $300 20–50, сайти skip; n8n (усі 17–176 заявок), google sheets (Bulgaria invoices $100 55, Pensoft payroll $40 17), make.com, webhook stale — nothing fit
 - 2026-11-25 01:48 Kyiv main check: smart_search most_recent — без нових за годину (усе з 16–21 UTC, 10–50+ заявок); zapier/chatbot stale (Pancake, Korean voice) — nothing fit; invites 0
+- 2026-11-25 02:18 Kyiv extra check: smart_search без нових; automation (Jellyfin VPS $35, YouTube/QA/Salesforce не наше), airtable/apps script stale — nothing fit
