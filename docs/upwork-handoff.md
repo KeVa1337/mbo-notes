@@ -158,3 +158,8 @@ Bohdan asked to fix the portfolio first, then the profile text. Everything for m
 - Freelancer Plus: +100 Connects monthly, next 2026-12-09. Balance 34 (11 free + 23 paid) on 26.11.
 - Open for work badge: 14 Connects/week, renews Fridays ~10:33 Kyiv (next 27.11). Bohdan decided to KEEP it ON («ні» to switching off, 26.11). Don't re-ask; mention only if balance can't cover a strong proposal.
 - Portfolio items can't be created via the connector; paste-ready text in docs/upwork-portfolio-mobile-fix.md.
+
+## Saved searches for Website fixes (2026-11-26) — Bohdan saves in UI, alerts ON for these 3, OFF for old AI/automation ones
+1. Mobile & CSS fixes: https://www.upwork.com/nx/search/jobs/?q=%28%22mobile+layout%22+OR+responsive+OR+%22mobile+fix%22+OR+%22css+fix%22+OR+%22mobile+version%22%29&proposals=0-4%2C5-9&payment_verified=1&location=Australia+and+New+Zealand%2CNorthern+America%2CNorthern+Europe%2CUnited+Kingdom%2CCyprus%2CHong+Kong%2CSingapore&sort=recency
+2. Website bugs & updates: https://www.upwork.com/nx/search/jobs/?q=%28%22website+fix%22+OR+%22website+bug%22+OR+%22website+updates%22+OR+%22javascript+fix%22+OR+%22menu+fix%22+OR+%22form+fix%22+OR+%22contact+form%22%29&proposals=0-4%2C5-9&payment_verified=1&location=Australia+and+New+Zealand%2CNorthern+America%2CNorthern+Europe%2CUnited+Kingdom%2CCyprus%2CHong+Kong%2CSingapore&sort=recency
+3. Builders CSS: https://www.upwork.com/nx/search/jobs/?q=%28squarespace+OR+webflow+OR+framer+OR+wix%29+AND+%28mobile+OR+css+OR+fix+OR+responsive%29&proposals=0-4%2C5-9&payment_verified=1&location=Australia+and+New+Zealand%2CNorthern+America%2CNorthern+Europe%2CUnited+Kingdom%2CCyprus%2CHong+Kong%2CSingapore&sort=recency
