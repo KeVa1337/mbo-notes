@@ -416,3 +416,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 10:18 Kyiv extra check: PAK AI voice calling demo $10 (нижче $20, голосові агенти — нема досвіду) skip; IND n8n HR hourly 20–50 skip; UK agentic engineer full-time skip — nothing fit; invites 0
 - 2026-11-26 10:48 Kyiv main check: нових automation-вакансій за годину нема (у Web/Dev fixed — тестування, RFP, embedded); invites 0
 - 2026-11-26 11:18 Kyiv extra check: AU WordPress+Brevo+AFI fix $25 (5 заявок, клієнт 4.98/67 відгуків, але hire 61%, 9 Connects і «тільки з досвідом Brevo/AFI» — у Богдана нема) skip — nothing fit; invites 0
+- 2026-11-26 11:48 Kyiv main check: DE marketplace integration hourly (консалтинг) skip; JOR NetSuite/ZATCA $200 (клієнт 1.42) skip — nothing fit; invites 0
