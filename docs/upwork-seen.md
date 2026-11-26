@@ -442,3 +442,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 23:18 Kyiv extra check: свіжих website-fix нема (лише старі $5–20 на конструкторах, вже з наймом); invites —
 - 2026-11-26 23:48 Kyiv main check: свіжих website-fix нема (Shopify build/tax, WP+Bókun, research interview — поза нішею); invites 0
 - 2026-11-27 00:18 Kyiv extra check: свіжих website-fix нема (smart_search ще віддає AI/n8n за історією заявок); invites —
+- 2026-11-27 00:48 Kyiv main check: свіжих website-fix нема; invites 0
