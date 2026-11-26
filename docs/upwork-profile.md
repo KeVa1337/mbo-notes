@@ -1,7 +1,7 @@
 # Upwork profile (for upwork-proposal-writer)
 
 Owner: Bogdan M. (Bohdan Mudryk), MBO Solutions, Lviv, Ukraine. Military veteran badge, ID verified.
-Profile title: Full-Stack Developer | Booking Sites, Telegram Bots & AI Chatbots
+Profile title: Front-End Developer | Website Fixes, Mobile Responsive & CSS/JS Bugs (since 2026-11-26)
 Profile URL: https://www.upwork.com/freelancers/bohdanmudryk (custom, Nov 12 2026; old ~01dcfc69ab21ba8434 link is used in demo bars). Categories: Web Development, AI Apps & Integration, Ecommerce Development, Scripts & Utilities, Web & Mobile Design.
 Rate: $20/hr (raised from $15 on Nov 12, 2026; next step $25–30 after 10+ reviews); portfolio on Upwork: LUMEX, Jarvis (AI assistant), MBO Leads (AI job bot), AURUM, Khmara, BLADE, Pivonia, Dentavia, TIREHUB, GLOSSLAB (English demos under /examples/en/) (fixed-price small jobs $25–80 are welcome to build history). Experience level: Intermediate.
 English: writes via AI-assisted translation; prefers written communication. Never promise calls in English.
@@ -140,3 +140,8 @@ Title: AI Automation Developer | n8n, Telegram Bots, AI Agents, Google Sheets. S
 - 2026-11-18: Python + Next.js AI Chat Bot review (Yulia, Ukraine) — $280 in 2 milestones (110/170), no boost, 13 Connects. Draft by Claude, approved by Bohdan («так, як є»). Connects left 54.
 - 2026-11-18: RAG Assistant from Product Manuals (Kenya client, 5★) — $75 by project, boost 4, 17 Connects. Bohdan's dictated text. Connects left ~37.
 - 2026-11-19: GoHighLevel workflow fix (Canada client 4.99, 197 reviews) — $10 by project, boost 4, 12 Connects, proposal 2123186584510578689. Reviews-first mode. Connects left ~28.
+
+## Profile repositioned (2026-11-26, Bohdan approved «так застосовуй з хобі»)
+Direction: Website fixes & polish (see upwork-handoff.md). Title: Front-End Developer | Website Fixes, Mobile Responsive & CSS/JS Bugs.
+Overview = Bohdan's own Ukrainian text translated plainly (mobile breaks, menu over logo, sideways scroll, form not sending; HTML/CSS/JS; Figma sections; form → Telegram/Google Sheets; LUMEX most customers buy from phones; demos 88–98 mobile PageSpeed; desk-setup hobby; fixed price after agreeing scope, Upwork chat, before/after screenshots).
+Skills (20): Bug Fix, Responsive Design, CSS, CSS 3, HTML, HTML5, JavaScript, Front-End Development, Website Customization, Website Redesign, Web Design, Landing Page, Figma, Web Development, Telegram API, Google Sheets, React, Next.js, TypeScript, Node.js. Removed all AI/n8n/automation/Python/scraping skills. Builders (Squarespace/Webflow/Framer/Wix) to add only after Bohdan tries them.
