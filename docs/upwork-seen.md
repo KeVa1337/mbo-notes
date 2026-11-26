@@ -426,3 +426,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 15:18 Kyiv extra check: UK GoHighLevel workflow fix $20 (GHL основна платформа) skip; MNE AI agent builder hourly skip — nothing fit; invites 0
 - 2026-11-26 15:48 Kyiv main check: нових automation-вакансій за годину нема; invites 0
 - 2026-11-26 16:18 Kyiv extra check: нових automation-вакансій нема (лише WooCommerce hourly 31 заявка); invites 0
+- 2026-11-26 16:48 Kyiv main check: DE AI voice agent/receptionist $105 (голосові агенти, довгостроково, клієнт без відгуків) skip; US Claude Code engineer full-time skip — nothing fit; invites 0
