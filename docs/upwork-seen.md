@@ -414,3 +414,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 02:18 Kyiv extra check: US AI agent business data scrubbing $350 (7 заявок, скрапінг держреєстрів, 1–3 міс, понад ліміт) skip — nothing fit; invites 0
 - 2026-11-26 02:48 Kyiv main check: нових automation-вакансій за годину нема; invites 0
 - 2026-11-26 10:18 Kyiv extra check: PAK AI voice calling demo $10 (нижче $20, голосові агенти — нема досвіду) skip; IND n8n HR hourly 20–50 skip; UK agentic engineer full-time skip — nothing fit; invites 0
+- 2026-11-26 10:48 Kyiv main check: нових automation-вакансій за годину нема (у Web/Dev fixed — тестування, RFP, embedded); invites 0
