@@ -423,3 +423,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 13:48 Kyiv main check: нових automation-вакансій за годину нема; invites 0
 - 2026-11-26 14:18 Kyiv extra check: нових automation-вакансій нема; invites 0
 - 2026-11-26 14:48 Kyiv main check: UK AI chatbot+voice agent $20 (20–50 заявок за 30 хв, голос/STT-TTS) skip; UK WordPress/MySQL fix $50 (сайти) skip — nothing fit; invites 0
+- 2026-11-26 15:18 Kyiv extra check: UK GoHighLevel workflow fix $20 (GHL основна платформа) skip; MNE AI agent builder hourly skip — nothing fit; invites 0
