@@ -429,3 +429,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 16:48 Kyiv main check: DE AI voice agent/receptionist $105 (голосові агенти, довгостроково, клієнт без відгуків) skip; US Claude Code engineer full-time skip — nothing fit; invites 0
 - 2026-11-26 17:18 Kyiv extra check: нових automation-вакансій нема (US CRM data entry $5 — не наш профіль); invites 0
 - 2026-11-26 17:48 Kyiv main check: нових automation-вакансій за годину нема (Web/Dev fixed — тестування, Webflow); invites 0
+- 2026-11-26 18:18 Kyiv extra check: US Retell AI+Airtable+Twilio+portal $285 (великий обсяг, голос/SMS/логіни, клієнт 1 відгук) skip; US Clay lead enrichment $10 (нижче $20, Clay — нема досвіду) skip — nothing fit; invites 0
