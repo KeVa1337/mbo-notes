@@ -435,3 +435,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 19:48 Kyiv main check: нових automation-вакансій нема (QA/тестування, Expensify, старі zapier/hubspot); invites 0
 - 2026-11-26 20:18 Kyiv extra check: нових automation-вакансій нема (CA full-stack+AI hourly, решта вже бачені/старі); invites —
 - 2026-11-26 20:48 Kyiv main check: нових automation-вакансій нема (IND AI-app backend fix $20 — fullstack, 6 заявок, клієнт без історії; Odoo training; Shopify); invites 0
+- 2026-11-26 21:18 Kyiv extra check (+пропущений скан 21:02): нових automation-вакансій нема (GBR HVAC AI+voice $250 20–50 заявок, US AI ops assistant hourly not verified); invites —
