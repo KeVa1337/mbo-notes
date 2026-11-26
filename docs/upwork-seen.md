@@ -420,3 +420,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 12:18 Kyiv extra check: UK social media AI workflow $20 (12 заявок за 25 хв, новий клієнт без відгуків) skip; CZ Claude consultant hourly 15–20 skip; US ERP/CRM hourly skip — nothing fit; invites 0
 - 2026-11-26 12:48 Kyiv main check: нових automation-вакансій за годину нема; invites 0
 - 2026-11-26 13:18 Kyiv extra check: нових automation-вакансій нема; invites 0
+- 2026-11-26 13:48 Kyiv main check: нових automation-вакансій за годину нема; invites 0
