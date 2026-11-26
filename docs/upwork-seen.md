@@ -438,3 +438,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-26 21:18 Kyiv extra check (+пропущений скан 21:02): нових automation-вакансій нема (GBR HVAC AI+voice $250 20–50 заявок, US AI ops assistant hourly not verified); invites —
 - 2026-11-26 21:48 Kyiv main check (перша за новим напрямом Website fixes): свіжих нема; спостереження — mobile-fix задачі по $10 (Framer/Squarespace/Wix) наймають за години, 4–10 заявок; invites 0
 - 2026-11-26 22:18 Kyiv extra check: свіжих website-fix нема; конструктори (Squarespace/Wix/Webflow) — переважно $5–10 від мікро-клієнтів (NG/PK), швидко наймають; invites —
+- 2026-11-26 22:48 Kyiv main check: свіжих website-fix нема (UAE Bókun+WP $40 — WordPress/SEO, офер вже зроблено; Shopify build/tax — поза нішею); invites 0
