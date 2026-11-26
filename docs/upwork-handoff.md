@@ -153,3 +153,8 @@ Bohdan asked to fix the portfolio first, then the profile text. Everything for m
 - Open questions for Bohdan are at the end of the pack (real MBO Leads users, own n8n instance, items per portfolio page, Workday entry).
 - Next after that: profile overview rewrite from his own dictated Ukrainian text. The overview line "MBO Leads: finds freelance orders…" must be reworded too.
 - `/home/user/works` is not in git: portfolio images live only there and in the files sent to Bohdan in chat.
+
+## Connects & badge (2026-11-26)
+- Freelancer Plus: +100 Connects monthly, next 2026-12-09. Balance 34 (11 free + 23 paid) on 26.11.
+- Open for work badge: 14 Connects/week, renews Fridays ~10:33 Kyiv (next 27.11). Bohdan decided to KEEP it ON («ні» to switching off, 26.11). Don't re-ask; mention only if balance can't cover a strong proposal.
+- Portfolio items can't be created via the connector; paste-ready text in docs/upwork-portfolio-mobile-fix.md.
