@@ -445,3 +445,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 00:48 Kyiv main check: свіжих website-fix нема; invites 0
 - 2026-11-27 01:00 Kyiv: PROPOSAL SENT — Ample ChatGPT plugin test (Ravi, US, 5.0/34, 99 hires) $10, 14 Connects, no boost, draft by Claude (Bohdan «пиши сам», exception). Proposal id 2126088302625734657. If hired: add plugin, vibecode detailing booking+price calc app, launch on Ample, send URL + feedback, remove plugin after.
 - 2026-11-27 01:18 Kyiv extra check: свіжих website-fix нема; Ample-заявка pending
+- 2026-11-27 01:48 Kyiv main check: свіжих website-fix нема; invites 0. Ample: 130 заявок, клієнт відкрив 1, наша не переглянута
