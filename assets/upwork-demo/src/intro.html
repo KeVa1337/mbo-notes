@@ -1,0 +1,57 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1920px;height:1080px;overflow:hidden;font-family:Outfit,system-ui,sans-serif;color:#151413;
+ background:radial-gradient(1400px 900px at 85% 10%,#f3eee7 0%,transparent 60%),radial-gradient(1100px 800px at 0% 100%,#d2c9bc 0%,transparent 70%),#e4ddd3}
+.blob{position:absolute;border-radius:50%;filter:blur(60px);opacity:.55}
+.b1{width:620px;height:620px;background:#cfc5b7;left:-120px;top:-160px;animation:drift 6s ease-in-out both}
+.b2{width:520px;height:520px;background:#efe9e0;right:120px;bottom:-200px;animation:drift 6s ease-in-out reverse both}
+@keyframes drift{from{transform:translate(0,0)}to{transform:translate(60px,40px)}}
+.left{position:absolute;left:180px;top:300px;width:900px}
+.kick{display:flex;gap:12px;opacity:0;animation:up .8s .2s cubic-bezier(.2,.8,.2,1) forwards}
+.chip{font-size:22px;padding:9px 22px;border:1px solid rgba(21,20,19,.14);border-radius:999px;background:rgba(255,255,255,.4)}
+.name{font-weight:200;font-size:150px;letter-spacing:-.03em;line-height:1.12;padding-bottom:.08em;margin-top:34px;overflow:hidden}
+.name span{display:inline-block;transform:translateY(110%);animation:rise 1s .45s cubic-bezier(.2,.8,.2,1) forwards}
+.role{font-weight:300;font-size:52px;color:#7b736a;margin-top:18px;opacity:0;animation:up .9s .9s cubic-bezier(.2,.8,.2,1) forwards}
+.line{height:2px;background:#151413;width:0;margin-top:46px;animation:grow 1.1s 1.2s cubic-bezier(.6,0,.2,1) forwards}
+.svc{display:flex;gap:36px;margin-top:30px;font-size:30px;font-weight:300}
+.svc span{opacity:0;animation:up .7s cubic-bezier(.2,.8,.2,1) forwards}
+.svc span:nth-child(1){animation-delay:1.5s}.svc span:nth-child(2){animation-delay:1.7s}.svc span:nth-child(3){animation-delay:1.9s}
+.svc i{display:inline-block;width:12px;height:12px;border-radius:50%;background:#a9cf86;margin-right:12px;vertical-align:middle;box-shadow:0 0 0 5px rgba(169,207,134,.25)}
+@keyframes rise{to{transform:translateY(0)}}
+@keyframes up{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:none}}
+@keyframes grow{to{width:640px}}
+.phone{position:absolute;right:230px;top:150px;width:380px;height:780px;border-radius:58px;padding:13px;background:#1b1a19;
+ box-shadow:0 70px 120px -40px rgba(40,28,14,.5),inset 0 0 0 1px rgba(255,255,255,.08);opacity:0;animation:phin 1.1s .3s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes phin{from{opacity:0;transform:translateY(80px) rotate(4deg)}to{opacity:1;transform:rotate(-3deg)}}
+.scr{position:relative;width:100%;height:100%;border-radius:46px;overflow:hidden;background:#e8e3dc}
+.scr img{position:absolute;inset:0;width:100%;display:block}
+.fixed{clip-path:inset(0 0 100% 0);animation:wipe 1.3s 2.3s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes wipe{to{clip-path:inset(0 0 0 0)}}
+.scan{position:absolute;left:0;right:0;height:3px;top:0;background:#a9cf86;box-shadow:0 0 24px 6px rgba(169,207,134,.7);opacity:0;animation:scan 1.3s 2.3s cubic-bezier(.6,0,.2,1) forwards}
+@keyframes scan{0%{opacity:1;top:0}95%{opacity:1}100%{opacity:0;top:100%}}
+.lbl{position:absolute;right:250px;top:960px;font-size:24px;letter-spacing:.12em;text-transform:uppercase;display:flex;gap:14px;align-items:center}
+.lbl .b{opacity:0;animation:up .6s .9s forwards, out .3s 2.3s forwards}
+.lbl .a{position:absolute;right:0;opacity:0;animation:up .6s 3.5s forwards}
+@keyframes out{to{opacity:0}}
+.dot{display:inline-block;width:12px;height:12px;border-radius:50%;margin-right:10px}
+.b .dot{border:2px solid #151413}.a .dot{background:#a9cf86}
+.glass{position:absolute;right:120px;top:120px;width:280px;padding:26px 28px;border-radius:30px;background:rgba(255,255,255,.42);
+ backdrop-filter:blur(16px);border:1px solid rgba(255,255,255,.7);box-shadow:0 30px 60px -30px rgba(40,28,14,.35);opacity:0;animation:up .8s 3.6s forwards}
+.glass small{font-size:18px;color:#7b736a}.glass b{display:block;font-weight:200;font-size:64px;line-height:1;margin-top:6px}
+.glass b em{font-style:normal;font-size:22px;color:#7b736a;margin-left:6px}
+</style></head><body>
+<div class="blob b1"></div><div class="blob b2"></div>
+<div class="left">
+ <div class="kick"><span class="chip">front-end developer</span><span class="chip">Lviv, Ukraine</span></div>
+ <div class="name"><span>Bogdan M.</span></div>
+ <div class="role">Websites that work on every phone</div>
+ <div class="line"></div>
+ <div class="svc"><span><i></i>Mobile layout</span><span><i></i>CSS &amp; JS bugs</span><span><i></i>Forms that send</span></div>
+</div>
+<div class="phone"><div class="scr"><img src="hero-broken.png"><img class="fixed" src="hero-fixed.png"><div class="scan"></div></div></div>
+<div class="glass"><small>No sideways scroll at</small><b>375<em>px</em></b></div>
+<div class="lbl"><span class="b"><span class="dot"></span>Before</span><span class="a"><span class="dot"></span>After</span></div>
+</body></html>

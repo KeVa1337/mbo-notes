@@ -1,0 +1,94 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#e6e0d7;--bg2:#d6cec2;--ink:#151413;--mute:#7b736a;--line:rgba(21,20,19,.12);--sage:#a9cf86;--card:#0b0b0c}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Outfit,system-ui,sans-serif;color:var(--ink);background:#999}
+.slide{width:1000px;height:750px;position:relative;overflow:hidden;
+ background:radial-gradient(900px 600px at 80% 0%,#f1ece5 0%,transparent 60%),radial-gradient(700px 500px at 0% 100%,var(--bg2) 0%,transparent 70%),var(--bg);
+ margin-bottom:20px;padding:54px 60px}
+.chips{display:flex;gap:8px;margin-bottom:18px}
+.chip{font-size:13px;font-weight:400;letter-spacing:.02em;padding:6px 14px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.35);backdrop-filter:blur(8px)}
+h1{font-weight:200;font-size:56px;line-height:1;letter-spacing:-.02em}
+h1 em{font-style:normal;color:var(--mute)}
+.sub{max-width:420px;margin-top:12px;font-size:17px;font-weight:300;color:var(--mute)}
+.phones{position:absolute;right:56px;bottom:-30px;display:flex;gap:30px;align-items:flex-end}
+.ph{width:228px;position:relative}
+.ph .frame{width:228px;height:494px;border-radius:40px;padding:9px;background:#1b1a19;box-shadow:0 40px 80px -30px rgba(30,20,10,.45),inset 0 0 0 1px rgba(255,255,255,.08)}
+.ph .scr{width:100%;height:100%;border-radius:32px;overflow:hidden;background:#e8e3dc}
+.ph img{width:100%;display:block}
+.tag{position:absolute;top:-46px;left:0;display:flex;align-items:center;gap:10px;font-size:15px;font-weight:500;letter-spacing:.08em;text-transform:uppercase}
+.dot{width:10px;height:10px;border-radius:50%}
+.before .dot{background:transparent;border:1.5px solid var(--ink)}
+.after .dot{background:var(--sage);box-shadow:0 0 0 4px rgba(169,207,134,.25)}
+.notes{position:absolute;left:60px;bottom:56px;width:330px}
+.notes li{list-style:none;display:flex;gap:12px;font-size:16px;font-weight:300;line-height:1.35;padding:11px 0;border-top:1px solid var(--line)}
+.notes b{font-weight:500;min-width:24px;color:var(--mute)}
+.foot{position:absolute;left:60px;bottom:22px;font-size:12px;color:var(--mute);letter-spacing:.04em}
+/* slide 3 */
+.grid{display:grid;grid-template-columns:330px 1fr;gap:28px;margin-top:40px}
+.metric{background:var(--card);color:#f3f0eb;border-radius:32px;padding:34px;height:420px;display:flex;flex-direction:column;justify-content:space-between}
+.metric .big{font-weight:200;font-size:96px;line-height:.9}
+.metric .big small{font-size:24px;font-weight:300;color:#a49c92;margin-left:6px}
+.metric p{font-weight:300;color:#b9b1a7;font-size:16px;line-height:1.4}
+.bar{height:6px;border-radius:9px;background:rgba(255,255,255,.12);overflow:hidden}.bar i{display:block;height:100%;width:100%;background:var(--sage)}
+.list{background:rgba(255,255,255,.42);backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.6);border-radius:32px;padding:30px 34px}
+.list h3{font-weight:400;font-size:20px;margin-bottom:8px}
+.list li{list-style:none;display:grid;grid-template-columns:28px 1fr;gap:6px;padding:12px 0;border-top:1px solid var(--line);font-size:16px;font-weight:300;line-height:1.35}
+.list li span{color:var(--mute)}
+.list li b{font-weight:500}
+</style></head><body>
+
+<section class="slide" id="s1">
+ <div class="chips"><span class="chip">mobile layout fix</span><span class="chip">HTML · CSS</span><span class="chip">demo project</span></div>
+ <h1 style="max-width:440px">Broken on phone.<br><em>Fixed and checked.</em></h1>
+ <p class="sub">Coffee shop landing page, checked at 375 px (iPhone width)</p>
+ <ul class="notes">
+  <li><b>01</b>Menu links ran over the logo</li>
+  <li><b>02</b>Headline and text cut off on the right</li>
+  <li><b>03</b>Stats row pushed off the screen</li>
+ </ul>
+ <div class="phones">
+  <div class="ph before"><div class="tag"><span class="dot"></span>Before</div><div class="frame"><div class="scr"><img src="hero-broken.png"></div></div></div>
+  <div class="ph after"><div class="tag"><span class="dot"></span>After</div><div class="frame"><div class="scr"><img src="hero-fixed.png"></div></div></div>
+ </div>
+ <div class="foot">Demo project · built to show the kind of fixes I do</div>
+</section>
+
+<section class="slide" id="s2">
+ <div class="chips"><span class="chip">order form</span><span class="chip">responsive grid</span><span class="chip">demo project</span></div>
+ <h1 style="max-width:440px">Form that fits<br><em>the screen.</em></h1>
+ <p class="sub">Pre-order form on the same page, 375 px</p>
+ <ul class="notes">
+  <li><b>01</b>Time slots in one row, half hidden</li>
+  <li><b>02</b>Phone field cut off</li>
+  <li><b>03</b>Submit button wider than the card</li>
+ </ul>
+ <div class="phones">
+  <div class="ph before"><div class="tag"><span class="dot"></span>Before</div><div class="frame"><div class="scr"><img src="form-broken.png"></div></div></div>
+  <div class="ph after"><div class="tag"><span class="dot"></span>After</div><div class="frame"><div class="scr"><img src="form-fixed.png"></div></div></div>
+ </div>
+ <div class="foot">Demo project · built to show the kind of fixes I do</div>
+</section>
+
+<section class="slide" id="s3">
+ <div class="chips"><span class="chip">what I changed</span><span class="chip">demo project</span></div>
+ <h1>What I changed</h1>
+ <div class="grid">
+  <div class="metric">
+   <div><p>Checked widths</p><div class="big">375<small>px</small></div></div>
+   <div><p style="margin-bottom:14px">Also 390, 414 and tablet 768. No sideways scroll on any of them.</p><div class="bar"><i></i></div></div>
+  </div>
+  <ul class="list">
+   <h3>Five CSS fixes, nothing else touched</h3>
+   <li><span>01</span><div><b>Header:</b> desktop menu hidden on phones, short “Book” button</div></li>
+   <li><span>02</span><div><b>Headline:</b> fluid font size with clamp(), lines wrap</div></li>
+   <li><span>03</span><div><b>Text and buttons:</b> max-width 100%, buttons wrap</div></li>
+   <li><span>04</span><div><b>Stats and time slots:</b> grids that fit the screen, slots wrap</div></li>
+   <li><span>05</span><div><b>Form:</b> fields and button sized to the card</div></li>
+  </ul>
+ </div>
+ <div class="foot">Before and after screenshots sent with every fix · demo project</div>
+</section>
+</body></html>
