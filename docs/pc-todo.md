@@ -2,7 +2,7 @@
 
 Bohdan: «Зробиш усе коли зайду з пк». When he opens a session from the PC, walk through this list.
 
-## 1. Install Claude skills locally (cloud container copies are temporary)
+## 1. ✅ DONE 2026-11-26 20:59 on MacBook (18 skills in ~/.claude/skills). Install Claude skills locally
 Reviewed in the cloud session on 2026-11-24: no exfil or `curl | sh`. impeccable's launcher may download its engine
 from github.com/pbakaus/impeccable releases (checksum-verified). ui-ux-pro-max search runs Python scripts.
 Do NOT install n8n-skills `hooks/`.
