@@ -90,7 +90,20 @@ Searches: AI & bots, Fixes, React/Node, AI apps & Supabase, Telegram, React fixe
 - Course summary + checklist: docs/upwork-kurs-konspekt.md (end).
 - Nov 18: saved searches done in UI (alerts max 3: Telegram+AI, Lovable/Supabase, Automation & Sheets).
 
-## DIRECTION: AI AUTOMATION ONLY (Bohdan's decision, 2026-11-20 ~01:15 Kyiv)
+## DIRECTION: WEBSITE FIXES & POLISH (Bohdan's decision, 2026-11-26 ~22:00 Kyiv) — CURRENT, overrides AI AUTOMATION ONLY below
+Bohdan: «так». Analysis: `docs/upwork-niche-decision-2026-11-26.md`. Fixed for 30 days (until 2026-12-26), no niche hopping.
+- Main service: fixes and polish on EXISTING websites: mobile/responsive layout, CSS/JS bugs, broken menus/forms, visual refresh of a section, small Figma→HTML sections. HTML/CSS/JS; Squarespace/Webflow/Framer/Wix/WordPress only when the task is essentially CSS/layout (no plugin/PHP/theme dev).
+- Add-on: website form → Telegram/email/Google Sheets notification (proof: MBO Leads, Jarvis).
+- Bohdan likes: layout/fixes, design/look, bots & AI. Not n8n as a main service. Bots/AI = step 2 after first reviews.
+- Goal: stable income fast → repeat clients, "monthly website care" package (~$150).
+- Time: evenings 3–4 h (US hours).
+- Job filter: fixed $20–150 (hourly ok if small and clear), ≤10 proposals (<5 first), posted ≤30 min, payment verified, hire rate ≥~70%, rating ≥4.8, leaves reviews, check preferred qualifications (skip if JSS/earnings required), skip hidden React/TypeScript/backend/SEO-heavy scope, skip mandatory calls, skip "conveyor" $5–10 clients unless the task is 15 min.
+- Search keywords: mobile fix, responsive, css fix, mobile layout, website bug, bug fix, website fix, website updates, landing page edits, figma to html, html css, javascript fix, contact form, form fix, menu fix, squarespace, webflow, framer, wix fix, website form telegram.
+- Metrics: after 2 weeks views ≥30% of proposals (if <10% fix letters/profile, not niche); after 30 days ≥1 paid contract.
+- Profile draft (title/overview/skills) in `docs/upwork-profile-draft-2026-11-26.md`, apply only after Bohdan's separate «так».
+- Existing catalog project "Website bug or mobile layout fixed in 24 hours" ($25/$60/$110) fits this direction — keep it.
+
+## (OLD) DIRECTION: AI AUTOMATION ONLY (Bohdan's decision, 2026-11-20 ~01:15 Kyiv) — superseded 2026-11-26
 Bohdan: «так, автоматизація». Based on market snapshot `docs/upwork-market-2026-11-19.md` and Samarina's review (one direction).
 - Main profile = AI automation for small business: n8n / Make / Zapier + AI agents & chatbots (Claude, OpenAI, RAG) + API/webhook integrations (Sheets, Airtable, CRM). Telegram/Slack/email are just alert channels.
 - Websites leave the main profile (later maybe a specialized profile). Lovable/Bolt app fixing = possible second service in ~2 months.
