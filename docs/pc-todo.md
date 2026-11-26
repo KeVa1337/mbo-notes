@@ -39,3 +39,17 @@ Scheduled Upwork checks: main :47, extra :17, fast scans :02 and :32 (see upwork
 3. Скріни на 375 px (iPhone) ДО — потім виправити — скріни ПІСЛЯ. Записати, що саме змінено (3–5 рядків).
 4. Елемент портфоліо: назва «Mobile layout fix: before / after (demo)», 2–4 зображення 1000×750, опис «проблема → що зробив → результат», чесно позначено demo.
 5. Опційно: 15 хв на кожен конструктор (Squarespace, Webflow, Framer, Wix — безкоштовні акаунти): змінити CSS секції й мобільний вигляд. Лише після цього додати їх у скіли.
+
+## 5. Нове відео-візитівка під нішу Website fixes (додано 26.11, «пізніше»)
+За курсом: 40–50 с, Богдан у кадрі, посмішка, охайний одяг, енергійний голос, текст рівня B1–B2, читати з ноутбука по 1–2 речення, потім склеїти.
+Фон: робочий стіл із моніторами (це і є хобі з профілю) — охайно, без зайвого; світло спереду (вікно або лампа за камерою), не спиною до вікна.
+Кадр: камера на рівні очей, плечі й голова, горизонтально 16:9. Звук: тиха кімната, телефон ближче (петличка, якщо є).
+Чернетка тексту (Богдан править своїми словами, потім простий переклад):
+1. Hi, I'm Bogdan, a front-end developer from Lviv, Ukraine.
+2. I fix websites that look good on a laptop but break on a phone.
+3. Menus over the logo, pages that scroll sideways, forms that don't send.
+4. I find the problem, give you a fixed price, and fix it.
+5. You get before and after screenshots, so you see what changed.
+6. I also run my own online store, LUMEX, so I know how much a broken mobile page costs.
+7. Send me your page link and tell me what's wrong. Talk soon!
+Опційно: 2–3 с вставки екрана «до/після» мобільної правки (з демо з п.4).
