@@ -447,3 +447,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 01:18 Kyiv extra check: свіжих website-fix нема; Ample-заявка pending
 - 2026-11-27 01:48 Kyiv main check: свіжих website-fix нема; invites 0. Ample: 130 заявок, клієнт відкрив 1, наша не переглянута
 - 2026-11-27 02:18 Kyiv extra check: свіжих website-fix нема
+- 2026-11-27 02:48 Kyiv main check: свіжих website-fix нема (AU course migration $80 — клієнт 2.56); invites 0
