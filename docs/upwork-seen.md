@@ -463,3 +463,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 16:18 Kyiv extra check: свіжих website-fix нема (KE сайт з нуля $50 — skip); invites 0
 - 2026-11-27 16:48 Kyiv main check: свіжих website-fix нема (за годину нових не було); invites 0
 - 2026-11-27 17:18 Kyiv extra check: свіжих website-fix нема (нових публікацій з 13:15 UTC майже нема); invites 0
+- 2026-11-27 17:48 Kyiv main check: свіжих website-fix нема (NG Webflow nav $10 — конвеєр, вже 10–15 заявок, Webflow не пробував — skip); invites 0
