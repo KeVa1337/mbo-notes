@@ -470,3 +470,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 19:48 Kyiv main check: свіжих website-fix нема (IE тестування web app $50/$100 — не наш напрям, клієнт 4.7; CH Infomaniak WP $5; UK n8n/Vapi); invites 0
 - 2026-11-27 20:18 Kyiv extra check: свіжих website-fix нема (за 40 хв нових публікацій не було); invites 0
 - 2026-11-27 20:48 Kyiv main check: свіжих website-fix нема (TR Telegram-бот курсів валют $20, клієнт 4.82 — поза напрямом, skip); invites 0
+- 2026-11-27 21:18 Kyiv extra check: свіжих website-fix нема (UK QA-тестування web app $50, 5.0/20 — тестування, не правки, skip; SE коректура норв./фін./дан.); invites 0
