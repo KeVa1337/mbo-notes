@@ -477,3 +477,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 23:18 Kyiv extra check: свіжих website-fix нема (за 40 хв нових публікацій не було); invites 0
 - 2026-11-27 23:48 Kyiv main check: свіжих website-fix нема (за годину нових не було); invites 0
 - 2026-11-28 00:18 Kyiv extra check: свіжих website-fix нема (US AI hero-відео для сайтів $30 — відеомонтаж, skip); invites 0
+- 2026-11-28 00:48 Kyiv main check: свіжих website-fix нема (KY maps/SEO $200, TR італ. коректура — поза напрямом); invites 0
