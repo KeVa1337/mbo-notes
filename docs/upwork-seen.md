@@ -454,3 +454,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 11:48 Kyiv main check: свіжих website-fix нема (лише старі $5–10 конвеєрні Squarespace/Framer/Wix); invites 0
 - 2026-11-27 12:18 Kyiv extra check: свіжих website-fix нема (WP AI chatbot DE 4.24 — skip); Figma+Claude Code вже 10–15 заявок; invites 0
 - 2026-11-27 12:48 Kyiv main check: свіжих website-fix нема (n8n/SEO/копірайт); Figma+Claude Code — клієнт уже найняв 1, закрито; invites 0
+- 2026-11-27 13:18 Kyiv extra check: свіжих website-fix нема (нових публікацій за 40 хв лише n8n); invites 0
