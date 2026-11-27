@@ -473,3 +473,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 21:18 Kyiv extra check: свіжих website-fix нема (UK QA-тестування web app $50, 5.0/20 — тестування, не правки, skip; SE коректура норв./фін./дан.); invites 0
 - 2026-11-27 21:48 Kyiv main check: свіжих website-fix нема (за годину нових не було); invites 0
 - 2026-11-27 22:18 Kyiv extra check: свіжих website-fix нема (за 40 хв нових публікацій не було); invites 0
+- 2026-11-27 22:48 Kyiv main check: свіжих website-fix нема (US WP Bricks events/PayPal/PHP $150 — WP+PHP+платежі, великий обсяг, skip); invites 0
