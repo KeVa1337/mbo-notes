@@ -452,3 +452,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 10:48 Kyiv main check: ALERTED — Product Designer & Builder Figma+Claude Code (US agency 5.0/36, 100% hire) $15 fixed, 0 proposals, 11 Connects; invites 0
 - 2026-11-27 11:18 Kyiv extra check: свіжих website-fix нема (Webflow hero $10 US — 4 год, 8 заявок, Webflow — skip); Figma+Claude Code вже 5–10 заявок; invites 0
 - 2026-11-27 11:48 Kyiv main check: свіжих website-fix нема (лише старі $5–10 конвеєрні Squarespace/Framer/Wix); invites 0
+- 2026-11-27 12:18 Kyiv extra check: свіжих website-fix нема (WP AI chatbot DE 4.24 — skip); Figma+Claude Code вже 10–15 заявок; invites 0
