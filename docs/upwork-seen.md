@@ -461,3 +461,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 15:18 Kyiv extra check: свіжих website-fix нема (AU Movement.so landing $50 — новий клієнт без історії, незнайома платформа — skip); invites 0
 - 2026-11-27 15:48 Kyiv main check: свіжих website-fix нема (за годину нових не було; Movement.so вже 9 заявок); invites 0
 - 2026-11-27 16:18 Kyiv extra check: свіжих website-fix нема (KE сайт з нуля $50 — skip); invites 0
+- 2026-11-27 16:48 Kyiv main check: свіжих website-fix нема (за годину нових не було); invites 0
