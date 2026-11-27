@@ -465,3 +465,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-27 17:18 Kyiv extra check: свіжих website-fix нема (нових публікацій з 13:15 UTC майже нема); invites 0
 - 2026-11-27 17:48 Kyiv main check: свіжих website-fix нема (NG Webflow nav $10 — конвеєр, вже 10–15 заявок, Webflow не пробував — skip); invites 0
 - 2026-11-27 18:18 Kyiv extra check: skip — 'Minor Website Improvements and Bug Fixes' $100 (ідеальний збіг за текстом, <5 заявок, 6 хв), але оплата НЕ верифікована, клієнт новий (0 наймів), країна US при часовому поясі Asia/Baghdad, 10 Connects — ризик фейку; invites 0
+- 2026-11-27 18:48 Kyiv main check: свіжих website-fix нема (AU AI SaaS bugfix $30 — full-stack, skip; EG revenue-share 'AI workflow' — схоже на скам); unverified $100 job вже 20–50 заявок; invites 0
