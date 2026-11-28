@@ -482,3 +482,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-28 01:48 Kyiv main check: свіжих website-fix нема (UK 'AI Product Builder/Vibe Coder' $2000 і 'Claude Code dev для e-com' $1500 — full-time MVP, поза напрямом); invites 0
 - 2026-11-28 02:18 Kyiv extra check: свіжих website-fix нема (KE Node.js Deriv-сайт, US AI lead-gen — поза напрямом); invites 0
 - 2026-11-28 02:48 Kyiv main check: свіжих website-fix нема (за годину нових не було); invites 0
+- 2026-11-28 10:18 Kyiv extra check: нічна вакансія US 'Fix Logo & Standardize Navigation' HTML $75 — точно наш напрям, але вже 20–50 заявок (6.5 год), клієнт 1 найм — пропущено вночі; решта n8n/AI/тест; invites 0
