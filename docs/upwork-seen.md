@@ -481,3 +481,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-28 01:18 Kyiv extra check: skip — US Divi+Sendy email-gate PDF $25 (клієнт 4.92/45, 6 заявок; WP/Divi/Sendy Богдан не робив); US paywall+user accounts $30 (full-stack); invites 0
 - 2026-11-28 01:48 Kyiv main check: свіжих website-fix нема (UK 'AI Product Builder/Vibe Coder' $2000 і 'Claude Code dev для e-com' $1500 — full-time MVP, поза напрямом); invites 0
 - 2026-11-28 02:18 Kyiv extra check: свіжих website-fix нема (KE Node.js Deriv-сайт, US AI lead-gen — поза напрямом); invites 0
+- 2026-11-28 02:48 Kyiv main check: свіжих website-fix нема (за годину нових не було); invites 0
