@@ -486,3 +486,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-28 10:48 Kyiv main check: свіжих website-fix нема (ранок суботи, нові лише n8n/AI/тест); заявки без змін (Ample не переглянута); invites 0
 - 2026-11-28 11:18 Kyiv extra check: свіжих website-fix нема (NL integration dev TS/Python — skip); invites 0
 - 2026-11-28 11:48 Kyiv main check: WP header/menu colors $25 (US 4.99, CSS) — skip, вже 17 proposals за 9 хв; Squarespace $20 Nigeria — skip; invites 0
+- 2026-11-28 12:18 Kyiv extra check: свіжих website-fix нема (лише старі Squarespace/Wix $5–10 і n8n/AI); invites 0
