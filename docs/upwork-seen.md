@@ -491,3 +491,4 @@ One line per job: `<job id> | <date> | alerted/declined/applied | <title>`. Skip
 - 2026-11-28 13:18 Kyiv extra check: свіжих website-fix нема (Chromebook tester $5 — skip, потрібен Chrome OS пристрій; Elementor $40 — 20–50 proposals); invites 0
 - 2026-11-28 13:48 Kyiv main check: нових website-fix нема (landing review вимагає Loom-голос — skip; GHL — skip); invites 0
 - 2026-11-28 14:18 Kyiv extra check: нових website-fix нема (лише старі Webflow/SEO); invites 0
+- 2026-11-28 14:48 Kyiv main check: нових website-fix нема (Squarespace review $10 Algeria конвеєр — skip; AI/Python $5 — skip); invites 0
